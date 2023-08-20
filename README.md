@@ -38,7 +38,8 @@ This repository is aimed to be a living, constantly developing resource where ev
 
 <!-- /MarkdownTOC -->
 
-## Other (awesome) lists on this topic
+## Other (awesome) resources on this topic
+- soon to be released: ARIADNE from [IGOR](https://github.com/IGOR-bioDGPs) - a scientific resource collection to navigate the resource jungle.
 - [awesome-phd](https://github.com/alirezasamar/awesome-phd) by [Alireza Samar](https://github.com/alirezasamar).
 - [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) by [Paul Liang](https://github.com/pliang279).
 - [Doctoral Student Cheat Sheet](https://www.prof2prof.com/resource/doctoral-student-cheat-sheet) by [Justin Harty](https://twitter.com/JustinSHarty).
@@ -92,7 +93,7 @@ Sorted alphabetically into sub-categories.
 - [DOWNLOAD SCIENTIFIC PAPERS](https://twitter.com/AStrasser116/status/1576648460194807808?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Many roads lead to you being able to read a scientific paper...check your options in this handy flowchart.
 - [ETYMOLOGY OF THE BRAIN](https://twitter.com/etymology_nerd/status/1515312745125584896?s=20): Want to know how some parts of the brain got their names? Check out this cool image.
 - [fNIRS CHEATSHEET](https://twitter.com/katharina_stute/status/1579119875082985472?t=ljO6m2u8XxfazCZLVhBbsg&s=19): A hitchhiker's guide to fNIRS data analysis for beginners.
-- [GITHUB CHEATSHEET](https://twitter.com/NikkiSiapno/status/1593882400983072769?t=iOvK_Nm0pe4DrpNL9C0njw&s=19): Confised by commit, stage, stash, fetch, etc. on GitHub? Here's the sheet for you.
+- [GITHUB CHEATSHEET](https://twitter.com/NikkiSiapno/status/1593882400983072769?t=iOvK_Nm0pe4DrpNL9C0njw&s=19): Confused by commit, stage, stash, fetch, etc. on GitHub? Here's the sheet for you.
 - [JUPYTER NOTEBOOK CHEATSHEET](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
 - [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
 
