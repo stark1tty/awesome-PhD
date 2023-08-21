@@ -12,6 +12,11 @@ This repository is intended to be a living, constantly developing resource where
     - [Academia](#academia)
     - [Accessibility and Inclusion](#accessibility-and-inclusion)
     - [Books](#books)
+    - [Budgeting](#budgeting)
+        - [Personal](#personal)
+        - [Project](#project)
+        - [Beer Money and Quick Cash](#beer-money-and-quick-cash)
+        - [Money Saving Tips](#money-saving-tips)
     - [Career](#career)
         - [CV and Resume Tools](#cv-and-resume-tools)
         - [Development](#development)
@@ -64,6 +69,7 @@ This repository is intended to be a living, constantly developing resource where
         - [Templates](#templates)
         - [Time Management](#time-management)
     - [Podcasts](#podcasts)
+    - [Project Management](#project-management
     - [Public Outreach and Citizen Science](#public-outreach-and-citizen-science)
     - [Publications and Publishing](#publications-and-publishing)
         - [General](#publications-and-publishing|general)
@@ -91,11 +97,11 @@ This repository is intended to be a living, constantly developing resource where
 
 <!-- /MarkdownTOC -->
 
-## List of resources 
+## List of Resources 
 Sorted alphabetically into sub (and further sub) categories.
 
 ### Academia
-- [ACADEMIC STACK EXCHANGE](https://academia.stackexchange.com/): Q & A for academics and those enrolled in higher education.
+- [ACADEMIC STACK EXCHANGE](https://academia.stackexchange.com/): Q&A for academics and those enrolled in higher education.
 
 ### Accessibility and Inclusion
 - [COLS4ALL](https://github.com/mtennekes/cols4all): An R package "for selecting color palettes. 'Color for all' refers to [the authors'] mission that colors should be usable for not just people with normal color vision, but also for people with color vision deficiency".
@@ -110,6 +116,15 @@ Sorted alphabetically into sub (and further sub) categories.
 - [DETOX YOUR WRITING](https://www.routledge.com/Detox-Your-Writing-Strategies-for-doctoral-researchers/Thomson-Kamler/p/book/9780415820844): Strategies for Doctoral Researchers (2016), Authors: Pat Thomson & Barbara Kamler
 - [PHD: AN UNCOMMON GUIDE](https://phd.academy/the-book): PhD - An uncommon guide to research, writing & PhD life (2015), Author: James Hayton
 
+### Budgeting
+
+#### Personal
+- [COST OF LIVING CALCULATOR](https://www.numbeo.com/cost-of-living/): Handy tool to compare the COL in two places using crowed sourced data.
+
+#### Project
+#### Beer Money and Quick Cash
+#### Money Saving Tips
+
 ### Career
 
 #### CV and Resume Tools
@@ -122,6 +137,7 @@ Sorted alphabetically into sub (and further sub) categories.
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 
 #### Transitioning Out of Academia
+- [HOW TO BE A CONSULTANT, A FREELANCER, OR INDEPENDENT CONTRACTOR](https://jacquesmattheij.com/be-consultant/): This is a series of pages that guide you through the creation and operation of a successful consulting business. 
 
 ### Conferences 
 - [TALK INVITATIONS](https://www.chjh.nl/what-to-do-with-that-invitation/): Have you been invited to speak somewhere? Here are some questions you might (and should) ask beforehand.
@@ -138,8 +154,10 @@ Sorted alphabetically into sub (and further sub) categories.
 - [WIKIDATA](https://www.wikidata.org/wiki/Wikidata:Main_Page): Wikidata acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others.
 
 #### Cleaning
+- [50 USEFUL ADD-ONS FOR EXCEL](https://www.goskills.com/Excel/Resources/Best-Excel-add-ins): List includes tools for Productivity, Visuals, Charts, Study, Finances, Marketing, Data Analysis, and Miscellaneous.
+- [ABLEBITS FOR EXCEL](https://www.ablebits.com/): The toolset includes 70+ professional tools with 300+ options and use cases for you to accomplish any task in Excel quickly and flawlessly. Complements Kutools.
 - [DATAPASTA](https://github.com/MilesMcBain/datapasta): This R package is "about reducing resistance associated with copying and pasting data to and from R". Copy data from Excel and paste it into R as a data frame or Tibble.
-- [KUTOOLS FOR EXCEL](https://www.extendoffice.com/product/kutools-for-excel.html): Whether you're a beginner or an expert in Excel, Kutools offers more than 300 advanced features to streamline your work. It empowers you to make the most of Excel's capabilities by simplifying complex tasks and automating repetitive operations, make your work more efficient and productive.
+- [KUTOOLS FOR EXCEL](https://www.extendoffice.com/product/kutools-for-excel.html): Whether you're a beginner or an expert in Excel, Kutools offers more than 300 advanced features to streamline your work. It empowers you to make the most of Excel's capabilities by simplifying complex tasks and automating repetitive operations, make your work more efficient and productive. Complements Ablebits.
 
 #### Management and Version Control
 - [DIFFCHECKER](https://www.diffchecker.com/): To compare two files (text/image/PDF/excel) to find the difference between them.
@@ -210,6 +228,7 @@ Sorted alphabetically into sub (and further sub) categories.
 - [BIG BOOK OF R](https://www.bigbookofr.com/): A massive collection of R resources for both learning and applying concepts.
 
 #### Misc Useful Programming Libraries
+- [SCIKIT-IMAGE](https://scikit-image.org/): A collection of algorithms for image processing in Python.
 - [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
 
 #### Task Automation
@@ -220,7 +239,8 @@ Sorted alphabetically into sub (and further sub) categories.
 #### Tools and Utilities
 - [AWESOME SELFHOSTED](https://github.com/awesome-selfhosted/): An extensive and beloved Awesome List for free and open-sourced applications from various categories, many of which offer (sometimes paid) cloud hosting. You can find free alternatives to many paid apps on this list.
 - [EVERYTHING](https://www.voidtools.com/): Lightweight app for Windows that locates files and folders by name instantly.
-- [F.LUX](https://justgetflux.com/): A desktop app that makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. Includes a large number of customisation settings. Helps with eye strain and sleep.
+- [F.LUX](https://justgetflux.com/): A desktop app that makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. Includes a large number of customization settings and additional filters. Helps with eye strain and sleep.
+- [FREEFILESYNC](https://freefilesync.org/): FreeFileSync is a folder comparison and synchronization software that creates and manages backup copies of all your important files. Instead of copying every file every time, FreeFileSync determines the differences between a source and a target folder and transfers only the minimum amount of data needed. FreeFileSync is Open Source software, available for Windows, macOS, and Linux.
 - [PANDOC](https://pandoc.org/): Format converter for many types of documents.
 
 ### Grants and Funding
@@ -240,12 +260,19 @@ Sorted alphabetically into sub (and further sub) categories.
 
 ### Laboratory Tools
 
-#### Lab Setup
+#### Electronics
 - [ELECTRONICS BENCH LAB SETUP GUIDE](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/): A detailed guide for setting up a lab for building with basic electronics.
 
+#### Imaging Tools
+- [3D PRINTABLE PORTABLE SEDIMENT CORE SCANNER](http://polproducts.rits-palaeo.com/): 'Biwako ver.2' portable core image scanner. See page for more information.
+
 #### Microscopy
-- [PIAUTOSTAGE](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009693): Open sourced 3D printable slide scanner. 
+- [PIAUTOSTAGE](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009693): Open sourced 3D printable slide scanner.
+- [POLYCOUNTER](https://polsystems.rits-palaeo.com/): A useful program to make use of your keyboard as a set of 135 custom counters for data collection.
 - [OPENFLEXURE](https://openflexure.org/): Inexpensive 3D printable, high precision microscope.
+
+### Wet Lab Tools
+- [3D PRINTABLE HAND CRANKED CENTERFUGE](http://polproducts.rits-palaeo.com/): Possibly a "handy" tool if resources are inadequate.
 
 ### Literature 
 
@@ -368,6 +395,8 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [TEMPLATES FOR META ANALYSIS](https://psycnet.apa.org/record/2020-66880-001): A primer and tutorial paper on "Conducting a meta-analysis in the age of open science: Tools, tips, and practical recommendations", including nine templates free for use, from preregistration to code to data.
 - [PREREGISTRATION TEMPLATES](https://osf.io/zg78t): A list of available preregistration templates.
 
+### Project Management
+
 ### Podcasts
 - [ACROSS THE AGES](https://anchor.fm/acrosstheages): An English podcast delving "into the history of a chosen subject, spanning from way back when, all the way up to some time ago".
 - [BRAINFLICKS](https://brainflicks.podigee.io/): A German podcast about psychology in movies.
@@ -390,6 +419,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 
 #### General
 - [ORCID](https://orcid.org/): Get an ORCID - an "Open Researcher and Contributor ID" which is a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. Link your projects and output to your ORCID.
+- [WRITING AND PUBLISHING A RESEARCH PAPER AT NO COST](https://zaitoonx.com/2023/03/01/writing-and-publishing-a-research-paper-at-no-cost-a-list-of-resources/): A list of resources. "In this article, I will be sharing my personal process of writing an article from start to finish using only free resources. This will include the tools I use to find relevant research articles, manage my references, write and format my paper, check my grammar and readability, and submit my paper for publication. I want to make this article as practical and hands-on as possible, so that readers can see how I apply these free resources in a real-world scenario."
 
 #### Advice
 - [EDITOR](https://twitter.com/DrBreaky/status/1273842646377566214?s=20): Have a look at this Twitter thread by [Michael Breakspear](https://twitter.com/DrBreaky) on his experience as a scientific editor.
@@ -437,8 +467,11 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [COLOR CONVERTER](https://www.farb-tabelle.de/en/rgb2hex.htm?q=gray20): If you need to find out the code for a certain color, check this handy converter.
 - [COLOR PICKER](https://imagecolorpicker.com/): Upload an image and pick the hex code of any color in the image.
 
-#### Design
+#### Data Viz Software
+- [MAKE YOUR OWN SCATTERPLOT](https://drawdata.xyz/): This handy tool allows you to draw in scatterplot points and download a CSV file with the coordinates.
+- [MICROSOFT POWER BI](https://powerbi.microsoft.com/): Microsoft Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
 
+#### Design
 
 #### Diagrams
 - [BIOICONS](https://bioicons.com/): A free alternative to BioRender.
@@ -447,35 +480,38 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 #### Fonts
 - [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free): Font Awesome has loads of free icons to choose from to use in presentations, posters, etc.
 - [GOOGLE FONTS](https://fonts.google.com/): A large library of fonts with a limited search engine, for use on and offline.
+- [NERD FONTS](https://github.com/ryanoasis/nerd-fonts): Nerd Fonts is a project that patches developer targeted fonts with a high number of glyphs (icons). Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as Font Awesome, Devicons, Octicons, and others.
+
+#### Gantt Charts
+- [GANTTRIFY](https://github.com/giocomai/ganttrify): Check out this handy tool to create Gantt charts in R.
 
 #### Graphical Editors
 
 #### Maps
 - [GOOGLE EARTH STORY MAPS](https://newsinitiative.withgoogle.com/en-gb/resources/trainings/storytelling-with-google-earth/google-earth-creation-tools-tell-your-story-across-the-world/): How to use Google Earth to create compelling stories for online digital presentations.
+- [MAPBOX](https://www.mapbox.com/): A comprehensive mapping suite geared towards non-specialists in need of displaying geospatial information. Allows for embedding.
+- [PRETTYMAPS](https://github.com/marceloprates/prettymaps): A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 
 #### Presentations
 - [CANVA](https://www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
 - [COLOR ORACLE](https://colororacle.org/index.html): A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
+- [MIRO](https://miro.com/): You can use Miro for creating visual presentations of anything, and most of all, for collaboration with others! The possibilities are endless.
 
+#### R
+- [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
+- [R GRAPH GALLERY](https://r-graph-gallery.com/): A collection of charts made with the R programming language.
+
+##### ggplot
+- [GGHELP](https://rdrr.io/github/brandmaier/ggx/man/gghelp.html): An R package that "converts a natural language query into a 'ggplot2' command string". 
+- [GGPLOT TRICKS](https://twitter.com/data_question/status/1496130684729303045?s=20): Some tricks from the R people to level up your ggplot game.
+  
 #### Stock Imagery
 - [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
-
+- [ICON BUDDY](https://iconbuddy.app/): Download, Customize, Edit and Personalize. Over 180k+ open-source icons.
+- [PHYLOPIC](phylopic.org): An open database of freely usable silhouettes of life forms.
 
 #### Tools for the Artistically Challenged
 - [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
-
-
-
-- [FSBRAIN](https://cran.r-project.org/web/packages/fsbrain/vignettes/fsbrain.html): This R package "helps visualize surface-based brain structure data for large groups of subjects with very little code" and "also supports the computation of simple brain morphometry measures".
-- [GANTTRIFY](https://github.com/giocomai/ganttrify): Check out this handy tool to create Gantt charts in R.
-- [GGHELP](https://rdrr.io/github/brandmaier/ggx/man/gghelp.html): An R package that "converts a natural language query into a 'ggplot2' command string". 
-- [GGPLOT TRICKS](https://twitter.com/data_question/status/1496130684729303045?s=20): Some tricks from the R people to level up your ggplot game.
-- [MIRO](https://miro.com/): You can use Miro for creating visual presentations of anything, and most of all, for collaboration with others! The possibilities are endless.
-- [PHYLOPIC](phylopic.org): An open database of freely usable silhouettes of life forms.
-- [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
-- [MAKE YOUR OWN SCATTERPLOT](https://drawdata.xyz/): This handy tool allows you to draw in scatterplot points and download a CSV file with the coordinates.
-- [MICROSOFT POWER BI](https://powerbi.microsoft.com/): Microsoft Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
-- [R GRAPH GALLERY](https://r-graph-gallery.com/): A collection of charts made with the R programming language.
 
 ### Websites and Web Presence
 
@@ -483,6 +519,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [ADVANTAGES TO HAVING A PERSONAL WEBSITE OR BLOG](https://news.ycombinator.com/item?id=35164819): A long anecdotal thread of opportunities that having a personal website has brought people.
 - [NAME ALERTS](https://namealerts.io/): Domain name monitor that provides alerts when user specified domains become available.
 - [NOODL](https://www.noodl.net/): Open source low code app for building web and cell phone apps.
+- [UIVERSE](https://uiverse.io/): Open-Source UI elements for any project.
 - [WOWCHEMY WEBSITE](https://twitter.com/dsquintana/status/1310715433654382599?s=20): If you want to create your own website, but have no clue where to start, check out [Daniel Quintana](https://twitter.com/dsquintana)'s extremely easy tutorial! Also, look at [my website](https://helenahartmann.com/) for an example.
 
 #### Social Networking
@@ -533,9 +570,14 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [DICOMTAGS](https://exiftool.org/TagNames/DICOM.html): Do you want to know where specific information is saved in the DICOM file of your imaging data. Check out DICOM Tags.
 - [EDUCORTEX](https://paulscotti.github.io/educortex/): This handy educational, browser-based visualization tool allows you to enter any functional or anatomical term and visualize the parts of the brain that are most associated with that term. Check the [GitHub repository](https://github.com/PaulScotti/educortex) or corresponding [paper](https://jose.theoj.org/papers/10.21105/jose.00075).
 - [FMRI COURSE](https://ucl.podia.com/designing-and-analysing-fmri-experiments): Learn how to design and analyze fMRI experiments in this free course.
+- [FSBRAIN](https://cran.r-project.org/web/packages/fsbrain/vignettes/fsbrain.html): This R package "helps visualize surface-based brain structure data for large groups of subjects with very little code" and "also supports the computation of simple brain morphometry measures".
 - [LIST OF NEUROSCIENCE DATABASES](https://en.wikipedia.org/wiki/List_of_neuroscience_databases): A comprehensive Wikipedia list of Neuroscience databases.
 - [NEUROQUERY](https://neuroquery.org/): NeuroQuery is a tool for meta-analysis of neuroimaging studies, relating text queries to activations as well as associations between terms used together in neuroimaging publications. More info in the corresponding [paper](https://elifesciences.org/articles/53385). 
 - [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
+
+### Palaeoecology
+- [A COLLECTION OF USEFUL LABORATORY TOOLS](http://polproducts.rits-palaeo.com/): Research Tools developed by Takeshi Nakagawa.
+- [A COLLECTION OF USEFUL SOFTWARE](https://polsystems.rits-palaeo.com/): The programs on this page are all spin-offs from Suigetsu Varves 2006 project. They are initially developed for our internal use but also suitable for public use. All programs employ very user-friendly interface and run on Microsoft Windows (XP-SP3 or later) on IBM PC compatibles. (Polygon and PolyCounter have experimental Macintosh versions, too).
 
 ### Psychology
 - [SEMANTIC SCALE NETWORK](https://rosenbusch.shinyapps.io/semantic_net/): If you want to create a new scale but are not sure whether it exists already, check the Semantic Scale Network to detect semantically related (psychological) scales. You can also add your own scales in there to extend the database.
