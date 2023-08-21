@@ -34,7 +34,7 @@ This repository is intended to be a living, constantly developing resource where
         - [Reproducibility](#reproducibility)
         - [Surveys](#surveys)
         - [Useful Programming Libraries](#useful-programming-libraries)
-    - [Fun](#fun) (It's important too, we promise!)
+    - [Fun](#fun) 
     - [General Computing](#general-computing)
         - [Developer Tools](#developer-tools)
         - [Keyboard Shortcuts](#keyboard-shortcuts)
@@ -69,7 +69,7 @@ This repository is intended to be a living, constantly developing resource where
         - [Templates](#templates)
         - [Time Management](#time-management)
     - [Podcasts](#podcasts)
-    - [Project Management](#project-management
+    - [Project Management](#project-management)
     - [Public Outreach and Citizen Science](#public-outreach-and-citizen-science)
     - [Publications and Publishing](#publications-and-publishing)
         - [General](#publications-and-publishing|general)
@@ -92,7 +92,7 @@ This repository is intended to be a living, constantly developing resource where
     - [Neuroscience](#neuroscience)
     - [Stimuli](#stimuli)
     - [Psychophysiology](#psychophysiology)
-- [Other (awesome) lists on this topic](#other-awesome-lists-on-this-topic)
+- [Other (Awesome) Lists on this topic](#other-awesome-lists-on-this-topic)
 - [Special thanks for contributions to this list](#special-thanks-for-contributions-to-this-list)
 
 <!-- /MarkdownTOC -->
