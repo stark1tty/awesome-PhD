@@ -129,7 +129,7 @@ Sorted alphabetically into sub (and further sub) categories.
 - [HOW TO SOLVE IT](https://www.math.utah.edu/~alfeld/math/polya.html): Summary taken from G. Polya, "How to Solve It", 2nd ed., Princeton University Press, 1957, ISBN 0-691-08097-6.
 - [IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
 - [SCIENTIFIC KNOWLEDGE IS DROWNING IN A FLOOD OF RESEARCH](https://massivesci.com/articles/chaos-in-the-brickyard-comic-matteo-farinella/): A comic about the problems with the -omics, illustrated by Matteo Farinella
-- [SUPPOSE I WANT TO KILL A LOT OF PILOTS](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure): An easy to digest read about [anticipatory failure determination](https://www.npd-solutions.com/afd.html).
+- [SUPPOSE I WANT TO KILL A LOT OF PILOTS](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure): An easy to digest read about [anticipatory failure determination](https://www.npd-solutions.com/afd.html). Rather than asking to look for a cause of a failure, it reverses the problem by asking to view the failure of interest as the intended consequence and try to devise ways to assure that the failure always happens reliably.
 - [WE NEED TO TALK ABOUT READING](https://thesiswhisperer.com/2018/05/23/we-need-to-talk-about-reading/): Academics, under pressure to conform to performance metrics, have produced more and more reading material. All this busy writing has resulted in the creation of a reading mountain, so large it is a sincere threat to our ability to do our jobs. Related: [The Active Skim: Efficient Reading as a Moral Challenge in Postgraduate Education](https://journals.sagepub.com/doi/abs/10.1177/0092055X17697770)
 
 ### Accessibility and Inclusion
@@ -149,6 +149,9 @@ Sorted alphabetically into sub (and further sub) categories.
 #### Tools for Disabilities
 - [COLS4ALL](https://github.com/mtennekes/cols4all): An R package "for selecting color palettes. 'Color for all' refers to [the authors'] mission that colors should be usable for not just people with normal color vision, but also for people with color vision deficiency".
 - [ECOUTE](https://github.com/SevaSk/ecoute): Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation. Good for prompting those with social anxiety, hearing issues and other disabilities.
+
+#### Translators
+- [DeepL](https://www.deepl.com/en/translator): Translator that outperforms Google Translator, albeit more limited language selection.
   
 ### Blogs
 - [REASEARCHBUZZ](https://researchbuzz.me/): News and resources about search engines, databases, social media, and more.
@@ -214,7 +217,9 @@ Sorted alphabetically into sub (and further sub) categories.
 - [THE GOOD RESEARCH HANDBOOK](https://goodresearch.dev/index.html): Organize your code so that it is easy to understand and works reliably.
   
 #### Scraping
+- [APIFY](https://apify.com/): Build, deploy, and monitor web scraping and browser automation tools. 
 - [POLITE](https://ivelasq.rbind.io/blog/politely-scraping/index.html): R package for scraping Wikipedia tables.
+- [SENSIBLE](https://www.sensible.so/): Describe the data you want extracted from any document – structured or unstructured.
 - [WEB PLOT DIGITIZER](https://automeris.io/WebPlotDigitizer/): Helps you to reverse engineer data from visualizations by extracting the underlying numerical values.
 
 ### Events
@@ -330,7 +335,8 @@ Sorted alphabetically into sub (and further sub) categories.
 ### Infographics and Cheatsheets
 - [CHOOSE YOUR PLOT](https://www.linkedin.com/posts/opensourcecommunity_data-datastorytelling-datascience-activity-6879744977417592832-9y4J): No idea how to best plot your data? Have a look at this image.
 - [DOWNLOAD SCIENTIFIC PAPERS](https://twitter.com/AStrasser116/status/1576648460194807808?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Many roads lead to you being able to read a scientific paper...check your options in this handy flowchart.
-- [LATEX CHEETSHEET](https://wch.github.io/latexsheet/): This is a latex reference sheet which is geared toward writing scientific papers. 
+- [LATEX CHEETSHEET](https://wch.github.io/latexsheet/): This is a latex reference sheet which is geared toward writing scientific papers.
+- [LOGICAL FALLACIES](https://yourlogicalfallacyis.com/pdf/LogicalFallaciesInfographic_A1.pdf): An infographic of all major logical falacies.
 - [fNIRS CHEATSHEET](https://twitter.com/katharina_stute/status/1579119875082985472?t=ljO6m2u8XxfazCZLVhBbsg&s=19): A hitchhiker's guide to fNIRS data analysis for beginners.
 - [GITHUB CHEATSHEET](https://twitter.com/NikkiSiapno/status/1593882400983072769?t=iOvK_Nm0pe4DrpNL9C0njw&s=19): Confused by commit, stage, stash, fetch, etc. on GitHub? Here's the sheet for you.
 - [JUPYTER NOTEBOOK CHEATSHEET](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
@@ -374,8 +380,10 @@ Sorted alphabetically into sub (and further sub) categories.
 - [ARTICLE SUMMARIZER](https://summary.arguflow.gg/): A simple webapp for summarising academic papers.
 - [CERELYZE](https://www.cerelyze.com/): Turn technical research papers into useable code. Gain a comprehensive understanding of research papers by engaging in meaningful conversations with the papers. Ask questions, seek clarifications, and explore different angles to develop a holistic perspective.
 - [EXPLAINPAPER](https://www.explainpaper.com/): Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read.
+- [HUMATA](https://www.humata.ai/): Use ChatGPT with any document.
 - [OPENREAD](https://www.openread.academy/home): AI-powered interactive papers with some additonal research tools.
 - [PAPERBRAIN](https://www.paperbrain.study/): A simple UI for chatting with a research paper.
+- [RESEARCHAIDE](https://www.researchaide.org/): Chat with multiple PDF files.
 - [SCHOLARCY](https://www.scholarcy.com/): AI literature summarising tool. Works with both online and offline resources.
 - [SCISPACE](https://typeset.io/): SciSpace is an incredible (AI-powered) search tool to help you understand research papers better. It can explain and elaborate most academic texts in simple words.
 - [SCISUMMARY](https://scisummary.com/login): SciSummary (Short for Science Summary) was founded in 2023 to make digestion of scientific articles easier. Using modern AI technology it summarizes articles, allowing you to understand them without having to read the full text.
@@ -436,10 +444,12 @@ See [Academic Literature](#academic-literature) for academic search engines.
 - [KEEPING CURRENT WITH RSS](https://libguides.asu.edu/keepcurrent/KeepCurrentRSSFeeds): ASU library guide to keeping current with academic articles using RSS, with specific instructions for major publishers.
 - [RESEARCHER APP](https://www.researcher-app.com/): With over 19,000 sources, including peer-reviewed journals, preprints, blogs, universities, podcasts and Live events across 10 research areas, you'll never miss what's important to you.
 - [RSSHUB](https://github.com/DIYgod/RSSHub): RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
+- [RSS COMPARISON CHART](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators): Wikipedia has a comparison chart that shows many available options for RSS applicaitons.
 - [RSS FOR POST-TWITTER NEWS AND WEB MONITORING](https://researchbuzz.me/2023/07/06/rss-2/): RSS guide for researcher by ResearchBuzz.
 - [RSS GIZMOS](https://rssgizmos.com/): RSS feeds are a vital part of keeping up with news and current events. They provide a consolidated view of content from various websites, allowing you to stay updated without visiting individual sites. Further, you can aggregate all kinds of data, whether it be from news, podcasts, or even archive collections. RSS feeds give you the power to set up and control your own information flow -- you get to make your own algorithm for the things you want to see from the sources you want to follow. RSS Gizmos offers tools to create, find, and use RSS feeds better.
 - [PUBLONS](https://publons.com/about/home/): Use Publons to keep up with all your peer-reviews and publications - it can also be linked to your [ORCID](https://orcid.org/).
-- [RSS COMPARISON CHART](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators): Wikipedia has a comparison chart that shows many available options for RSS applicaitons.
+- [SCIENCE-JOURNAL-FEEDS](https://github.com/sg-s/science-journal-feeds): The biggest publicly available list of RSS feeds from scientific/academic journals.
+- [STORK](https://www.storkapp.me/): Paper alerts via email per keyword.
 
 #### Reading Guides
 - [ART OF READING A JOURNAL ARTICLE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3687192/):
@@ -449,10 +459,11 @@ See [Academic Literature](#academic-literature) for academic search engines.
 #### Reading Queues
 - [Omnivore](https://omnivore.app/): Omnivore is the free, open source, read-it-later app for serious readers. Distraction free. Privacy focused. Open source. Designed for knowledge workers and lifelong learners.
 
-#### Reference Tracking
+#### Referencea and Reference Tracking
 - [BIBTEX](http://www.bibtex.org/): Bibliography & reference generator that works quite well with Rmd/Papaja.
 - [CITING R PACKAGES](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html#add-all-items-to-the-bibliography): [Here](https://twitter.com/ed_hagen/status/1379919849686589447?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) and [here](https://twitter.com/ElenLeFoll/status/1501567477427458055?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) are some handy tutorials on how to cite all your used R packages in an RMarkdown document at once. If you want to generate R package citations, look [here](https://bookdown.org/yihui/rmarkdown-cookbook/write-bib.html).
 - [GRATEFUL](https://github.com/Pakillo/grateful): Use the grateful package in R to automatically create a reference list for all your used R packages.
+- [JENNI](https://jenni.ai/): AI reference suggestor. 
 - [LITERATURE EXCEL SHEET](https://twitter.com/SteMcQuilliam/status/1252241904810557448?s=20): No literature review will ever be the same again, if you use this tutorial to organize all your literature in Excel.
 - [LITERATURE TRACKER](https://scribehow.com/shared/How_to_create_a_literature_tracker_in_Airtable__Fo0LgLIfR76M3BcazOR9-g?utm_campaign=thoughtsofaphd&utm_source=twitter&utm_medium=organic): Have a look at this useful tutorial to keep your literature organized.
 - [RECITEWORKS](https://reciteworks.com/): To check your in-text citations and reference lists for errors, use Reciteworks.
@@ -578,8 +589,9 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 
 ### Research and Knowledge Management Tools
 
-#### Analysis Tools
-- [INFRANODUS](https://infranodus.com/): Text network analysis with a nice UI for all kinds of inputs.
+#### Analysis and Research Tools
+- [EXPONTUM](https://www.expontum.com/): Find knowledge gaps and search what has been done before.
+- [INFRANODUS](https://infranodus.com/): Text network analysis with a nice UI for all kinds of inputs. Good for finding research gaps.
 - [KHOJ](https://github.com/khoj-ai/khoj): An AI personal assistant that queries your markdown files, Gitbub repos, PDFs, Notion files and more. It runs both online using the OpenAI API and offline using LLaMa.
 - [MIRRORTHINK](https://mirrorthink.ai/): GPT4 interface tailored for academics, integrating with sites such as Wolfram Alpha and Pubmed.
 
@@ -594,6 +606,9 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [ROCKETBOOKS](https://getrocketbook.co.uk/): Physical resuable notebooks with quick OCR capabilities for digitisation and text extraction.
 - [VISUAL GUIDE TO TAKING GOOD NOTES](attachments/how-to-take-good-notes.png): *Author unknown, please edit with a source if known.*
 - [ZETTLR](https://www.zettlr.com/): Another markdown editor made for resarchers by reasearchers. Guidance for academics can be found [here](https://docs.zettlr.com/en/academic/citations/).
+
+#### Mind Mapping Tools
+- [KNOWLEDGE](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 
 ### Search Engines
 
@@ -734,9 +749,12 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 
 #### Editing Tools
 - [ACADEMIZER](https://x.writefull.com/academizer): Writefull's Academizer makes your informal sentence appropriate for an academic text.
-- [ANGRY REVIEWER](https://www.angryreviewer.com/): Free academic style corrector for modern scientific writing. 
-- [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
+- [ANGRY REVIEWER](https://www.angryreviewer.com/): Free academic style corrector for modern scientific writing.
+- [CHAT WITH OPEN LARGE LANGUAGE MODELS](https://chat.lmsys.org/): Web interface to chat with various large language models to help you write.
+- [GRAMMARLY](https://app.grammarly.com/): Well known grammar checker tool, featuring a paraphraser and plagarism checker.
 - [LIST OF ACRONYMS MAKER](https://listofacronyms.com/): Don't waste time collating a list or table of abbreviations manually. This tool does it for you.
+- [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
+- [UNDETECTABLE](https://undetectable.ai/): Parapraser tailored for high level language.
 
 #### Formatting
 - [THE EXECUTABLE BOOKS PROJECT](https://executablebooks.org/en/latest/): The Executable Books Project is an international collaboration to build open-source tools that facilitate publishing computational narratives using the Jupyter ecosystem.
