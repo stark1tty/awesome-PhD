@@ -119,6 +119,7 @@ Sorted alphabetically into sub (and further sub) categories.
 
 #### Concepts
 - [H-INDEX](https://www.pnas.org/doi/10.1073/pnas.0507655102): Today, an academic career strongly depends on the peer-reviewed publication productivity and its impact. Both are meant to be reflected in one single number: the h-index. This is how it was proposed and how it works.
+- [HOW TO SOLVE IT](https://www.math.utah.edu/~alfeld/math/polya.html): Summary taken from G. Polya, "How to Solve It", 2nd ed., Princeton University Press, 1957, ISBN 0-691-08097-6.
 - [IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
 
 ### Accessibility and Inclusion
