@@ -259,6 +259,7 @@ Sorted alphabetically into sub (and further sub) categories.
 
 ##### General
 - [AWESOME CERTIFICATES](https://github.com/PanXProject/awesome-certificates): A list of online courses and certifications which can add some shiny badges to your CV.
+- [LEETCODE](https://leetcode.com/): A popular platform for learning to code by examples. A boost for your CV as well.
 
 ##### LaTeX
 - [LEARN LATEX IN 30 MINUTES](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes): A crash course on LaTeX syntax, which is a typesetting professional-looking documents.
