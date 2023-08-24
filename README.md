@@ -120,12 +120,8 @@ Sorted alphabetically into sub (and further sub) categories.
 - [ACADEMIC STACK EXCHANGE](https://academia.stackexchange.com/): Q&A for academics and those enrolled in higher education.
   
 #### Concepts
+- [DIMENSIONALITY REDUCTION](https://en.wikipedia.org/wiki/Dimensionality_reduction): The transformation of data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data so that you may test it.
 - [H-INDEX](https://www.pnas.org/doi/10.1073/pnas.0507655102): Today, an academic career strongly depends on the peer-reviewed publication productivity and its impact. Both are meant to be reflected in one single number: the h-index. This is how it was proposed and how it works.
-
-### Accessibility and Inclusion
-
-#### Guides
-- [EQUITY COMPASS](https://www.futurelearn.com/courses/equity-informal-stem-learning-using-the-equity-compass): A great free online course called "Equity in Informal STEM Learning: Using the Equity Compass" on how to be more inclusive.
 
 #### Good Reads
 - [ACADEMIC ASSHOLES AND THE CIRCLE OF NICENESS](https://thesiswhisperer.com/2013/02/13/academic-assholes/): Displaying cleverness during PhD seminars and during talks at conferences is a way academics show off their scholarly prowess to each other, sometimes at the expense of the student. Cleverness is a form of currency in academia; or ‘cultural capital’ if you like.
@@ -133,7 +129,16 @@ Sorted alphabetically into sub (and further sub) categories.
 - [HOW TO SOLVE IT](https://www.math.utah.edu/~alfeld/math/polya.html): Summary taken from G. Polya, "How to Solve It", 2nd ed., Princeton University Press, 1957, ISBN 0-691-08097-6.
 - [IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
 - [SCIENTIFIC KNOWLEDGE IS DROWNING IN A FLOOD OF RESEARCH](https://massivesci.com/articles/chaos-in-the-brickyard-comic-matteo-farinella/): A comic about the problems with the -omics, illustrated by Matteo Farinella
+- [SUPPOSE I WANT TO KILL A LOT OF PILOTS](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure): An easy to digest read about [anticipatory failure determination](https://www.npd-solutions.com/afd.html).
 - [WE NEED TO TALK ABOUT READING](https://thesiswhisperer.com/2018/05/23/we-need-to-talk-about-reading/): Academics, under pressure to conform to performance metrics, have produced more and more reading material. All this busy writing has resulted in the creation of a reading mountain, so large it is a sincere threat to our ability to do our jobs. Related: [The Active Skim: Efficient Reading as a Moral Challenge in Postgraduate Education](https://journals.sagepub.com/doi/abs/10.1177/0092055X17697770)
+
+### Accessibility and Inclusion
+
+#### Guides
+- [EQUITY COMPASS](https://www.futurelearn.com/courses/equity-informal-stem-learning-using-the-equity-compass): A great free online course called "Equity in Informal STEM Learning: Using the Equity Compass" on how to be more inclusive.
+
+#### Global South
+- [CONFERENCE ORGANISING TIPS](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/): Tips for conference organisers for inclusivity for the Global South.
 
 #### Learning Disabilities
 - [HOW TO UNF*CK YOUR LIFE WHEN YOU HAVE ADHD](https://docs.google.com/document/d/11-MQhgwwFIW5JGvQqmNtE1zDabNF_IBsPE-5_odw_I8/edit): A resource guide tailored to university students with ADHD.
@@ -144,7 +149,6 @@ Sorted alphabetically into sub (and further sub) categories.
 #### Tools for Disabilities
 - [COLS4ALL](https://github.com/mtennekes/cols4all): An R package "for selecting color palettes. 'Color for all' refers to [the authors'] mission that colors should be usable for not just people with normal color vision, but also for people with color vision deficiency".
 - [ECOUTE](https://github.com/SevaSk/ecoute): Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation. Good for prompting those with social anxiety, hearing issues and other disabilities.
-
   
 ### Blogs
 - [REASEARCHBUZZ](https://researchbuzz.me/): News and resources about search engines, databases, social media, and more.
@@ -244,6 +248,9 @@ Sorted alphabetically into sub (and further sub) categories.
 - [XKCD](https://phdcomics.com/): A wildly popular, mostly science based comic series aes with a massive cult following. See also: [EXPLAIN XKCD](https://www.explainxkcd.com/wiki/index.php/Main_Page).
 
 ### Computing and Coding
+
+#### Backup Your Data
+- [3-2-1 Method for Backing Up Data](https://www.techradar.com/features/3-2-1-backup-strategy-what-is-it): Having a Plan A, Plan B and Plan C when it comes to storage.
 
 #### Developer Tools
 - [DOCKER](https://www.docker.com/): A useful application for creating and maintaing containers for programs. Widely used across GitHub by researchers and normies alike.
@@ -439,6 +446,9 @@ See [Academic Literature](#academic-literature) for academic search engines.
 - [NON-SCIENTIFIC GUIDE TO READING AND UNDERSTANDING ACADEMIC JOURNALS](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/): A great little guide for both a meta overview on how to approach articles, especially outside of your area of expertise, if you are rusty or if you are trying to communicate how to read journals to the public.
 - [POINT OF VIEW: BEWARE PERSUASIVE COMMUNICATION DEVICES](https://elifesciences.org/articles/88654): A journal warnning of a common pitfall called ‘persuasive communication devices’ when writing and reading scientific articles.
 
+#### Reading Queues
+- [Omnivore](https://omnivore.app/): Omnivore is the free, open source, read-it-later app for serious readers. Distraction free. Privacy focused. Open source. Designed for knowledge workers and lifelong learners.
+
 #### Reference Tracking
 - [BIBTEX](http://www.bibtex.org/): Bibliography & reference generator that works quite well with Rmd/Papaja.
 - [CITING R PACKAGES](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html#add-all-items-to-the-bibliography): [Here](https://twitter.com/ed_hagen/status/1379919849686589447?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) and [here](https://twitter.com/ElenLeFoll/status/1501567477427458055?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) are some handy tutorials on how to cite all your used R packages in an RMarkdown document at once. If you want to generate R package citations, look [here](https://bookdown.org/yihui/rmarkdown-cookbook/write-bib.html).
@@ -494,18 +504,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 
 #### Time Management
 - [POMODORO](https://pomofocus.io/): An online timer for the Pomodoro method. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.
-- [TOGGL](https://toggl.com/): A handy little app that you can use to track your work hours on a project-by-project basis. It is as complex as you make it. It offers some useful metrics and alerts to make sure that your mind has not wandered off task.
-
-#### Note Taking
-- [BRAINVERSE](https://github.com/ReproNim/brainverse): A neat, open-source, cross-platform tool for notetaking, experiment planning and a lab notebook tool.
-- [EMACS](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor with a hardcore fanbase.
-- [HEDGEHOG](https://github.com/hedgedoc/hedgedoc): Self-hosted, real-time collaborative markdown notebook.
-- [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your (PhD) note-taking mess in one place. If you want to save Tweets and Threads automatically to Notion, use [this](https://twitter.com/SaveToNotion/status/1462012037568073728?s=20&t=KLSbjBQ3HEL1LYlqklKRzA) tutorial.
-- [OBSIDIAN](https://obsidian.md/): An extremely customisable markdown-based note taking app, with a wide range of community generated plugins. [This website](https://www.eleanorkonik.com/) features regular roundup reports of new plugins. An amazing guide for using it in a PhD workflow can be found [here](https://www.reddit.com/r/ObsidianMD/comments/m5ou2h/phd_workflow_obsidian_zettelkasten_zotero_pandoc/).
-- [OVERLEAF](https://www.overleaf.com/): An easy to use, online, collaborative LaTeX editor.
-- [ROCKETBOOKS](https://getrocketbook.co.uk/): Physical resuable notebooks with quick OCR capabilities for digitisation and text extraction.
-- [VISUAL GUIDE TO TAKING GOOD NOTES](attachments/how-to-take-good-notes.png): *Author unknown, please edit with a source if known.*
-- [ZETTLR](https://www.zettlr.com/): Another markdown editor made for resarchers by reasearchers. Guidance for academics can be found [here](https://docs.zettlr.com/en/academic/citations/).  
+- [TOGGL](https://toggl.com/): A handy little app that you can use to track your work hours on a project-by-project basis. It is as complex as you make it. It offers some useful metrics and alerts to make sure that your mind has not wandered off task.  
 
 #### Templates
 - [TEMPLATES FOR META ANALYSIS](https://psycnet.apa.org/record/2020-66880-001): A primer and tutorial paper on "Conducting a meta-analysis in the age of open science: Tools, tips, and practical recommendations", including nine templates free for use, from preregistration to code to data.
@@ -578,9 +577,23 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 #### United States
 
 ### Research and Knowledge Management Tools
+
+#### Analysis Tools
 - [INFRANODUS](https://infranodus.com/): Text network analysis with a nice UI for all kinds of inputs.
 - [KHOJ](https://github.com/khoj-ai/khoj): An AI personal assistant that queries your markdown files, Gitbub repos, PDFs, Notion files and more. It runs both online using the OpenAI API and offline using LLaMa.
 - [MIRRORTHINK](https://mirrorthink.ai/): GPT4 interface tailored for academics, integrating with sites such as Wolfram Alpha and Pubmed.
+
+#### Note Taking
+- [BRAINVERSE](https://github.com/ReproNim/brainverse): A neat, open-source, cross-platform tool for notetaking, experiment planning and a lab notebook tool.
+- [EMACS](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor with a hardcore fanbase.
+- [HEDGEHOG](https://github.com/hedgedoc/hedgedoc): Self-hosted, real-time collaborative markdown notebook.
+- [LOGSEQ](https://logseq.com/): A privacy-first, open-source platform for knowledge management and collaboration.
+- [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your (PhD) note-taking mess in one place. If you want to save Tweets and Threads automatically to Notion, use [this](https://twitter.com/SaveToNotion/status/1462012037568073728?s=20&t=KLSbjBQ3HEL1LYlqklKRzA) tutorial.
+- [OBSIDIAN](https://obsidian.md/): An extremely customisable markdown-based note taking app, with a wide range of community generated plugins. [This website](https://www.eleanorkonik.com/) features regular roundup reports of new plugins. An amazing guide for using it in a PhD workflow can be found [here](https://www.reddit.com/r/ObsidianMD/comments/m5ou2h/phd_workflow_obsidian_zettelkasten_zotero_pandoc/).
+- [OVERLEAF](https://www.overleaf.com/): An easy to use, online, collaborative LaTeX editor.
+- [ROCKETBOOKS](https://getrocketbook.co.uk/): Physical resuable notebooks with quick OCR capabilities for digitisation and text extraction.
+- [VISUAL GUIDE TO TAKING GOOD NOTES](attachments/how-to-take-good-notes.png): *Author unknown, please edit with a source if known.*
+- [ZETTLR](https://www.zettlr.com/): Another markdown editor made for resarchers by reasearchers. Guidance for academics can be found [here](https://docs.zettlr.com/en/academic/citations/).
 
 ### Search Engines
 
@@ -611,7 +624,9 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [WORLDWIDESCIENCE](https://worldwidescience.org/index.html): WorldWideScience.org is a global science gateway—accelerating scientific discovery and progress through a multilateral partnership to enable federated searching of national and international scientific databases and portals.
 
 ### Teaching
-- [AWESOME STEAM](https://awesomesteam.org/): Awesome STEAM is a community curated list of high quality science, technology, engineering, art, and math (STEAM) resources for specific STEAM courses that students and teachers all over the world across all grade levels can use to supplement their learning.
+- [AWESOME STEAM](https://awesomesteam.org/): Awesome STEAM is a community-curated list of high-quality science, technology, engineering, art, and math (STEAM) resources for specific STEAM courses that students and teachers all over the world across all grade levels can use to supplement their learning.
+- [JOURNAL OF OPEN SOURCE EDUCATION](https://jose.theoj.org/about): The Journal of Open Source Education is an educator-friendly journal for publishing open-source educational materials and software.
+- [WIKIVERSITY](https://en.wikiversity.org/wiki/Wikiversity:Main_Page): Wikiversity is a Wikimedia Foundation project devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education from pre-school to university, including professional training and informal learning. 
 
 ### Visualizations and Design
 
