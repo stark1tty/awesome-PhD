@@ -111,28 +111,35 @@ This repository is intended to be a living, constantly developing resource where
 Sorted alphabetically into sub (and further sub) categories.
 
 ### Academia
-- [ACADEMIC STACK EXCHANGE](https://academia.stackexchange.com/): Q&A for academics and those enrolled in higher education.
 
 #### Academic Profiles and Networks
 - [RESEARCHGATE](https://www.researchgate.net/): Discover scientific knowledge and stay connected to the world of science. Discover research. Connect with your scientific community. Measure your impact.
 - [ORCID](https://orcid.org/): Get an ORCID - an "Open Researcher and Contributor ID" which is a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. Link your projects and output to your ORCID.
 
 #### Advice
-- [HOW AND WHEN TO END A SIDE PROJECT](https://www.mooreds.com/wordpress/archives/3616)
-- [HOW TO SOLVE IT](https://www.math.utah.edu/~alfeld/math/polya.html): Summary taken from G. Polya, "How to Solve It", 2nd ed., Princeton University Press, 1957, ISBN 0-691-08097-6.
-- [IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
+- [ACADEMIC STACK EXCHANGE](https://academia.stackexchange.com/): Q&A for academics and those enrolled in higher education.
   
 #### Concepts
 - [H-INDEX](https://www.pnas.org/doi/10.1073/pnas.0507655102): Today, an academic career strongly depends on the peer-reviewed publication productivity and its impact. Both are meant to be reflected in one single number: the h-index. This is how it was proposed and how it works.
 
 ### Accessibility and Inclusion
 
-#### For Refugees
-- [SCIENCE4REFUGEES](https://euraxess.ec.europa.eu/jobs/science4refugees): The Science4Refugees initiative and EURAXESS portal provide research refugee friendly internships, part-time and full-time jobs, access to an European Research Community, as well as a complete range of information and support services on working and living in Europe. 
-
 #### Guides
 - [EQUITY COMPASS](https://www.futurelearn.com/courses/equity-informal-stem-learning-using-the-equity-compass): A great free online course called "Equity in Informal STEM Learning: Using the Equity Compass" on how to be more inclusive.
+
+#### Good Reads
+- [ACADEMIC ASSHOLES AND THE CIRCLE OF NICENESS](https://thesiswhisperer.com/2013/02/13/academic-assholes/): Displaying cleverness during PhD seminars and during talks at conferences is a way academics show off their scholarly prowess to each other, sometimes at the expense of the student. Cleverness is a form of currency in academia; or ‘cultural capital’ if you like.
+- [HOW AND WHEN TO END A SIDE PROJECT](https://www.mooreds.com/wordpress/archives/3616): Advice when you are having mixed feelings about side projects.
+- [HOW TO SOLVE IT](https://www.math.utah.edu/~alfeld/math/polya.html): Summary taken from G. Polya, "How to Solve It", 2nd ed., Princeton University Press, 1957, ISBN 0-691-08097-6.
+- [IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
+- [SCIENTIFIC KNOWLEDGE IS DROWNING IN A FLOOD OF RESEARCH](https://massivesci.com/articles/chaos-in-the-brickyard-comic-matteo-farinella/): A comic about the problems with the -omics, illustrated by Matteo Farinella
+- [WE NEED TO TALK ABOUT READING](https://thesiswhisperer.com/2018/05/23/we-need-to-talk-about-reading/): Academics, under pressure to conform to performance metrics, have produced more and more reading material. All this busy writing has resulted in the creation of a reading mountain, so large it is a sincere threat to our ability to do our jobs. Related: [The Active Skim: Efficient Reading as a Moral Challenge in Postgraduate Education](https://journals.sagepub.com/doi/abs/10.1177/0092055X17697770)
+
+#### Learning Disabilities
 - [HOW TO UNF*CK YOUR LIFE WHEN YOU HAVE ADHD](https://docs.google.com/document/d/11-MQhgwwFIW5JGvQqmNtE1zDabNF_IBsPE-5_odw_I8/edit): A resource guide tailored to university students with ADHD.
+
+#### Refugees
+- [SCIENCE4REFUGEES](https://euraxess.ec.europa.eu/jobs/science4refugees): The Science4Refugees initiative and EURAXESS portal provide research refugee friendly internships, part-time and full-time jobs, access to a European Research Community, as well as a complete range of information and support services on working and living in Europe. 
 
 #### Tools for Disabilities
 - [COLS4ALL](https://github.com/mtennekes/cols4all): An R package "for selecting color palettes. 'Color for all' refers to [the authors'] mission that colors should be usable for not just people with normal color vision, but also for people with color vision deficiency".
