@@ -117,10 +117,13 @@ Sorted alphabetically into sub (and further sub) categories.
 - [RESEARCHGATE](https://www.researchgate.net/): Discover scientific knowledge and stay connected to the world of science. Discover research. Connect with your scientific community. Measure your impact.
 - [ORCID](https://orcid.org/): Get an ORCID - an "Open Researcher and Contributor ID" which is a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. Link your projects and output to your ORCID.
 
-#### Concepts
-- [H-INDEX](https://www.pnas.org/doi/10.1073/pnas.0507655102): Today, an academic career strongly depends on the peer-reviewed publication productivity and its impact. Both are meant to be reflected in one single number: the h-index. This is how it was proposed and how it works.
+#### Advice
+- [HOW AND WHEN TO END A SIDE PROJECT](https://www.mooreds.com/wordpress/archives/3616)
 - [HOW TO SOLVE IT](https://www.math.utah.edu/~alfeld/math/polya.html): Summary taken from G. Polya, "How to Solve It", 2nd ed., Princeton University Press, 1957, ISBN 0-691-08097-6.
 - [IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
+  
+#### Concepts
+- [H-INDEX](https://www.pnas.org/doi/10.1073/pnas.0507655102): Today, an academic career strongly depends on the peer-reviewed publication productivity and its impact. Both are meant to be reflected in one single number: the h-index. This is how it was proposed and how it works.
 
 ### Accessibility and Inclusion
 
@@ -516,11 +519,22 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [SCIENCE SHEROES](https://sciencesheroes.letscast.fm/): A German podcast about women and non-binary people in science.
 
 ### Public Outreach and Citizen Science
+
+#### Advice
+- [THE PROBLEM OF NATURE WRITING](https://www.newyorker.com/culture/the-weekend-essay/the-problem-of-nature-writing): To succeed—to get people to care about preserving the world—it can’t be only about nature.
+
+#### Reference
 - [CITIZENSCIENCE.GOV](https://www.citizenscience.gov/): CitizenScience.gov is an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government. The site provides a portal to three key components: a catalog of federally supported citizen science projects, a toolkit to assist federal practitioners with designing and maintaining their projects, and a gateway to a community of hundreds of citizen science practitioners and coordinators across government as called for in the Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724).
+
+#### Resources
 - [INATURALIST](https://www.inaturalist.org/): iNaturalist provides a place to record and organize nature findings, meet other nature enthusiasts, and learn about the natural world.
 - [SCAN THE WORLD](https://www.myminifactory.com/scantheworld/): Scan the World is the world’s largest ecosystem of free-to-download, 3D printable objects of cultural significance. 
-- [SKYPE A SCIENTIST](https://www.skypeascientist.com/): Organisation that connects scientists like you with educators and other parties needing speakers.
+
+#### Media
 - [ROUNDUPS AND RAPID REACTIONS](https://www.sciencemediacentre.org/working-with-us/for-journalists/roundups-for-journalists/): When a story breaks – whether it’s the latest flu epidemic, health scare or a potential nuclear crisis – the SMC persuades leading experts to drop everything and engage with the story, then contacts journalists at all the major news outlets to offer those experts for interviews or immediate comment.
+
+#### Platforms
+- [SKYPE A SCIENTIST](https://www.skypeascientist.com/): Organisation that connects scientists like you with educators and other parties needing speakers.
   
 ### Publications and Publishing
 
