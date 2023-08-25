@@ -130,7 +130,14 @@ Sorted alphabetically into sub (and further sub) categories.
 - [IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
 - [SCIENTIFIC KNOWLEDGE IS DROWNING IN A FLOOD OF RESEARCH](https://massivesci.com/articles/chaos-in-the-brickyard-comic-matteo-farinella/): A comic about the problems with the -omics, illustrated by Matteo Farinella
 - [SUPPOSE I WANT TO KILL A LOT OF PILOTS](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure): An easy to digest read about [anticipatory failure determination](https://www.npd-solutions.com/afd.html). Rather than asking to look for a cause of a failure, it reverses the problem by asking to view the failure of interest as the intended consequence and try to devise ways to assure that the failure always happens reliably.
+- [THE STRUCTURE OF SCIENTIFIC REVOLUTIONS](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf): PDF of the classic History iof of Science work by Thomas Kuhn. Read more [here](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions#:~:text=Kuhn%20argued%20for%20an%20episodic,science%20leads%20to%20new%20paradigms.).
 - [WE NEED TO TALK ABOUT READING](https://thesiswhisperer.com/2018/05/23/we-need-to-talk-about-reading/): Academics, under pressure to conform to performance metrics, have produced more and more reading material. All this busy writing has resulted in the creation of a reading mountain, so large it is a sincere threat to our ability to do our jobs. Related: [The Active Skim: Efficient Reading as a Moral Challenge in Postgraduate Education](https://journals.sagepub.com/doi/abs/10.1177/0092055X17697770)
+
+#### News & Blogs
+- [NATURE CAREERS](https://www.nature.com/careers): Articles and advice from the journal Nature about academic life.
+- [REASEARCHBUZZ](https://researchbuzz.me/): News and resources about search engines, databases, social media, and more.
+- [THE CHRONICLE OF HIGHER EDUCATION](https://www.chronicle.com/): News, advice and trends in academia and higher education.
+- [THE THESIS WHISPERER](https://thesiswhisperer.com/): The Thesis Whisperer is a well-established, popular blog written by Professor Inger Mewburn, director of researcher development at The Australian National University.
 
 ### Accessibility and Inclusion
 
@@ -139,6 +146,9 @@ Sorted alphabetically into sub (and further sub) categories.
 
 #### Global South
 - [CONFERENCE ORGANISING TIPS](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/): Tips for conference organisers for inclusivity for the Global South.
+
+#### Indigenous
+- [COLLABORATIVE INDIGENOUS RESEARCH DIGITAL GARDEN](): The Digital Garden is designed to bring together two fields of research: participatory research and Indigenous research. Website includes profiles of nearly 200 different Collaborative Indigenous Research projects.
 
 #### Learning Disabilities
 - [HOW TO UNF*CK YOUR LIFE WHEN YOU HAVE ADHD](https://docs.google.com/document/d/11-MQhgwwFIW5JGvQqmNtE1zDabNF_IBsPE-5_odw_I8/edit): A resource guide tailored to university students with ADHD.
@@ -152,14 +162,12 @@ Sorted alphabetically into sub (and further sub) categories.
 
 #### Translators
 - [DeepL](https://www.deepl.com/en/translator): Translator that outperforms Google Translator, albeit more limited language selection.
-  
-### Blogs
-- [REASEARCHBUZZ](https://researchbuzz.me/): News and resources about search engines, databases, social media, and more.
-- [THE THESIS WHISPERER](https://thesiswhisperer.com/): The Thesis Whisperer is a well-established, popular blog written by Professor Inger Mewburn, director of researcher development at The Australian National University.
 
-### Books
-- [DETOX YOUR WRITING](https://www.routledge.com/Detox-Your-Writing-Strategies-for-doctoral-researchers/Thomson-Kamler/p/book/9780415820844): Strategies for Doctoral Researchers (2016), Authors: Pat Thomson & Barbara Kamler
-- [PHD: AN UNCOMMON GUIDE](https://phd.academy/the-book): PhD - An uncommon guide to research, writing & PhD life (2015), Author: James Hayton
+### Application Resources
+See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
+
+- [A COMPARISON OF EUROPEAN AND US BASED PHD EDUCATION](https://medium.com/@phdinformation.usa/comparison-of-european-and-us-based-phd-education-4753c97c2c95#:~:text=European%20PhDs%20tend%20to%20have,their%20time%20as%20graduate%20students.&text=The%20duration%20for%20completing%20a,for%20a%20full%2Dtime%20program.): Blog post that sussinctly breaks down the differences between PhD expectations for the US and Europe.
+- [PI REVIEW](https://pi-review.com/): A website for PhD students to review their PIs. Know who you are getting involved with from the horse's mouth.
 
 ### Budgeting
 
@@ -174,22 +182,59 @@ Sorted alphabetically into sub (and further sub) categories.
 
 #### CV and Resume Tools
 - [CV MAKER](https://www.cvmaker.uk/): An inexpensive, paid CV formatting tool for generating colourful, professional looking resumes.
+- [OPEN-RESUME](https://github.com/xitanggg/open-resume): OpenResume is a powerful free, open-source resume builder and resume parser.
+- [REACTIVE RESUME](https://rxresu.me/): Reactive Resume is a free and open source resume builder that's built to make the mundane tasks of creating, updating and sharing your resume as easy as 1, 2, 3. With this app, you can create multiple resumes, share them with recruiters or friends through a unique link and print it as a PDF, all for free, no ads, no tracking, without losing the integrity and privacy of your data.
 
 #### Development
 - [PHD COMPETENCE MODEL](https://phdcompetencemodel.nl/): This is "a self-assessment tool to help PhD candidates more efficiently direct their time towards improving skills areas that are most needed for their own personal career development."
 - [VITAE](https://www.vitae.ac.uk/): Vitae is the global leader in supporting the professional development of researchers, experienced in working with institutions as they strive for research excellence, innovation and impact. UK based.
 
-#### Jobs and Interviews
+#### Interviews
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 
-#### Transitioning Out of Academia
-- [HOW TO BE A CONSULTANT, A FREELANCER, OR INDEPENDENT CONTRACTOR](https://jacquesmattheij.com/be-consultant/): This is a series of pages that guide you through the creation and operation of a successful consulting business. 
+#### Job and Academic Post Boards
+- [JOBRXIV](https://jobrxiv.org/): Job board for academics and funded graduate student opportunities, including PhDs and research fellowships.
+- [JOBS.AC.UK](https://www.jobs.ac.uk/): A leading international job board for careers in academic, research, science and related professions. Mostly for posts in the UK and some of Europe.
+- [NATURE CAREERS](https://www.nature.com/naturecareers/): Higher profile postings from Nature; international.
 
-### Conferences, Workshops, and Synposiums 
-- [RESURCHIFY](https://www.resurchify.com/): Resurchify is an information portal for the people pursuing research. We bring to you a varied list of research gatherings like conferences, journals, meetings, symposiums, etc across multiple areas. Along with that, we also share a huge chunk of details of these events. For example, for the conferences, we share their important schedules, call for papers, etc. The site also includes various ranking metrics for journals, conferences and other events.
+#### Transitioning Out of Academia
+- [HOW TO BE A CONSULTANT, A FREELANCER, OR INDEPENDENT CONTRACTOR](https://jacquesmattheij.com/be-consultant/): This is a series of pages that guide you through the creation and operation of a successful consulting business.
+- [HOW TO SAIL SMOOTHLY FROM ACADEMIA TO INDUSTRY](https://www.nature.com/articles/d41586-018-03306-1): Brief Nature article with some sound advice.
+- [RESEARCHING.IO](https://www.researching.io/): Connecting early career researchers (mentees) with ex-academics (mentors) who have made this transition already to foster a smoother transition into the broader workforce and companies will benefit by connecting with a large network of high-quality, job-ready PhDs.
+- [THE PROFESSOR IS OUT](https://www.facebook.com/groups/professorisout/): Facebook mutual aid support group for those transitioning out of academia. 
+
+### Conferences, Workshops, Seminars and Symposiums 
+
+#### Event Listings
+- [ALL CONFERENCE ALERT](https://www.allconferencealert.com/): Database of conferences from a wide variety of disciplines; international.
+- [CONAL](https://conferencealerts.com/): Directory of academic conferences worldwide with email alerts.
+- [CONFERENCE INDEX](https://conferenceindex.org/): Yet another international conference listing.
+- [INTERNATIONAL CONFERENCE ALERTS](https://internationalconferencealerts.com/): Another international conference database with email alerts.
+- [NATURE EVENTS](https://www.nature.com/naturecareers/events/): Events listing from Nature; international.
+
+#### Guidance
 - [TALK INVITATIONS](https://www.chjh.nl/what-to-do-with-that-invitation/): Have you been invited to speak somewhere? Here are some questions you might (and should) ask beforehand.
+- [WIKIVOYAGE](https://en.wikivoyage.org/wiki/Main_Page): The free worldwide travel guide that you can edit. The official, non-commercial sister site of Wikipedia for sightseeing, activities, cuisine and accommodation around the world.
+
+#### Tools
+- [RESURCHIFY](https://www.resurchify.com/): Resurchify is an information portal for the people pursuing research. We bring to you a varied list of research gatherings like conferences, journals, meetings, symposiums, etc across multiple areas. Along with that, we also share a huge chunk of details of these events. For example, for the conferences, we share their important schedules, call for papers, etc. The site also includes various ranking metrics for journals, conferences and other events.
 
 ### Data
+
+#### Data Collection
+- [INATURALIST](https://www.inaturalist.org/): iNaturalist provides a place to record and organize nature findings, meet other nature enthusiasts, and learn about the natural world.
+- [SAPELI](https://github.com/ExCiteS/Sapelli): Sapelli is a mobile data collection and sharing platform designed with a specific focus on non-literate and illiterate users with little or no prior ICT experience.
+
+##### Surveys
+- [GOOGLE FORMS](https://www.google.co.uk/forms/about/): Easily create and share online forms and surveys, and analyze responses in real-time.
+- [MICROSOFT FORMS](https://forms.office.com/): Get feedback effortlessly with surveys, polls, and quizzes.
+- [PROLIFIC](https://www.prolific.co/): Platform for online surveys commonly used by researchers with over 120,000+ active, vetted and engaged participants. It is also a great way to earn a little "beer" money by taking surveys from other research groups.
+
+#### Data Management and Version Control
+- [DIFFCHECKER](https://www.diffchecker.com/): To compare two files (text/image/PDF/excel) to find the difference between them.
+- [GITHUB AND VERSION CONTROL](https://o-date.github.io/draft/book/github-version-control.html): A brief crash course on GitHub, Git, an version control.
+- [MAKING DATA USEFUL](https://o-date.github.io/draft/book/making-data-useful.html): The single hardest part of making data useful involves disciplining yourself to make your data ‘future-proof’. By planning for the long-term at the outset, you also achieve the happy accident of making your data amenable to re-use and distributed collaboration.
+- [THE GOOD RESEARCH HANDBOOK](https://goodresearch.dev/index.html): Organize your code so that it is easy to understand and works reliably.
 
 #### Datasets
 - [24 DAYS OF DATABASES](https://twitter.com/fier_caitlin/status/1333731512676651008?s=20): Somebody on Twitter was gracious enough to summarize some cool datasets that you can work on.
@@ -197,8 +242,11 @@ Sorted alphabetically into sub (and further sub) categories.
 - [AWESOME BIG DATA](https://github.com/newTendermint/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [ACADEMIC TORRENTS](https://academictorrents.com/): Torrents of large datasets.
 - [GEOSEER](https://www.geoseer.net/): A spatial data search engine.
+- [HIGH QUALITY COLLECTIONS OF DIGITIZED ART AND ARCHIVAL FINDS](https://simonsarris.com/art-collections): These are organizations that have digitized a number of high-resolution scans. All listings were included for quality, with either Creative Commons license or Public Domain licensing on most of the items.
 - [LIST OF ONLINE DATABASES](https://en.wikipedia.org/wiki/List_of_online_databases): A comprehensive list of online databases via Wikipedia.
+- [OPENCONTEXT](https://opencontext.org/): Open Context reviews, edits, annotates, publishes and archives research data and digital documentation. We publish your data and preserve it with leading digital libraries.
 - [WIKIDATA](https://www.wikidata.org/wiki/Wikidata:Main_Page): Wikidata acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others.
+- [WIKIMEDIA COMMONS](https://commons.wikimedia.org/wiki/Main_Page): A collection of nearly 100 million freely usable media files to which anyone can contribute.
 
 #### Cleaning
 - [50 USEFUL ADD-ONS FOR EXCEL](https://www.goskills.com/Excel/Resources/Best-Excel-add-ins): List includes tools for Productivity, Visuals, Charts, Study, Finances, Marketing, Data Analysis, and Miscellaneous.
@@ -209,12 +257,6 @@ Sorted alphabetically into sub (and further sub) categories.
 #### Digitisation
 - [PAPERLESS-NGX](https://github.com/paperless-ngx/paperless-ngx): Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.
 - [TRANSCRIBUS](https://readcoop.eu/transkribus/): Transkribus is an AI-powered platform for text recognition, transcription and searching of historical documents – from any place, any time, and in any language. 
-
-#### Management and Version Control
-- [DIFFCHECKER](https://www.diffchecker.com/): To compare two files (text/image/PDF/excel) to find the difference between them.
-- [GITHUB AND VERSION CONTROL](https://o-date.github.io/draft/book/github-version-control.html): A brief crash course on GitHub, Git, an version control.
-- [MAKING DATA USEFUL](https://o-date.github.io/draft/book/making-data-useful.html): The single hardest part of making data useful involves disciplining yourself to make your data ‘future-proof’. By planning for the long-term at the outset, you also achieve the happy accident of making your data amenable to re-use and distributed collaboration.
-- [THE GOOD RESEARCH HANDBOOK](https://goodresearch.dev/index.html): Organize your code so that it is easy to understand and works reliably.
   
 #### Scraping
 - [APIFY](https://apify.com/): Build, deploy, and monitor web scraping and browser automation tools. 
@@ -227,9 +269,9 @@ Sorted alphabetically into sub (and further sub) categories.
 - [REPRODUCIBILITEA](https://reproducibilitea.org/): Want to discuss the latest papers related to open scholarship? Have a look at whether there already is a Reproducibilitea journal club at your institution; if not, create one of your own!
 - [RIOT SCIENCE CLUB](http://riotscience.co.uk/): The RIOT Science Club is organizing amazing events related to open scholarship. Also, visit their [Youtube channel](https://www.youtube.com/c/RIOTScienceClub) for all the recorded talks.
 
-### Experiments and Studies 
+### Research
 
-#### Design
+#### Research Design
 - [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/): If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
 - [AN INTRODUCTION TO STATISTICAL LEARNING](https://www.statlearning.com/): An open-source textbook providing a broad and less technical treatment of key topics in statistical learning. Includes workbooks for both R and Python.
 
@@ -237,11 +279,6 @@ Sorted alphabetically into sub (and further sub) categories.
 - [10 EASY STEPS](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3344936): A tutorial paper on "10 easy steps to conducting transparent, reproducible meta-analyses for infant researchers."
 - [NEUROIMAGING](https://www.youtube.com/playlist?list=PLpnRVYzBd9lwkkuepLTwkeKFQ9JAizs1s): A free online video-based workshop on how to conduct reproducible neuroimaging.
 - [WORKFLOW](https://www.youtube.com/watch?v=fwZqVvHaA0M): Make your whole workflow more reproducible with this great and free 2-hour workshop.
-
-#### Surveys
-- [GOOGLE FORMS]
-- [MICROSOFT FORMS](https://forms.office.com/): Get feedback effortlessly with surveys, polls, and quizzes.
-- [PROLIFIC](https://www.prolific.co/): Platform for online surveys commonly used by researchers with over 120,000+ active, vetted and engaged participants. It is also a great way to earn a little "beer" money by taking surveys from other research groups.
 
 ### Fun
 - [DATA HORROR ESCAPE ROOM](https://sites.google.com/vu.nl/datahorror/home): Solve cool puzzles together and learn more about all the horrors data offers.
@@ -277,8 +314,10 @@ Sorted alphabetically into sub (and further sub) categories.
 #### Learning to Code
 
 ##### General
-- [AWESOME CERTIFICATES](https://github.com/PanXProject/awesome-certificates): A list of online courses and certifications which can add some shiny badges to your CV.
+- [AN INTRODUCTION TO STATISTICAL LEARNING](https://www.statlearning.com/): Free e-textbook that also includes workbooks in R and Python.
+- [AWESOME CERTIFICATES](https://github.com/PanXProject/awesome-certificates): A list of online courses and certifications that can add some shiny badges to your CV.
 - [LEETCODE](https://leetcode.com/): A popular platform for learning to code by examples. A boost for your CV as well.
+- [WIKIFUNCTIONS](https://www.wikifunctions.org/): Wikifunctions is a Wikimedia project for everyone to collaboratively create and maintain a library of code functions to support the Wikimedia projects and beyond, in the world's natural and programming languages.
 
 ##### LaTeX
 - [LEARN LATEX IN 30 MINUTES](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes): A crash course on LaTeX syntax, which is a typesetting professional-looking documents.
@@ -292,6 +331,7 @@ Sorted alphabetically into sub (and further sub) categories.
 
 ##### R
 - [BIG BOOK OF R](https://www.bigbookofr.com/): A massive collection of R resources for both learning and applying concepts.
+- [R FOR DATA SCIENCE](https://r4ds.hadley.nz/): This e-book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it and visualize.
 
 #### Misc Useful Programming Libraries
 - [SCIKIT-IMAGE](https://scikit-image.org/): A collection of algorithms for image processing in Python.
@@ -311,7 +351,6 @@ Sorted alphabetically into sub (and further sub) categories.
 - [ARCHIVEBOX](https://github.com/ArchiveBox/ArchiveBox): ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.
 - [AWESOME SELFHOSTED](https://github.com/awesome-selfhosted/): An extensive and beloved Awesome List for free and open-sourced applications from various categories, many of which offer (sometimes paid) cloud hosting. You can find free alternatives to many paid apps on this list.
 - [CHANGEDETECTOR](https://github.com/dgtlmoon/changedetection.io): Detect website content changes and perform meaningful actions - trigger notifications via Discord, Email, Slack, Telegram, API calls and many more. Monitor your experiments... or concert tickets.
-- [EXIFTOOL](https://exiftool.org/): ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files. ExifTool supports many different metadata formats including EXIF, GPS, IPTC, XMP, JFIF, GeoTIFF, etc., as well as the maker notes of many digital cameras by Canon, Casio, DJI, etc. etc.
 - [EVERYTHING](https://www.voidtools.com/): Lightweight app for Windows that locates files and folders by name instantly.
 - [F.LUX](https://justgetflux.com/): A desktop app that makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. Includes a large number of customization settings and additional filters. Helps with eye strain and sleep.
 - [FREEFILESYNC](https://freefilesync.org/): FreeFileSync is a folder comparison and synchronization software that creates and manages backup copies of all your important files. Instead of copying every file every time, FreeFileSync determines the differences between a source and a target folder and transfers only the minimum amount of data needed. FreeFileSync is Open Source software, available for Windows, macOS, and Linux.
@@ -320,17 +359,26 @@ Sorted alphabetically into sub (and further sub) categories.
 - [PROTON VPN](https://protonvpn.com/): Free, high-speed Swiss VPN that safeguards your privacy and allows you to change your "location."
 
 ### Grants and Funding
+
 #### Europe
  
 #### UK
 - [EURAXESS UK FUNDING SEARCH](https://www.euraxess.org.uk/united-kingdom/funding-opportunities): Are you an international researcher wishing to work in the UK? Learn about the funding opportunities across the UK to find the opportunity that suits your needs best.
 - [EURAXESS UK JOB SEARCH](https://www.euraxess.org.uk/jobs/search): EURAXESS UK is a British Council managed portal which aids researchers in their career development, supporting mobility and acting as a support mechanism for researchers moving abroad or moving to the UK.
+- [GOV.UK GOVERNMENT GRANTS](https://www.gov.uk/guidance/find-government-grants): Browse a list of available government grants and see if you're eligible to apply for them.
+- [GRANTS ONLINE](https://www.grantsonline.org.uk/): Probably the UK's most up to date and comprehensive UK funding information service.
+
+#### Internationa
+- [GRANTWAY](https://grantway.induct.net/search?sc=250&q=): Grantway is global search portal for funding opportunities. We search all open sources for available funding opportunities and connect these to all countries eligible to apply. Select your country and we'll make sure to include all international opportunities that are also available.
 
 #### USA
+- [GRANTS.GOV](https://www.grants.gov/search-site.html): US government-sponsored grant searching site; includes a variety oof resources for applications.
+- [GRANTWATCH](https://www.grantwatch.com/grant-search.php): The premier grant listing directory in the USA.
 - [POSTDOC FUNDING](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/): Find a list of postdoctoral funding opportunities (there are also separate lists for neuroscience/neurology and cancer/oncology).
 
 ### Humanities
 - [AWESOME DIGITAL HUMANITIES](https://github.com/dh-tech/awesome-digital-humanities): Awesome list for researchers in the humanities.
+- [H-NET](https://networks.h-net.org/): Humanities and Social Sciences Online; An extensive network of communities within the humanities and social sciences.
 
 ### Infographics and Cheatsheets
 - [CHOOSE YOUR PLOT](https://www.linkedin.com/posts/opensourcecommunity_data-datastorytelling-datascience-activity-6879744977417592832-9y4J): No idea how to best plot your data? Have a look at this image.
@@ -341,6 +389,9 @@ Sorted alphabetically into sub (and further sub) categories.
 - [GITHUB CHEATSHEET](https://twitter.com/NikkiSiapno/status/1593882400983072769?t=iOvK_Nm0pe4DrpNL9C0njw&s=19): Confused by commit, stage, stash, fetch, etc. on GitHub? Here's the sheet for you.
 - [JUPYTER NOTEBOOK CHEATSHEET](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
 - [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
+
+### Legal
+- [GDPR AND TAKING PHOTOGRAPHS IN PUBLIC SPACES AND AT LARGE EVENTS](https://suzannedibble.com/gdpr-and-taking-photographs-in-public-places-at-large-events/): A GDPR crash course.
 
 ### Laboratory Tools
 
@@ -373,6 +424,7 @@ Sorted alphabetically into sub (and further sub) categories.
 - [OPEN ACCESS BUTTON](https://openaccessbutton.org/): Browser plugin that looks for open access versions of publications behind paywalls.
 - [SCIENCE HUB MUTUAL AID](https://www.wosonhj.com/): A mutual aid forum for academic literature which uses a point-based system for requests.
 - [UNPAYWALL](https://unpaywall.org/): As an alternative to SciHub, consider Unpaywall.
+- [WAYBACK MACHINE](https://web.archive.org/): The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites. Visitors to the Wayback Machine can type in a URL, select a date range, and then begin surfing on an archived version of the Web. Imagine surfing circa 1999 and looking at all the Y2K hype, or revisiting an older version of your favorite Web site. The Internet Archive Wayback Machine can make all of this possible. You can also submit websites to the archive to ensure future accessibility. 
 - [THE WIKIPEDIA LIBRARY](https://wikipedialibrary.wmflabs.org/): Over 90 of the world's top subscription-only databases, with content in 33 languages, are available free for Wikipedia editors meeting a set of very easy requirements.
 - [WIKIPEDIA RESOURCE EXCHANGE](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Resource_Exchange): A mutual aid effort by Wikipedia for resource sharing.
 
@@ -399,11 +451,15 @@ Sorted alphabetically into sub (and further sub) categories.
 - [ABEBOOKS](https://www.abebooks.co.uk/): Book marketplace which often has rare and hard to find books, including antiques.
 - [BOOKSHOP.ORG](https://bookshop.org/): Book marketplace for independent bookshops.
 
+#### Dictionaries, Thesaurus, & Etymology References
+- [WIKTIONARY](https://en.wiktionary.org/wiki/Wiktionary:Main_Page): Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+
 #### Digital Libraries
 See [Academic Literature](#academic-literature) for academic search engines.
 
 - [LIBRIVOX](https://librivox.org/): Free, public-domain audiobooks voiced by crowd-sourced volunteers.
 - [LIST OF DIGITAL LIBRARY PROJECTS](https://en.wikipedia.org/wiki/List_of_digital_library_projects): A list of digitised libraries via Wikipedia, most can be assumed to have open access.
+- [WIKISOURCE](https://en.wikisource.org/wiki/Main_Page): The free library that anyone can improve.
 
 #### Directories
 - [DIAMOND OPEN ACCESS JOURNALS GERMANY (DOAG)](https://pub.uni-bielefeld.de/record/2963331): ‘Diamond Open Access Journals, Germany’ (DOAG) is a quality-controlled directory list that contains information and links to diamond open access (OA) journals hosted in Germany.
@@ -411,14 +467,18 @@ See [Academic Literature](#academic-literature) for academic search engines.
 - [JOURNAL SOURCES ON WIKIPEDIA](https://en.wikipedia.org/wiki/Wikipedia:Journal_sources): This Wikipedia page links to library searches, online databases, and other venues where you can locate a journal article by title, journal, or identifier (such as DOI or PMID).
 - [LISTS OF LISTS OF ACADEMIC JOURNALS BY DICIPLINE](https://en.wikipedia.org/wiki/Category:Lists_of_academic_journals): Listception complements of Wikipedia.
 
-#### Encyclopedic References
+#### Encyclopedic References & Wikis
 - [SCHOLIA](https://scholia.toolforge.org/): Scholia is a service that creates visual scholarly profiles for topics, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata.
+- [WIKIBOOKS](https://en.wikibooks.org/wiki/Main_Page): The open-content textbooks collection that anyone can edit.
+- [WIKIMEDIA](https://www.wikimedia.org/): Wikimedia is a global movement whose mission is to bring free educational content to the world. Through various projects, chapters, and the support structure of the non-profit Wikimedia Foundation, Wikimedia strives to bring about a world in which every single human being can freely share in the sum of all knowledge. Wikipedia is obviously the most well-known, but do not discount their other incredibly valuable projects.
 - [WIKISPECIES](https://species.wikimedia.org/wiki/Main_Page): It covers Animalia, Plantae, Fungi, Bacteria, Archaea, Protista and all other forms of life.
 
 #### Impact Factor
+- [EIGENFACTOR](https://eigenfactor.org/): Eigenfactor™ Score(EF): A measure of the overall value provided by all of the articles published in a given journal in a year.
+Article Influence™ Score(AI): a measure of a journal's prestige based on per-article citations and comparable to Impact Factor. (Check the [Wayback Machine](https://archive.org/) if you are having trouble accessing).
 - [ISI IMPACT FACTOR](https://isi-impactfactor.com/): ISI Impact Factor (IIF) is an international, specialized platform for promoting scientific achievements, as well as supporting national and international collaboration between scientists, publishers of scientific journals and scientific entities.
 - [RESURCHIFY IMPACT INDEX SEARCH](https://www.resurchify.com/impact-factor.php): Check Impact Index of thousands of worldwide Journals.
-- [SCIMAGO](https://www.scimagojr.com/): The SCImago Journal & Country Rank is a publicly available portal that includes the journals and country scientific indicators developed from the information contained in the Scopus® database (Elsevier B.V.). These indicators can be used to assess and analyze scientific domains. Journals can be compared or analysed separately. Country rankings may also be compared or analysed separately. Journals can be grouped by subject area (27 major thematic areas), subject category (309 specific subject categories) or by country. Citation data is drawn from over 34,100 titles from more than 5,000 international publishers and country performance metrics from 239 countries worldwide. 
+- [SCIMAGO](https://www.scimagojr.com/): The SCImago Journal & Country Rank is a publicly available portal that includes the journals and country scientific indicators developed from the information contained in the Scopus® database (Elsevier B.V.). These indicators can be used to assess and analyze scientific domains. Journals can be compared or analysed separately. Country rankings may also be compared or analysed separately. Journals can be grouped by subject area (27 major thematic areas), subject category (309 specific subject categories) or by country. Citation data is drawn from over 34,100 titles from more than 5,000 international publishers and country performance metrics from 239 countries worldwide.
 
 #### Mapping
 - [CITATION GECKO](https://citationgecko.azurewebsites.net/): Gecko helps you find the most relevant papers to your research and give you a more complete sense of the research landscape.
@@ -459,8 +519,9 @@ See [Academic Literature](#academic-literature) for academic search engines.
 #### Reading Queues
 - [Omnivore](https://omnivore.app/): Omnivore is the free, open source, read-it-later app for serious readers. Distraction free. Privacy focused. Open source. Designed for knowledge workers and lifelong learners.
 
-#### Referencea and Reference Tracking
+#### References and Reference Tracking
 - [BIBTEX](http://www.bibtex.org/): Bibliography & reference generator that works quite well with Rmd/Papaja.
+- [CITEAS](https://citeas.org/): Get the correct citation for diverse research products, from software and datasets to preprints and articles.
 - [CITING R PACKAGES](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html#add-all-items-to-the-bibliography): [Here](https://twitter.com/ed_hagen/status/1379919849686589447?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) and [here](https://twitter.com/ElenLeFoll/status/1501567477427458055?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) are some handy tutorials on how to cite all your used R packages in an RMarkdown document at once. If you want to generate R package citations, look [here](https://bookdown.org/yihui/rmarkdown-cookbook/write-bib.html).
 - [GRATEFUL](https://github.com/Pakillo/grateful): Use the grateful package in R to automatically create a reference list for all your used R packages.
 - [JENNI](https://jenni.ai/): AI reference suggestor. 
@@ -475,25 +536,34 @@ See [Academic Literature](#academic-literature) for academic search engines.
 See [Academic Literature](#academic-literature) for academic search engines.
 See [Digital Libraries](#digital-libaries) for a list of digital sources and directories.
 
-### Meta-Science
-- [RETRACTION WATCH](https://retractionwatch.com/): Newsfeed from a major group tracking retractions as a window into the scientific process. [Click here](https://www.theguardian.com/commentisfree/2023/aug/09/scientific-misconduct-retraction-watch) for more context. 
-- [THE STRUCTURE OF SCIENTIFIC REVOLUTIONS](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf): PDF of the classic History iof of Science work by Thomas Kuhn. Read more [here](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions#:~:text=Kuhn%20argued%20for%20an%20episodic,science%20leads%20to%20new%20paradigms.).
+### Mindfulness and Mental Health
+#### Background and White Noise
+- [COFFITIVITY](https://coffitivity.com/): Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
+- [ONLINE SAFARI](https://onlinesafari.tv/): Wildlife live streams for background visuals.
+- [TURTLES AND CHILL]()
+
+#### Self-Care
+- [THE SAD BASTARD COOKBOOK](https://traumbooks.itch.io/the-sad-bastard-cookbook): "Life is hard. Some days are at the absolute limit of what we can manage. Some days are worse than that. Eating—picking a meal, making it, putting it into your facehole—can feel like an insurmountable challenge. We wrote this cookbook to share our coping strategies. It has recipes to make when you've worked a 16-hour day, when you can't stop crying and you don't know why, when you accidentally woke up an Eldritch abomination at the bottom of the ocean. But most of all, this cookbook exists to help Sad Bastards like us feel a little less alone at mealtimes."
 
 ### Miscellaneous
 - [ACRONYMIFY](https://acronymify.com/): If you need a cool and catchy acronym for your paper, project, etc. check out Acronymify.
 - [AUDEMIC](https://www.audemic.app/): App that converts academic research into a podcast.
 - [AWESOME GENERATIVE AI](https://github.com/ai-collection/ai-collection): A Collection of Awesome Generative AI Applications to make your life a little easier. 
-- [COFFITIVITY](https://coffitivity.com/): Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
 - [MIT APP INVENTOR](https://appinventor.mit.edu/): Low to no code app design with easy accessibility and a click-and-drag interface.
+- [RETRACTION WATCH](https://retractionwatch.com/): Newsfeed from a major group tracking retractions as a window into the scientific process. [Click here](https://www.theguardian.com/commentisfree/2023/aug/09/scientific-misconduct-retraction-watch) for more context. 
 - [TOOLS FOR ACADEMIC RESEARCH](https://tools.kausalflow.com/tools/): In case you want another rabbit hole to avoid your writing.
 
 ### Open Science
 - [AWESOME OPEN SCIENCE](https://tyson-swetnam.github.io/awesome-open-science/): This Awesome List is compiled in the effort to help new researchers find and learn about Open Science Tools.
 - [CROSSREF](https://www.crossref.org/): Crossref is a nonprofit open digital infrastructure organisation for the global scholarly research community. Uniquely and persistently recording and connecting knowledge through open metadata and identifiers for all research objects such as grants and articles. 
 - [DELIGHTFUL OPEN SCIENCE](https://codeberg.org/teaserbot-labs/delightful):
+- [FIGSHARE](https://knowledge.figshare.com/): Figshare is a repository where users can make all of their research outputs available in a citable, shareable and discoverable manner.
+- [INITIATIVE FOR OPEN CITATIONS](https://en.wikipedia.org/wiki/Initiative_for_Open_Citations): A collaboration between scholarly publishers, researchers, and other interested parties to promote the unrestricted availability of scholarly citation data and to make these data available. It is intended to facilitate improved citation analysis.
 - [JOSS](https://joss.theoj.org/): The Journal of Open Source Software is a developer friendly, open access journal for research software packages. Committed to publishing quality research software with zero article processing charges or subscription fees.
 - [NASA TRANSFORM TO OPEN SCIENCE](https://github.com/nasa/Transform-to-Open-Science): Open Science will broaden participation, increase accessibility to knowledge, and embrace new technologies that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how!
 - [OPEN ACCESS TRACKING PROJECT](https://tagteam.harvard.edu/hubs/oatp/items): TagTeam is an open-source tagging platform and feed aggregator developed for the Harvard Open Access Project (HOAP).
+- [UKSG](https://www.uksg.org/): UKSG exists to connect the knowledge community and encourage the exchange of ideas on scholarly communication. It is the only organisation spanning the wide range of interests and activities across the scholarly information community of librarians, publishers, intermediaries and technology vendors.
+- [UNSUB](https://unsub.org/): A data dashboard to help libraries cancel subscription journal Big Deals. The project's goal is to make toll-access publishing financially unsustainable.
   
 ### Organization
 
@@ -510,16 +580,19 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [TODOIST](https://todoist.com/): A popular, flexible to-do list app that offers collaborations and a large number of intergrations.
 
 #### Strategies and Methods
-- [KNOWLEDGE SYNTHESIS](https://oasislab.pubpub.org/pub/54t0y9mk/release/2): A conceptual model and practical guide to knowledge synthesis.
+- [KNOWLEDGE SYNTHESIS](https://oasislab.pubpub.org/pub/54t0y9mk/release/3): A conceptual model and practical guide to knowledge synthesis.
 - [ZETTELKASTEN](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125): A guide to building your own card catalogue/Wikipedia-like system for your notes. Extremely effective and the base for many current note-taking software designs.
 
 #### Time Management
 - [POMODORO](https://pomofocus.io/): An online timer for the Pomodoro method. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.
-- [TOGGL](https://toggl.com/): A handy little app that you can use to track your work hours on a project-by-project basis. It is as complex as you make it. It offers some useful metrics and alerts to make sure that your mind has not wandered off task.  
+- [TOGGL](https://toggl.com/): A handy little app that you can use to track your work hours on a project-by-project basis. It is as complex as you make it. It offers some useful metrics and alerts to make sure that your mind has not wandered off task. 
 
-#### Templates
-- [TEMPLATES FOR META ANALYSIS](https://psycnet.apa.org/record/2020-66880-001): A primer and tutorial paper on "Conducting a meta-analysis in the age of open science: Tools, tips, and practical recommendations", including nine templates free for use, from preregistration to code to data.
-- [PREREGISTRATION TEMPLATES](https://osf.io/zg78t): A list of available preregistration templates.
+### PhD Guides
+- [DETOX YOUR WRITING](https://www.routledge.com/Detox-Your-Writing-Strategies-for-doctoral-researchers/Thomson-Kamler/p/book/9780415820844): Strategies for Doctoral Researchers (2016), Authors: Pat Thomson & Barbara Kamler
+- [PHD: AN UNCOMMON GUIDE](https://phd.academy/the-book): PhD - An uncommon guide to research, writing & PhD life (2015), Author: James Hayton
+
+### Philosophy of Science
+- [IFORS](https://www.ifors.org): Operational research (OR) encompasses the development and the application of a wide range of problem-solving methods and techniques applied in the pursuit of improved decision-making and efficiency, such as mathematical optimization, simulation, queueing theory and other stochastic models.
 
 ### Project Management
 - [LABTAB](https://labtab.io/): One unified platform for running your lab, managing your meetings and deadlines, and organising your projects - to give you your time back.
@@ -542,13 +615,15 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [THE PROBLEM OF NATURE WRITING](https://www.newyorker.com/culture/the-weekend-essay/the-problem-of-nature-writing): To succeed—to get people to care about preserving the world—it can’t be only about nature.
 
 #### Reference
+- [CENTER FOR SCIENTIFIC COLLABORATION AND COMMUNITY ENGAGEMENT](https://www.cscce.org/): The Center for Scientific Collaboration and Community Engagement (CSCCE) is a research and training center to support and study the emerging field of scientific community engagement.
 - [CITIZENSCIENCE.GOV](https://www.citizenscience.gov/): CitizenScience.gov is an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government. The site provides a portal to three key components: a catalog of federally supported citizen science projects, a toolkit to assist federal practitioners with designing and maintaining their projects, and a gateway to a community of hundreds of citizen science practitioners and coordinators across government as called for in the Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724).
 
 #### Resources
-- [INATURALIST](https://www.inaturalist.org/): iNaturalist provides a place to record and organize nature findings, meet other nature enthusiasts, and learn about the natural world.
+- [PUBLIC LAB](https://publiclab.org/): A community for DIY environmental investigation. We especially welcome contributions from people from groups underrepresented in free and open-source software! See also: [Project GitHub Repo](https://github.com/publiclab)
 - [SCAN THE WORLD](https://www.myminifactory.com/scantheworld/): Scan the World is the world’s largest ecosystem of free-to-download, 3D printable objects of cultural significance. 
 
 #### Media
+- [GUIDANCE FOR TALKING TO JOURNALISTS](https://www.chronicle.com/page/talk-to-us): Tips from The Chronicle of Higher Education.
 - [ROUNDUPS AND RAPID REACTIONS](https://www.sciencemediacentre.org/working-with-us/for-journalists/roundups-for-journalists/): When a story breaks – whether it’s the latest flu epidemic, health scare or a potential nuclear crisis – the SMC persuades leading experts to drop everything and engage with the story, then contacts journalists at all the major news outlets to offer those experts for interviews or immediate comment.
 
 #### Platforms
@@ -557,7 +632,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 ### Publications and Publishing
 
 #### General
-- [WRITING AND PUBLISHING A RESEARCH PAPER AT NO COST](https://zaitoonx.com/2023/03/01/writing-and-publishing-a-research-paper-at-no-cost-a-list-of-resources/): A list of resources. "In this article, I will be sharing my personal process of writing an article from start to finish using only free resources. This will include the tools I use to find relevant research articles, manage my references, write and format my paper, check my grammar and readability, and submit my paper for publication. I want to make this article as practical and hands-on as possible, so that readers can see how I apply these free resources in a real-world scenario."
+- [WRITING AND PUBLISHING A RESEARCH PAPER AT NO COST](https://zaitoonx.com/2023/03/01/writing-and-publishing-a-research-paper-at-no-cost-a-list-of-resources/): A list of resources. "In this article, I will be sharing my personal process of writing an article from start to finish using only free resources. This will include the tools I use to find relevant research articles, manage my references, write and format my paper, check my grammar and readability, and submit my paper for publication. I want to make this article as practical and hands-on as possible so that readers can see how I apply these free resources in a real-world scenario."
 
 #### Advice
 - [EDITOR](https://twitter.com/DrBreaky/status/1273842646377566214?s=20): Have a look at this Twitter thread by [Michael Breakspear](https://twitter.com/DrBreaky) on his experience as a scientific editor.
@@ -565,22 +640,25 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 
 #### Crediting Authorship
 - [CITATION DIVERSITY STATEMENT](https://pubmed.ncbi.nlm.nih.gov/32762966/): To increase awareness about citation bias and mitigate it by checking for and transparently reporting proportions of citing male and female first and last authors, use the citation diversity statement by Zurn et al. (2020, TICS).
-- [CREDIT AUTHOR STATEMENT](https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement): Use the CRedit Author Statement by Brandt et al. (2015, Learned Publishing) to report each author’s proper contribution to a manuscript.
+- [CREDIT AUTHOR STATEMENT](https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement): Use the Credit Author Statement by Brandt et al. (2015, Learned Publishing) to report each author’s proper contribution to a manuscript.
+- [DEPSY](http://depsy.org/): For researchers who code, academic norms for tracking the value of their work seem grossly unfair. They can spend hours contributing to software that underpins research, but if that work does not result in the authorship of a research paper and accompanying citations, there is little way to measure its impact. A Nature article about the programme can be found [here](https://www.nature.com/articles/529115a).
 - [TENZING](https://rollercoaster.shinyapps.io/tenzing/): Use the Tenzing ShinyApp for quickly and easily documenting contributorship.
 
 #### Publicising Your Work
+- [IMPACTSTORY](https://profiles.impactstory.org/): Track buzz on Twitter, blogs, news outlets and more: like Google Scholar for your research's online reach.
+- [PAPERBUZZ](https://paperbuzz.org/): Paperbuzz is a free and open way to track the online buzz around scholarly articles.
 - [THE CONVERSATION](https://theconversation.com/become-an-author): A popular, widely republished, free, public magazine where researchers can communicate their findings in their own words. To be published by The Conversation you must be currently employed as a researcher or academic with a university or research institution. PhD candidates under supervision by an academic can write for us, but we don’t currently publish articles from Masters students.
-- [MASSIVESCIENCE](https://massivesci.com/): Massive Science is a content and media company delivering bleeding-edge scientific research and expertise. Our subscribers love our cutting-edge science news, opinion, translated research and long-form content that is unrivaled in digital news media. We provide trustworthy, entertaining and shareable science content authored by a growing community of over 2,000 knowledgeable scientists.
+- [MASSIVESCIENCE](https://massivesci.com/): Massive Science is a content and media company delivering bleeding-edge scientific research and expertise. 
 
 #### Tools
 - [JOURNAL-AUTHOR-NAME-ESTIMATOR](https://jane.biosemantics.org/): If you don’t know who to suggest as a reviewer or what journal to submit your paper to, check out JANE.
 - [JOURNAL RATER](https://phdvoice.org/journalrater/): If you want to know about the review process and manuscript handling, check out the Journal Rater by [PhD Voice](https://twitter.com/PhDVoice). Because “life’s too short to put up with Reviewer 2’s”.
 - [JOURNAL SUGGESTER](https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/): Just paste your abstract and get some suggestions for journals you can submit to.
+- [REGISTERED REPORTS](https://registeredreports.cardiff.ac.uk/feedback/dashboards/): University of Cardiff dashboard showing crowd-sourced speed and quality ratings for different academic journals.
 - [SCIREV](https://scirev.org/): If you want to know how long the review process for a specific journal is, or people's experience with publishing there, check SciRev.
 - [SHERPA ROMEO](https://v2.sherpa.ac.uk/romeo/): If you are not sure whether you are allowed to upload a preprint prior to journal submission.
 
 ### Quality of Life
-- [PRETTYPEGS](https://www.prettypegs.com/): Jazz up your crappy IKEA furniture on the cheap.
 
 ### Regional Resources
 #### European Union
@@ -595,6 +673,14 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [KHOJ](https://github.com/khoj-ai/khoj): An AI personal assistant that queries your markdown files, Gitbub repos, PDFs, Notion files and more. It runs both online using the OpenAI API and offline using LLaMa.
 - [MIRRORTHINK](https://mirrorthink.ai/): GPT4 interface tailored for academics, integrating with sites such as Wolfram Alpha and Pubmed.
 
+#### Image Organization
+- [EXIFTOOL](https://exiftool.org/): ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files. ExifTool supports many different metadata formats including EXIF, GPS, IPTC, XMP, JFIF, GeoTIFF, etc., as well as the maker notes of many digital cameras by Canon, Casio, DJI, etc. etc.
+- [FASTSTONE SUITE](https://www.faststone.org/): Suite of image software that includes an intuitive image viewer, screen capture, resizer and various other organisation tools.
+- [TROPY](https://tropy.org/): Tropy is an independent, open-source project designed and produced by an international team of historians and software developers for the organisation of visual data. It offers a number of extensions and plugins including one for Zotero.
+
+#### Memorization Tools
+- [ANKI](https://apps.ankiweb.net/): Flash card web app that supports images, audio, videos and scientific markup (via LaTeX).
+
 #### Note Taking
 - [BRAINVERSE](https://github.com/ReproNim/brainverse): A neat, open-source, cross-platform tool for notetaking, experiment planning and a lab notebook tool.
 - [EMACS](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor with a hardcore fanbase.
@@ -608,7 +694,12 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [ZETTLR](https://www.zettlr.com/): Another markdown editor made for resarchers by reasearchers. Guidance for academics can be found [here](https://docs.zettlr.com/en/academic/citations/).
 
 #### Mind Mapping Tools
-- [KNOWLEDGE](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
+- [KNOWLEDGE](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, exploring, and chatting with all of your favorite websites, documents, and files.
+- [MINDMASTER](https://www.edrawmind.com/): Free & paid extensive mind mapping software that is visually pleasing and exports to a variety of formats. Also includes a [GANTT chart](#gantt-charts) maker.
+
+### Research Guides
+- [QUICK THOUGHTS ON RESEARCH](https://michaelnotebook.com/qtr/index.html): A short but valuable list of heuristics or principles for doing good creative research work.
+- [STEPS IN CONDUCTING A RESEARCH STUDY](http://korbedpsych.com/R00Steps.html): A guide tailored to [education](#education) researchers, however, it is adaptable to a wide variety of fields.
 
 ### Search Engines
 
@@ -624,7 +715,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 #### Academic Literature
 - [BASE](https://www.base-search.net/?l=en): One of the world's most voluminous search engines especially for academic web resources. You can access the full texts of about 60% of the indexed documents for free (Open Access). BASE is operated by Bielefeld University Library.
 - [CAS SCIFINDER](https://www.cas.org/solutions/cas-scifinder-discovery-platform/cas-scifinder-n): More than a literature and chemical compound database, CAS SciFindern leverages human curation to deliver relevant, actionable insights so you can innovate faster.
-- [GET THE RESEARCH](https://gettheresearch.org/): Clean, simple academic search engine with an open access toggle.
+- [GET THE RESEARCH](https://gettheresearch.org/): Clean, simple academic search engine with an open access toggle. Leverages Open Access and AI to help nonspecialists find, read, and understand scholarly research.
 - [FATCAT!](https://fatcat.wiki/): Fatcat is a versioned, publicly-editable catalog of research publications: journal articles, conference proceedings, pre-prints, blog posts, and so forth. The goal is to improve the state of preservation and access to these works by providing a manifest of full-text content versions and locations.
 - [IEEE XPLORE](https://ieeexplore.ieee.org/Xplore/home.jsp): The IEEE Xplore digital library is a powerful resource for discovery of scientific and technical content published by the IEEE (Institute of Electrical and Electronics Engineers) and its publishing partners.
 - [INSPIRE HEP](https://inspirehep.net/): INSPIRE is a trusted community hub that helps researchers to share and find accurate scholarly information in high energy physics.
@@ -640,8 +731,20 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 
 ### Teaching
 - [AWESOME STEAM](https://awesomesteam.org/): Awesome STEAM is a community-curated list of high-quality science, technology, engineering, art, and math (STEAM) resources for specific STEAM courses that students and teachers all over the world across all grade levels can use to supplement their learning.
+- [JEOPARDY LABS](https://jeopardylabs.com/): Create Jeopardy-style games for teaching, free. 
 - [JOURNAL OF OPEN SOURCE EDUCATION](https://jose.theoj.org/about): The Journal of Open Source Education is an educator-friendly journal for publishing open-source educational materials and software.
+- [OER COMMONS](https://oercommons.org/): OER Commons is a public digital library of open educational resources. Explore, create, and collaborate with educators around the world to improve curriculum.
 - [WIKIVERSITY](https://en.wikiversity.org/wiki/Wikiversity:Main_Page): Wikiversity is a Wikimedia Foundation project devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education from pre-school to university, including professional training and informal learning. 
+
+### Templates
+- [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
+- [LATEX HANDOUT DESIGN INSPIRED BY EDWARD TUFTE](https://www.overleaf.com/latex/templates/handout-design-inspired-by-edward-tufte/dtsbhhkvghzz): Edward Tufte is a pioneer in the field of data visualization, and his works inspired the creation of two LaTeX classes for books and handouts.
+- [LATEX THESIS TEMPLATE](https://github.com/severinlandolt/latex-thesis-template): A LaTeX template for humans writing their thesis.
+- [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
+- [PREREGISTRATION TEMPLATES](https://osf.io/zg78t): A list of available preregistration templates.
+- [RESEARCH POSTER TEMPLATES](https://www.genigraphics.com/templates): Free PowerPoint Research Poster Templates (.PPTX format).
+- [SLIDE MODEL](https://slidemodel.com/): Various Powerpoint templates.
+- [TEMPLATES FOR META ANALYSIS](https://psycnet.apa.org/record/2020-66880-001): A primer and tutorial paper on "Conducting a meta-analysis in the age of open science: Tools, tips, and practical recommendations", including nine templates free for use, from preregistration to code to data.
 
 ### Visualizations and Design
 
@@ -649,6 +752,9 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [BLENDER]
 - [SKETCHUP]
 - [FOSSCAD]
+
+#### Augmented Reality
+- [FLOWIMMERSIVE](https://a.flow.gl/): Build visually compelling, AI-enhanced data visualizations and stories.
 
 #### Color
 - [ADOBE COLOR](https://color.adobe.com/create/color-wheel): Adobe web app for finding complementary colours and creating color pallets. 
@@ -660,8 +766,10 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [SCIENTIFIC COLOR MAPS](https://www.fabiocrameri.ch/colourmaps/): Suite of scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.
 
 #### Data Viz Software
+- [DATAWRAPPER](https://www.datawrapper.de/): Low code application to enrich your stories with charts, maps, and tables.
+- [GEPHI](https://gephi.org/): Gephi is the leading visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free.
+- [LIST OF NO CODE DATA VIS SOFTWARE](https://blog.devgenius.io/goodbye-matplotlib-these-no-code-visualization-tools-are-your-new-friend-e16c1cbe56e2): GoodBye Matplotlib! No-code visualization tools are your new friend.
 - [MAKE YOUR OWN SCATTERPLOT](https://drawdata.xyz/): This handy tool allows you to draw in scatterplot points and download a CSV file with the coordinates.
-- [METABASE](https://www.metabase.com/)
 - [MICROSOFT LIDA](https://github.com/microsoft/lida): Automatic Generation of Visualizations and Infographics using Large Language Models; *in development but good for idea generation.*
 
 #### Diagrams and Infographics
@@ -670,6 +778,16 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [DRAW.IO](https://github.com/jgraph/drawio): draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.
 - [MICROSOFT VISIO](https://support.microsoft.com/en-us/office/select-a-template-in-visio-75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe): Quickly create professional flow charts, timelines, process maps, organizational charts, IT architecture diagrams, floor plans, and more.
 - [SCIENTIFIC INKSCAPE](https://github.com/burghoff/Scientific-Inkscape): Extensions for figure editing and resizing scientific figures in [Inkscape](https://inkscape.org/), the FOSS vector editing software (similar to Adobe Illustrator).
+
+#### Examples and Guides
+- [ARCHIVES.DESIGN](https://archives.design/): A digital archive of graphic design related items that are available on the Internet Archives.
+- [DATA SCIENCE: THINKING LIKE A VISUAL ARTIST](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction/Thinking_Like_a_Visual_Artist): e-book; Five design elements—Harmony, Rhythm, Flow, Balance, and Focus—are essential considerations to think like a visual artist. A data scientist must think creatively to combine these elements together in appropriate proportions to convey the essential conclusions to the audience.
+- [GNSI: SCIENTIFIC ILLUSTRATION BOOKS AND REFERENCE MATERIALS LIST](https://www.gnsi.org/recommended-books): Download a list of titles and resources recommended by GNSI members, perfect for building any reference library. 
+- [GNSI: VISUAL SCIENCE COMMUNICATION IN ACTION](https://www.gnsi.org/visual-scicomm-gallery): The gallery contains the work of select GNSI members who have opted to show a small portfolio on our site. These works demonstrate the talent and range that exists within the field, but also the endless possibilities that come with working with a visual science communicator.
+- [GUILD HANDBOOK OF SCIENTIFIC ILLUSTRATION](https://www.gnsi.org/gnsi-handbook): The Guild Handbook of Scientific Illustration is the most authoritative book about science illustration written to date. Referred to as the “bible” of science illustration, the Handbook is an indispensable reference for novice and professional illustrators alike. It includes more than 620 examples of scientific illustration in black-and-white and color, covers hundreds of tools and materials. Practical advice and step-by-step instructions guide readers through a vast array of techniques, including drawing with ink, pencils, carbon dust, watercolor and wash, gouache, airbrush, digital media, and many more.
+- [HOW TO DESIGN GOOD INFOGRAPHICS](https://www.bbc.co.uk/gel/features/how-to-design-infographics): An extensive guide from the BBC.
+- [ILLUSTRATIVE NOTES FOR OBSESSING OVER PUBLISHING AESTHETICS](https://jeffhuang.com/illustrative-notes-for-publishing-aesthetics/): Notes for making the most precise text and images for publication, mainly for PDF and print media. Unlike articles written for viewing on the web, publications are more rigid and should look good in higher densities like 600 DPI (dots-per-inch).
+- [THE DATA VISUALISATION CATALOGUE](https://datavizcatalogue.com/): The Data Visualisation Catalogue is a project developed by Severino Ribecca to create a (non-code-based) library of different information visualisation types. The website serves as a learning and inspiration resource for those working with data visualisation.
 
 #### Fonts
 - [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free): Font Awesome has loads of free icons to choose from to use in presentations, posters, etc.
@@ -714,16 +832,16 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [GGPLOT TRICKS](https://twitter.com/data_question/status/1496130684729303045?s=20): Some tricks from the R people to level up your ggplot game.
   
 #### Stock Imagery
+- [AUTODRAW](https://www.autodraw.com/): A free program from Google, based on machine learning. Users can draw shapes and the software will suggest objects that they resemble, providing illustrations contributed to its database by artists.
 - [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
 - [ICON BUDDY](https://iconbuddy.app/): Download, Customize, Edit and Personalize. Over 180k+ open-source icons.
+- [NOUN PROJECT](https://thenounproject.com/): A generic image repository with more than two million icons, many of which are available for free.
 - [PHYLOPIC](phylopic.org): An open database of freely usable silhouettes of life forms.
 - [SCIDRAW](https://scidraw.io/): Vectors for use in scientific diagrams. All content on SciDraw is shared under creative commons lincense (CC-BY) unless stated otherwise.
 - [S-INK](https://s-ink.org/): An exchange platform for high quality, science-related graphical products.
 
-#### Tools for the Artistically Challenged
-- [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
-
-### Video and Streaming Tools
+### Video and Streaming 
+- [CASSYNI]([Cassyni](https://cassyni.com/discover): Search the world's largest library of high-quality research seminars.
 - [NVIDIA BROADCAST](https://www.nvidia.com/en-gb/geforce/broadcasting/broadcast-app/): The NVIDIA Broadcast app transforms any room into a home studio. Take your livestreams, voice chats, and video conference calls to the next level with AI-enhanced voice and video. (Must have an NVIDIA graphics card to use.)
 
 ### Websites and Web Presence
@@ -763,11 +881,6 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 #### Reference
 - [ACADEMIC PHRASEBANK](https://www.phrasebank.manchester.ac.uk/): Incredibly useful phrasebank for academic writing from the University of Manchester. Extremely useful for structure, flow and general writer's block. 
 
-#### Templates
-- [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
-- [LATEX THESIS TEMPLATE](https://github.com/severinlandolt/latex-thesis-template): A LaTeX template for humans writing their thesis.
-- [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
-
 #### Thesis
 - [HOW TO WRITE A LITERATURE REVIEW](https://www.tandfonline.com/doi/full/10.1080/01441647.2015.1065456): This paper discusses the question about how to write a literature review paper (LRP). It stresses the primary importance of adding value, rather than only providing an overview, and it then discusses some of the reasons for (or not) actually writing an LRP, including issues relating to the nature and scope of the paper. It also presents different types of LRPs, advises on reporting the methodology used for the selection of papers for review, and the structure of an LRP. An important conclusion is that the heterogeneity in LRPs is very large. This paper also presents some of the aspects that the authors feel are important structural and contextual considerations that help produce high-quality review papers.
 - [TRADITIONAL THESIS STRUCTURE DIAGRAM](attachments/RDT_20230504_1725131223826810542146350.jpg): *Author unknown, please edit with a source if known.*
@@ -780,10 +893,10 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [DIGITAL ARCHAEOLOGY TEXTBOOK](https://o-date.github.io/draft/book/welcome.html): This is not a textbook about learning how to code. Rather, it is about instilling the habits of thought that will enable success when confronted with digital novelty, the habits of thought that will enable you to determine how to work with digital materials, and the habits of thought that permit you to see where and when digital approaches will make the difference in your research. Skills change; techniques evolve; new tools emerge. Habits of thought are hard to cultivate but have staying power!
 - [OPEN-ARCHAEO](https://open-archaeo.info/): A list of open source archaeological software and resources.
 - [PCI PEER COMMUNITY](https://archaeo.peercommunityin.org/): PCI Archaeology reviews and recommends unpublished articles, as complete, reliable and citable articles, without the need for their publication in ‘traditional’ journals. PCI Archaeology also reviews and recommends preregistrations of studies. Evaluation and recommendation by PCI Archaeology are free of charge.
+- [POSTGRADUATE OPPORTUNITIES IN ARCHAEOLOGY](https://archpostgrad.wordpress.com/2023/08/22/postdoc-opportunities-in-archaeology/): A well-maintained, long-lasting blog listing conferences, academic positions, MA, PhD, and Postdoc research opportunities in archaeology. Crafted with care.
 
-### Biology and Ecology
+### Biology 
 - [AWESOME BIOLOGICAL IMAGE ANAYSIS](https://github.com/hallvaaw/awesome-biological-image-analysis): Awesome list for image analysis using biological data. Useful for those especially using machine learning.
-- [LARGE LIST OF ACADEMIC JOURNAL RSS FEEDS](https://github.com/Stramon1um/academic_journals_rss_feed): List of RSS feed links of the most ranked academic and scientific journals in the category of Plant Science (included in Agricultural and Biological Sciences subject area). This list is based on Scimago Journal & Country Rank in 2020.
 
 ### Cognition
 - [METALAB](https://langcog.github.io/metalab/): This website features interactive, community-augmented meta-analysis tools for cognitive development research.
@@ -791,10 +904,22 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 ### Discourse Studies
 - [DISCOURSENET](https://discourseanalysis.net/): DiscourseNet offers an open, multilingual, inclusive and non-hierarchical space for anyone active in the field of Discourse Studies.
 
-### Environmental Science
+### Ecology
+- [A COLLECTION OF USEFUL PALAEOECOLOGY LABORATORY TOOLS](http://polproducts.rits-palaeo.com/): Research Tools developed by Takeshi Nakagawa.
+- [A COLLECTION OF USEFUL PALAEOECOLOGY SOFTWARE](https://polsystems.rits-palaeo.com/): The programs on this page are all spin-offs from Suigetsu Varves 2006 project. They are initially developed for our internal use but also suitable for public use. All programs employ very user-friendly interface and run on Microsoft Windows (XP-SP3 or later) on IBM PC compatibles. (Polygon and PolyCounter have experimental Macintosh versions, too).
+- [EBIRD](https://ebird.org/home): Crowd sourced orinthological resource from Cornell.
+- [ECOLOGICAL FORECASTING & DYNAMICS COURSE](https://course.naturecast.org/): A course on how ecological systems change over time and how to forecast how they will change in the future. Reading + discussion + R tutorials.
+- [ECOLOGY CONFERENCES MAILING LIST](https://www.ecologyconferences.com/): A monthly newsletter to keep you updated with upcoming online conferences and seminars from the Ecology and Evolutionary Biology world.
+- [FALLING FRUIT](https://fallingfruit.org/): Falling Fruit is a massive, collaborative map of the urban harvest. By uniting the efforts of foragers, freegans, and foresters everywhere, the map already points to over a half million food sources around the world (from plants and fungi to water wells and dumpsters).
+- [LARGE LIST OF ACADEMIC JOURNAL RSS FEEDS](https://github.com/Stramon1um/academic_journals_rss_feed): List of RSS feed links of the most ranked academic and scientific journals in the category of Plant Science (included in Agricultural and Biological Sciences subject area). This list is based on Scimago Journal & Country Rank in 2020.
+- [TIME SERIES DEPTH PLOT DIAGRAMS IN R USING RIOJA](https://www.benjaminbell.co.uk/2018/02/pollen-diagrams-in-r-using-rioja-part-1.html): If you have ever needed to create a pollen or stratigraphic diagram, you'll know there are various ways to do this. And of course, it can be done in R! this two-part guide series will show you how to plot a pollen diagram using the "rioja" package in R. You can also use this guide to create other stratigraphic diagrams, for example, diatom diagrams. See also: [rioja shiny app](https://nsj3.shinyapps.io/riojaPlot/).
+
+### Environmental Studies
+- [ENVIRONMENTJOB.CO.UK](https://www.environmentjob.co.uk/jobs): Job board for careers in the environmental sciences, mostly for the UK.
 
 ### GLAMS
 - [GLAM WORKBENCH](https://glam-workbench.net/): Here you’ll find a collection of tools, tutorials, examples, and hacks to help you work with data from galleries, libraries, archives, and museums (the GLAM sector). The primary focus is Australia and New Zealand, but new collections are being added all the time.
+- [NICHE MUSEUMS](https://www.niche-museums.com/): A database of small, specialist museums. 
 
 ### History
 - [PAPYRI](https://papyri.info/): The Papyrological Navigator (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the Papyrological Editor (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images.
@@ -813,10 +938,6 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [NEUROQUERY](https://neuroquery.org/): NeuroQuery is a tool for meta-analysis of neuroimaging studies, relating text queries to activations as well as associations between terms used together in neuroimaging publications. More info in the corresponding [paper](https://elifesciences.org/articles/53385). 
 - [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
 
-### Palaeoecology
-- [A COLLECTION OF USEFUL LABORATORY TOOLS](http://polproducts.rits-palaeo.com/): Research Tools developed by Takeshi Nakagawa.
-- [A COLLECTION OF USEFUL SOFTWARE](https://polsystems.rits-palaeo.com/): The programs on this page are all spin-offs from Suigetsu Varves 2006 project. They are initially developed for our internal use but also suitable for public use. All programs employ very user-friendly interface and run on Microsoft Windows (XP-SP3 or later) on IBM PC compatibles. (Polygon and PolyCounter have experimental Macintosh versions, too).
-
 ### Physical Geography
 - [STAGLAB](https://www.fabiocrameri.ch/staglab/): The easy-to-use, testable and fully reproducible collection of geodynamic diagnostics for mantle convection models.
 
@@ -831,6 +952,9 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [EMPATHY FOR PAIN](https://t.co/fCm0u2swGQ): Pictures showing hands in painful situations that can be used to assess empathy for others' pain. Find the corresponding paper [here](https://t.co/afh8OFd0kD).
 - [FULL BODY STIMULI](https://www.paulconnorpsych.com/stimuli): Need some full-body stimuli in your experiments? Look no further.
 - [KAPODI STIMULI DATABASE](https://airtable.com/shrnVoUZrwu6riP9b/tbljKUnVvikhzaNvF/viwlo7OvlHBG2q88P?blocks=hide): A huge database of every emotional stimuli you can think of and may want to use in your experiments.
+
+### Religion
+- [OPEN BUDDHIST UNIVERSITY](https://buddhistuniversity.net/): Rigorous academics and thorough content coverage, the University offers a comprehensive foundation in Buddhist studies.
 
 ---
 
