@@ -190,8 +190,8 @@ This repository is intended to be a living, constantly developing resource where
 
 ---
 
-| Main Sections | Subsections | Sub-Subsections | Sub-Sub-Subsections |
-|---------------|-------------|-----------------|---------------------|
+| | | | |
+|---|---|---|---|
 | [I. Overview](#i-overview) | | | |
 | [II. Academic and Professional Development](#ii-academic-and-professional-development) | [Academia](#academic-insights) | [Networking Platforms](#networking-platforms) | |
 | | | [Guidance and Tips](#guidance-and-tips) | |
@@ -212,7 +212,113 @@ This repository is intended to be a living, constantly developing resource where
 | | | [UK Funding](#uk-funding) | |
 | | | [Global Opportunities](#global-opportunities) | |
 | | | [US Grants](#us-grants) | |
-| ... | ... | ... | ... |
+| [IV. Inclusivity and Accessibility](#iv-inclusivity-and-accessibility) | [Promoting Accessibility](#promoting-accessibility) | [Resource Guides](#resource-guides) | |
+| | | [Support for Global South](#support-for-global-south) | |
+| | | [Indigenous Communities](#indigenous-communities) | |
+| | | [Support for Learning Disabilities](#support-for-learning-disabilities) | |
+| | | [Refugee Assistance](#refugee-assistance) | |
+| | | [Disability-Friendly Tools](#disability-friendly-tools) | |
+| | | [Language Translation](#language-translation) | |
+| [V. Research and Data Handling](#v-research-and-data-handling) | [Effective Research](#effective-research) | [Designing Research](#designing-research) | |
+| | | [Ensuring Reproducibility](#ensuring-reproducibility) | |
+| | [Data Management](#data-management) | [Gathering Data](#gathering-data) | [Survey Tools](#survey-tools) |
+| | | [Version Control and Storage](#version-control-and-storage) | |
+| | | [Available Datasets](#available-datasets) | |
+| | | [Data Cleaning Techniques](#data-cleaning-techniques) | |
+| | | [Digitalization Methods](#digitalization-methods) | |
+| | | [Web Scraping Tools](#web-scraping-tools) | |
+| [VI. Events and Networking](#vi-events-and-networking) | [Conferences and Workshops](#conferences-and-workshops) | [Upcoming Events](#upcoming-events) | |
+| | | [Participation Tips](#participation-tips) | |
+| | | [Event Management Tools](#event-management-tools) | |
+| [VII. Technology and Coding](#vii-technology-and-coding) | [Digital Tools](#digital-tools) | [Data Backup Solutions](#data-backup-solutions) | |
+| | | [Developer Utilities](#developer-utilities) | |
+| | | [Version Control with Git](#version-control-with-git) | |
+| | | [Essential Shortcuts](#essential-shortcuts) | [For Windows Users](#for-windows-users) |
+| | | [Learning Programming](#learning-programming) | [General Resources](#general-resources) |
+| | | | [LaTeX Tutorials](#latex-tutorials) |
+| | | | [Markdown Guides](#markdown-guides) |
+| | | | [Python Learning](#python-learning) |
+| | | | [R Programming](#r-programming) |
+| | | [Miscellaneous Libraries](#miscellaneous-libraries) | |
+| | | [Office Suite Tools](#office-suite-tools) | |
+| | | [Automating Tasks](#automating-tasks) | |
+| | | [Digital Utilities](#digital-utilities) | |
+| [VIII. Discipline-Specific Resources](#viii-discipline-specific-resources) | [Natural Sciences](#natural-sciences) | [Archaeological Studies](#archaeological-studies) | |
+| | | [Biological Research](#biological-research) | |
+| | | [Ecological Studies](#ecological-studies) | |
+| | | [Environmental Research](#environmental-research) | |
+| | | [Neuroscientific Studies](#neuroscientific-studies) | |
+| | | [Geographical Research](#geographical-research) | |
+| | [Humanities and Social Sciences](#humanities-and-social-sciences) | [Cognitive Studies](#cognitive-studies) | |
+| | | [Discourse Analysis](#discourse-analysis) | |
+| | | [Galleries, Libraries, Archives, and Museums (GLAMS)](#glams) | |
+| | | [Historical Research](#historical-research) | |
+| | | [Psychological Studies](#psychological-studies) | |
+| | | [Psychophysiological Research](#psychophysiological-research) | |
+| | | [Religious Studies](#religious-studies) | |
+| | [Research Tools and Methods](#research-tools-and-methods) | [Stimulus Resources](#stimulus-resources) | |
+| [IX. Communication and Public Engagement](#ix-communication-and-public-engagement) | [Engaging the Public](#engaging-the-public) | [Outreach Tips](#outreach-tips) | |
+| | | [Reference Materials](#reference-materials) | |
+| | | [Engagement Resources](#engagement-resources) | |
+| | | [Media Platforms](#media-platforms) | |
+| | | [Engagement Platforms](#engagement-platforms) | |
+| | [Publishing and Dissemination](#publishing-and-dissemination) | [General Publishing](#general-publishing) | |
+| | | [Writing and Publishing Tips](#writing-and-publishing-tips) | |
+| | | [Authorship Guidelines](#authorship-guidelines) | |
+| | | [Promoting Research](#promoting-research) | |
+| | | [Publication Tools](#publication-tools) | |
+| [X. Personal Well-being and Growth](#x-personal-well-being-and-growth) | [Mental Health and Mindfulness](#mental-health-and-mindfulness) | [Ambient Media](#ambient-soundscapes) | |
+| | [Self-Care Resources](#self-care-resources) | | |
+| | [Support Groups](#support-groups) | | |
+| [XI. Additional Tools and Resources](#xi-additional-tools-and-resources) | [Legal and Ethical Resources](#legal-and-ethical-resources) | | |
+| | [Lab Equipment and Tools](#lab-equipment-and-tools) | [Collaborative Platforms](#collaborative-platforms) | |
+| | | [Electronic Devices](#electronic-devices) | |
+| | | [Imaging Equipment](#imaging-equipment) | |
+| | | [Microscopy Tools](#microscopy-tools) | |
+| | | [Wet Lab Equipment](#wet-lab-equipment) | |
+| | [Literary Resources](#literary-resources) | [Accessibility Tools](#accessibility-tools) | |
+| | | [AI Reading Aids](#ai-reading-aids) | |
+| | | [Literary Analysis](#literary-analysis) | |
+| | | [Book Retailers](#book-retailers) | |
+| | | [Dictionaries and Thesauri](#dictionaries-and-thesauri) | |
+| | | [Online Libraries](#online-libraries) | |
+| | | [Directories and Listings](#directories-and-listings) | |
+| | | [Encyclopedias and Wikis](#encyclopedias-and-wikis) | |
+| | | [Publication Impact](#publication-impact) | |
+| | | [Literary Mapping](#literary-mapping) | |
+| | | [Tracking Publications](#tracking-publications) | |
+| | | [Reading Recommendations](#reading-recommendations) | |
+| | | [Reading Lists](#reading-lists) | |
+| | | [Citation and Reference Management](#citation-and-reference-management) | |
+| | | [Literary Search Engines](#literary-search-engines) | |
+| | [Educational Resources](#educational-resources) | | |
+| | [Templates and Formats](#templates-and-formats) | | |
+| | [Design and Visualization](#design-and-visualization) | [3D Visualization](#3d-visualization) | |
+| | | [Augmented Reality Tools](#augmented-reality-tools) | |
+| | | [Color Tools](#color-tools) | |
+| | | [Visualization Software](#visualization-software) | |
+| | | [Infographics and Diagrams](#infographics-and-diagrams) | |
+| | | [Design Inspiration](#design-inspiration) | |
+| | | [Typography Resources](#typography-resources) | |
+| | | [Gantt Chart Tools](#gantt-chart-tools) | |
+| | | [Graphic Design Software](#graphic-design-software) | |
+| | | [Mapping Tools](#mapping-tools) | |
+| | | [Presentation Aids](#presentation-aids) | |
+| | | [Visualization in MatLab](#visualization-in-matlab) | |
+| | | [Visualization in R](#visualization-in-r) | [Using ggplot](#using-ggplot) |
+| | | [Stock Images and Graphics](#stock-images-and-graphics) | |
+| | [Video Production and Streaming](#video-production-and-streaming) | | |
+| | [Web Development and Online Presence](#web-development-and-online-presence) | [Website Development](#website-development) | |
+| | | [Social Media Platforms](#social-media-platforms) | |
+| | [Writing and Composition](#writing-and-composition) | [Writing Tips](#writing-tips) | |
+| | | [Editing Software](#editing-software) | |
+| | | [Document Formatting](#document-formatting) | |
+| | | [Writing References](#writing-references) | |
+| | | [Thesis Writing](#thesis-writing) | |
+| [XII. General Resources](#xii-general-resources) | [Entertainment](#entertainment) | | |
+| | [Miscellaneous Tools](#miscellaneous-tools) | | |
+| [XIII. Other Awesome Resources](#xiii-other-awesome-resources) | | | |
+| [XIV. Acknowledgements](#xiv-acknowledgements) | | | |
 
 ---
 
@@ -327,9 +433,9 @@ This repository is intended to be a living, constantly developing resource where
 
 ## X. Personal Well-being and Growth
 ### Mental Health and Mindfulness
-#### Ambient Soundscapes
-#### Self-Care Resources
-### Improving Life Quality
+### Ambient Media
+### Self-Care Resources
+### Support Groups
 
 ## XI. Additional Tools and Resources
 ### Legal and Ethical Resources
