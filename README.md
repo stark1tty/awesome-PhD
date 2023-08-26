@@ -190,6 +190,32 @@ This repository is intended to be a living, constantly developing resource where
 
 ---
 
+| Main Sections | Subsections | Sub-Subsections | Sub-Sub-Subsections |
+|---------------|-------------|-----------------|---------------------|
+| [I. Overview](#i-overview) | | | |
+| [II. Academic and Professional Development](#ii-academic-and-professional-development) | [Academia](#academic-insights) | [Networking Platforms](#networking-platforms) | |
+| | | [Guidance and Tips](#guidance-and-tips) | |
+| | | [Key Concepts](#key-concepts) | |
+| | | [News and Blogs](#updates-and-blogs) | |
+| | | [Recommended Reads](#recommended-reads) | |
+| | [Career Pathways](#career-pathways) | [Resume Building](#resume-building) | |
+| | | [Professional Growth](#professional-growth) | |
+| | | [Interview Preparation](#interview-preparation) | |
+| | | [Job and Academic Opportunities](#job-and-academic-opportunities) | |
+| | | [Beyond Academia](#beyond-academia) | |
+| | [Guides for PhD Students](#guides-for-phd-students) | | |
+| | [PhD Applications](#phd-applications) | | |
+| [III. Financial Planning](#iii-financial-planning) | [Personal Budgeting](#personal-budgeting) | [Budget Management](#budget-management) | |
+| | | [Quick Earnings](#quick-earnings) | |
+| | | [Savings Strategies](#savings-strategies) | |
+| | [Research Funding](#research-funding) | [European Grants](#european-grants) | |
+| | | [UK Funding](#uk-funding) | |
+| | | [Global Opportunities](#global-opportunities) | |
+| | | [US Grants](#us-grants) | |
+| ... | ... | ... | ... |
+
+---
+
 # I. Overview
 
 ## II. Academic and Professional Development
