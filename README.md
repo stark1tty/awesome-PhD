@@ -190,16 +190,18 @@ This repository is intended to be a living, constantly developing resource where
 
 ---
 
-| **Table of Contents** | | |
+| | | | |
 |---|---|---|---|
 | [I. Overview](#i-overview) | | | |
 | [II. Academic and Professional Development](#ii-academic-and-professional-development) | | | |
-| | [Academia](#academic-insights) | [Networking Platforms](#networking-platforms) | |
+| | [Academia](#academic-insights) | | |
+| | | [Networking Platforms](#networking-platforms) | |
 | | | [Guidance and Tips](#guidance-and-tips) | |
 | | | [Key Concepts](#key-concepts) | |
 | | | [News and Blogs](#updates-and-blogs) | |
 | | | [Recommended Reads](#recommended-reads) | |
-| | [Career Pathways](#career-pathways) | [Resume Building](#resume-building) | |
+| | [Career Pathways](#career-pathways) | | |
+| | | [Resume Building](#resume-building) | |
 | | | [Professional Growth](#professional-growth) | |
 | | | [Interview Preparation](#interview-preparation) | |
 | | | [Job and Academic Opportunities](#job-and-academic-opportunities) | |
@@ -207,15 +209,18 @@ This repository is intended to be a living, constantly developing resource where
 | | [Guides for PhD Students](#guides-for-phd-students) | | |
 | | [PhD Applications](#phd-applications) | | |
 | [III. Financial Planning](#iii-financial-planning) | | | |
-| | [Personal Budgeting](#personal-budgeting) | [Budget Management](#budget-management) | |
+| | [Personal Budgeting](#personal-budgeting) | | |
+| | | [Budget Management](#budget-management) | |
 | | | [Quick Earnings](#quick-earnings) | |
 | | | [Savings Strategies](#savings-strategies) | |
-| | [Research Funding](#research-funding) | [European Grants](#european-grants) | |
+| | [Research Funding](#research-funding) | | |
+| | | [European Grants](#european-grants) | |
 | | | [UK Funding](#uk-funding) | |
 | | | [Global Opportunities](#global-opportunities) | |
 | | | [US Grants](#us-grants) | |
 | [IV. Inclusivity and Accessibility](#iv-inclusivity-and-accessibility) | | | |
-| | [Promoting Accessibility](#promoting-accessibility) | [Resource Guides](#resource-guides) | |
+| | [Promoting Accessibility](#promoting-accessibility) | | |
+| | | [Resource Guides](#resource-guides) | |
 | | | [Support for Global South](#support-for-global-south) | |
 | | | [Indigenous Communities](#indigenous-communities) | |
 | | | [Support for Learning Disabilities](#support-for-learning-disabilities) | |
@@ -223,24 +228,31 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Disability-Friendly Tools](#disability-friendly-tools) | |
 | | | [Language Translation](#language-translation) | |
 | [V. Research and Data Handling](#v-research-and-data-handling) | | | |
-| | [Effective Research](#effective-research) | [Designing Research](#designing-research) | |
+| | [Effective Research](#effective-research) | | |
+| | | [Designing Research](#designing-research) | |
 | | | [Ensuring Reproducibility](#ensuring-reproducibility) | |
-| | [Data Management](#data-management) | [Gathering Data](#gathering-data) | [Survey Tools](#survey-tools) |
+| | [Data Management](#data-management) | | |
+| | | [Gathering Data](#gathering-data) | |
+| | | | [Survey Tools](#survey-tools) |
 | | | [Version Control and Storage](#version-control-and-storage) | |
 | | | [Available Datasets](#available-datasets) | |
 | | | [Data Cleaning Techniques](#data-cleaning-techniques) | |
 | | | [Digitalization Methods](#digitalization-methods) | |
 | | | [Web Scraping Tools](#web-scraping-tools) | |
 | [VI. Events and Networking](#vi-events-and-networking) | | | |
-| | [Conferences and Workshops](#conferences-and-workshops) | [Upcoming Events](#upcoming-events) | |
+| | [Conferences and Workshops](#conferences-and-workshops) | | |
+| | | [Upcoming Events](#upcoming-events) | |
 | | | [Participation Tips](#participation-tips) | |
 | | | [Event Management Tools](#event-management-tools) | |
 | [VII. Technology and Coding](#vii-technology-and-coding) | | | |
-| | [Digital Tools](#digital-tools) | [Data Backup Solutions](#data-backup-solutions) | |
+| | [Digital Tools](#digital-tools) | | |
+| | | [Data Backup Solutions](#data-backup-solutions) | |
 | | | [Developer Utilities](#developer-utilities) | |
 | | | [Version Control with Git](#version-control-with-git) | |
-| | | [Essential Shortcuts](#essential-shortcuts) | [For Windows Users](#for-windows-users) |
-| | | [Learning Programming](#learning-programming) | [General Resources](#general-resources) |
+| | | [Essential Shortcuts](#essential-shortcuts) | |
+| | | | [For Windows Users](#for-windows-users) |
+| | | [Learning Programming](#learning-programming) | |
+| | | | [General Resources](#general-resources) |
 | | | | [LaTeX Tutorials](#latex-tutorials) |
 | | | | [Markdown Guides](#markdown-guides) |
 | | | | [Python Learning](#python-learning) |
@@ -250,43 +262,51 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Automating Tasks](#automating-tasks) | |
 | | | [Digital Utilities](#digital-utilities) | |
 | [VIII. Discipline-Specific Resources](#viii-discipline-specific-resources) | | | |
-| | [Natural Sciences](#natural-sciences) | [Archaeological Studies](#archaeological-studies) | |
+| | [Natural Sciences](#natural-sciences) | | |
+| | | [Archaeological Studies](#archaeological-studies) | |
 | | | [Biological Research](#biological-research) | |
 | | | [Ecological Studies](#ecological-studies) | |
 | | | [Environmental Research](#environmental-research) | |
 | | | [Neuroscientific Studies](#neuroscientific-studies) | |
 | | | [Geographical Research](#geographical-research) | |
-| | [Humanities and Social Sciences](#humanities-and-social-sciences) | [Cognitive Studies](#cognitive-studies) | |
+| | [Humanities and Social Sciences](#humanities-and-social-sciences) | | |
+| | | [Cognitive Studies](#cognitive-studies) | |
 | | | [Discourse Analysis](#discourse-analysis) | |
 | | | [Galleries, Libraries, Archives, and Museums (GLAMS)](#glams) | |
 | | | [Historical Research](#historical-research) | |
 | | | [Psychological Studies](#psychological-studies) | |
 | | | [Psychophysiological Research](#psychophysiological-research) | |
 | | | [Religious Studies](#religious-studies) | |
-| | [Research Tools and Methods](#research-tools-and-methods) | [Stimulus Resources](#stimulus-resources) | |
+| | [Research Tools and Methods](#research-tools-and-methods) | | |
+| | | [Stimulus Resources](#stimulus-resources) | |
 | [IX. Communication and Public Engagement](#ix-communication-and-public-engagement) | | | |
-| | [Engaging the Public](#engaging-the-public) | [Outreach Tips](#outreach-tips) | |
+| | [Engaging the Public](#engaging-the-public) | | |
+| | | [Outreach Tips](#outreach-tips) | |
 | | | [Reference Materials](#reference-materials) | |
 | | | [Engagement Resources](#engagement-resources) | |
 | | | [Media Platforms](#media-platforms) | |
 | | | [Engagement Platforms](#engagement-platforms) | |
-| | [Publishing and Dissemination](#publishing-and-dissemination) | [General Publishing](#general-publishing) | |
+| | [Publishing and Dissemination](#publishing-and-dissemination) | | |
+| | | [General Publishing](#general-publishing) | |
 | | | [Writing and Publishing Tips](#writing-and-publishing-tips) | |
 | | | [Authorship Guidelines](#authorship-guidelines) | |
 | | | [Promoting Research](#promoting-research) | |
 | | | [Publication Tools](#publication-tools) | |
 | [X. Personal Well-being and Growth](#x-personal-well-being-and-growth) | | | |
-| | [Mental Health and Mindfulness](#mental-health-and-mindfulness) | [Ambient Media](#ambient-soundscapes) | |
-| | [Self-Care Resources](#self-care-resources) | | |
-| | [Support Groups](#support-groups) | | |
+| | [Mental Health and Mindfulness](#mental-health-and-mindfulness) | | |
+| | | [Ambient Soundscapes](#ambient-soundscapes) | |
+| | | [Self-Care Resources](#self-care-resources) | |
+| | [Improving Life Quality](#improving-life-quality) | | |
 | [XI. Additional Tools and Resources](#xi-additional-tools-and-resources) | | | |
 | | [Legal and Ethical Resources](#legal-and-ethical-resources) | | |
-| | [Lab Equipment and Tools](#lab-equipment-and-tools) | [Collaborative Platforms](#collaborative-platforms) | |
+| | [Lab Equipment and Tools](#lab-equipment-and-tools) | | |
+| | | [Collaborative Platforms](#collaborative-platforms) | |
 | | | [Electronic Devices](#electronic-devices) | |
 | | | [Imaging Equipment](#imaging-equipment) | |
 | | | [Microscopy Tools](#microscopy-tools) | |
 | | | [Wet Lab Equipment](#wet-lab-equipment) | |
-| | [Literary Resources](#literary-resources) | [Accessibility Tools](#accessibility-tools) | |
+| | [Literary Resources](#literary-resources) | | |
+| | | [Accessibility Tools](#accessibility-tools) | |
 | | | [AI Reading Aids](#ai-reading-aids) | |
 | | | [Literary Analysis](#literary-analysis) | |
 | | | [Book Retailers](#book-retailers) | |
@@ -303,7 +323,8 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Literary Search Engines](#literary-search-engines) | |
 | | [Educational Resources](#educational-resources) | | |
 | | [Templates and Formats](#templates-and-formats) | | |
-| | [Design and Visualization](#design-and-visualization) | [3D Visualization](#3d-visualization) | |
+| | [Design and Visualization](#design-and-visualization) | | |
+| | | [3D Visualization](#3d-visualization) | |
 | | | [Augmented Reality Tools](#augmented-reality-tools) | |
 | | | [Color Tools](#color-tools) | |
 | | | [Visualization Software](#visualization-software) | |
@@ -315,12 +336,15 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Mapping Tools](#mapping-tools) | |
 | | | [Presentation Aids](#presentation-aids) | |
 | | | [Visualization in MatLab](#visualization-in-matlab) | |
-| | | [Visualization in R](#visualization-in-r) | [Using ggplot](#using-ggplot) |
+| | | [Visualization in R](#visualization-in-r) | |
+| | | | [Using ggplot](#using-ggplot) |
 | | | [Stock Images and Graphics](#stock-images-and-graphics) | |
 | | [Video Production and Streaming](#video-production-and-streaming) | | |
-| | [Web Development and Online Presence](#web-development-and-online-presence) | [Website Development](#website-development) | |
+| | [Web Development and Online Presence](#web-development-and-online-presence) | | |
+| | | [Website Development](#website-development) | |
 | | | [Social Media Platforms](#social-media-platforms) | |
-| | [Writing and Composition](#writing-and-composition) | [Writing Tips](#writing-tips) | |
+| | [Writing and Composition](#writing-and-composition) | | |
+| | | [Writing Tips](#writing-tips) | |
 | | | [Editing Software](#editing-software) | |
 | | | [Document Formatting](#document-formatting) | |
 | | | [Writing References](#writing-references) | |
@@ -500,6 +524,7 @@ This repository is intended to be a living, constantly developing resource where
 #### Document Formatting
 #### Writing References
 #### Thesis Writing
+#### Templates
 
 ## XII. General Resources
 ### Entertainment
