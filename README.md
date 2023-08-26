@@ -190,8 +190,184 @@ This repository is intended to be a living, constantly developing resource where
 
 ---
 
-## List of Resources 
-Sorted alphabetically into sub (and further sub) categories.
+# I. Overview
+
+## II. Academic and Professional Development
+### Academia
+#### Networking Platforms
+#### Guidance and Tips
+#### Key Concepts
+#### News and Blogs
+#### Recommended Reads
+### Career Pathways
+#### Resume Building
+#### Professional Growth
+#### Interview Preparation
+#### Job and Academic Opportunities
+#### Beyond Academia
+### Guides for PhD Students
+### PhD Applications
+
+## III. Financial Planning
+### Personal Budgeting
+#### Budget Management
+#### Quick Earnings
+#### Savings Strategies
+### Research Funding
+#### European Grants
+#### UK Funding
+#### Global Opportunities
+#### US Grants
+
+## IV. Inclusivity and Accessibility
+### Promoting Accessibility
+#### Resource Guides
+#### Support for Global South
+#### Indigenous Communities
+#### Support for Learning Disabilities
+#### Refugee Assistance
+#### Disability-Friendly Tools
+#### Language Translation
+
+## V. Research and Data Handling
+### Effective Research
+#### Designing Research
+#### Ensuring Reproducibility
+### Data Management
+#### Gathering Data
+##### Survey Tools
+#### Version Control and Storage
+#### Available Datasets
+#### Data Cleaning Techniques
+#### Digitalization Methods
+#### Web Scraping Tools
+
+## VI. Events and Networking
+### Conferences and Workshops
+#### Upcoming Events
+#### Participation Tips
+#### Event Management Tools
+
+## VII. Technology and Coding
+### Digital Tools
+#### Data Backup Solutions
+#### Developer Utilities
+#### Version Control with Git
+#### Essential Shortcuts
+##### For Windows Users
+#### Learning Programming
+##### General Resources
+##### LaTeX Tutorials
+##### Markdown Guides
+##### Python Learning
+##### R Programming
+#### Miscellaneous Libraries
+#### Office Suite Tools
+#### Automating Tasks
+#### Digital Utilities
+
+## VIII. Discipline-Specific Resources
+### Natural Sciences
+#### Archaeological Studies
+#### Biological Research
+#### Ecological Studies
+#### Environmental Research
+#### Neuroscientific Studies
+#### Geographical Research
+### Humanities and Social Sciences
+#### Cognitive Studies
+#### Discourse Analysis
+#### Galleries, Libraries, Archives, and Museums (GLAMS)
+#### Historical Research
+#### Psychological Studies
+#### Psychophysiological Research
+#### Religious Studies
+### Research Tools and Methods
+#### Stimulus Resources
+
+## IX. Communication and Public Engagement
+### Engaging the Public
+#### Outreach Tips
+#### Reference Materials
+#### Engagement Resources
+#### Media Platforms
+#### Engagement Platforms
+### Publishing and Dissemination
+#### General Publishing
+#### Writing and Publishing Tips
+#### Authorship Guidelines
+#### Promoting Research
+#### Publication Tools
+
+## X. Personal Well-being and Growth
+### Mental Health and Mindfulness
+#### Ambient Soundscapes
+#### Self-Care Resources
+### Improving Life Quality
+
+## XI. Additional Tools and Resources
+### Legal and Ethical Resources
+### Lab Equipment and Tools
+#### Collaborative Platforms
+#### Electronic Devices
+#### Imaging Equipment
+#### Microscopy Tools
+#### Wet Lab Equipment
+### Literary Resources
+#### Accessibility Tools
+#### AI Reading Aids
+#### Literary Analysis
+#### Book Retailers
+#### Dictionaries and Thesauri
+#### Online Libraries
+#### Directories and Listings
+#### Encyclopedias and Wikis
+#### Publication Impact
+#### Literary Mapping
+#### Tracking Publications
+#### Reading Recommendations
+#### Reading Lists
+#### Citation and Reference Management
+#### Literary Search Engines
+### Educational Resources
+### Templates and Formats
+### Design and Visualization
+#### 3D Visualization
+#### Augmented Reality Tools
+#### Color Tools
+#### Visualization Software
+#### Infographics and Diagrams
+#### Design Inspiration
+#### Typography Resources
+#### Gantt Chart Tools
+#### Graphic Design Software
+#### Mapping Tools
+#### Presentation Aids
+#### Visualization in MatLab
+#### Visualization in R
+##### Using ggplot
+#### Stock Images and Graphics
+### Video Production and Streaming
+### Web Development and Online Presence
+#### Website Development
+#### Social Media Platforms
+### Writing and Composition
+#### Writing Tips
+#### Editing Software
+#### Document Formatting
+#### Writing References
+#### Thesis Writing
+
+## XII. General Resources
+### Entertainment
+### Miscellaneous Tools
+
+## XIII. Other Awesome Resources
+
+## XIV. Acknowledgements
+
+
+---
 
 ### Academia
 
