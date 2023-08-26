@@ -190,9 +190,9 @@ This repository is intended to be a living, constantly developing resource where
 
 ---
 
-| | | | |
 |---|---|---|---|
 | [I. Overview](#i-overview) | | | |
+|---|---|---|---|
 | [II. Academic and Professional Development](#ii-academic-and-professional-development) | [Academia](#academic-insights) | [Networking Platforms](#networking-platforms) | |
 | | | [Guidance and Tips](#guidance-and-tips) | |
 | | | [Key Concepts](#key-concepts) | |
@@ -205,6 +205,7 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Beyond Academia](#beyond-academia) | |
 | | [Guides for PhD Students](#guides-for-phd-students) | | |
 | | [PhD Applications](#phd-applications) | | |
+|---|---|---|---|
 | [III. Financial Planning](#iii-financial-planning) | [Personal Budgeting](#personal-budgeting) | [Budget Management](#budget-management) | |
 | | | [Quick Earnings](#quick-earnings) | |
 | | | [Savings Strategies](#savings-strategies) | |
@@ -212,6 +213,7 @@ This repository is intended to be a living, constantly developing resource where
 | | | [UK Funding](#uk-funding) | |
 | | | [Global Opportunities](#global-opportunities) | |
 | | | [US Grants](#us-grants) | |
+|---|---|---|---|
 | [IV. Inclusivity and Accessibility](#iv-inclusivity-and-accessibility) | [Promoting Accessibility](#promoting-accessibility) | [Resource Guides](#resource-guides) | |
 | | | [Support for Global South](#support-for-global-south) | |
 | | | [Indigenous Communities](#indigenous-communities) | |
@@ -219,6 +221,7 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Refugee Assistance](#refugee-assistance) | |
 | | | [Disability-Friendly Tools](#disability-friendly-tools) | |
 | | | [Language Translation](#language-translation) | |
+|---|---|---|---|
 | [V. Research and Data Handling](#v-research-and-data-handling) | [Effective Research](#effective-research) | [Designing Research](#designing-research) | |
 | | | [Ensuring Reproducibility](#ensuring-reproducibility) | |
 | | [Data Management](#data-management) | [Gathering Data](#gathering-data) | [Survey Tools](#survey-tools) |
@@ -227,9 +230,11 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Data Cleaning Techniques](#data-cleaning-techniques) | |
 | | | [Digitalization Methods](#digitalization-methods) | |
 | | | [Web Scraping Tools](#web-scraping-tools) | |
+|---|---|---|---|
 | [VI. Events and Networking](#vi-events-and-networking) | [Conferences and Workshops](#conferences-and-workshops) | [Upcoming Events](#upcoming-events) | |
 | | | [Participation Tips](#participation-tips) | |
 | | | [Event Management Tools](#event-management-tools) | |
+|---|---|---|---|
 | [VII. Technology and Coding](#vii-technology-and-coding) | [Digital Tools](#digital-tools) | [Data Backup Solutions](#data-backup-solutions) | |
 | | | [Developer Utilities](#developer-utilities) | |
 | | | [Version Control with Git](#version-control-with-git) | |
@@ -243,6 +248,7 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Office Suite Tools](#office-suite-tools) | |
 | | | [Automating Tasks](#automating-tasks) | |
 | | | [Digital Utilities](#digital-utilities) | |
+|---|---|---|---|
 | [VIII. Discipline-Specific Resources](#viii-discipline-specific-resources) | [Natural Sciences](#natural-sciences) | [Archaeological Studies](#archaeological-studies) | |
 | | | [Biological Research](#biological-research) | |
 | | | [Ecological Studies](#ecological-studies) | |
@@ -257,6 +263,7 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Psychophysiological Research](#psychophysiological-research) | |
 | | | [Religious Studies](#religious-studies) | |
 | | [Research Tools and Methods](#research-tools-and-methods) | [Stimulus Resources](#stimulus-resources) | |
+|---|---|---|---|
 | [IX. Communication and Public Engagement](#ix-communication-and-public-engagement) | [Engaging the Public](#engaging-the-public) | [Outreach Tips](#outreach-tips) | |
 | | | [Reference Materials](#reference-materials) | |
 | | | [Engagement Resources](#engagement-resources) | |
@@ -267,9 +274,11 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Authorship Guidelines](#authorship-guidelines) | |
 | | | [Promoting Research](#promoting-research) | |
 | | | [Publication Tools](#publication-tools) | |
+|---|---|---|---|
 | [X. Personal Well-being and Growth](#x-personal-well-being-and-growth) | [Mental Health and Mindfulness](#mental-health-and-mindfulness) | [Ambient Media](#ambient-soundscapes) | |
 | | [Self-Care Resources](#self-care-resources) | | |
 | | [Support Groups](#support-groups) | | |
+|---|---|---|---|
 | [XI. Additional Tools and Resources](#xi-additional-tools-and-resources) | [Legal and Ethical Resources](#legal-and-ethical-resources) | | |
 | | [Lab Equipment and Tools](#lab-equipment-and-tools) | [Collaborative Platforms](#collaborative-platforms) | |
 | | | [Electronic Devices](#electronic-devices) | |
@@ -315,10 +324,14 @@ This repository is intended to be a living, constantly developing resource where
 | | | [Document Formatting](#document-formatting) | |
 | | | [Writing References](#writing-references) | |
 | | | [Thesis Writing](#thesis-writing) | |
+|---|---|---|---|
 | [XII. General Resources](#xii-general-resources) | [Entertainment](#entertainment) | | |
 | | [Miscellaneous Tools](#miscellaneous-tools) | | |
+|---|---|---|---|
 | [XIII. Other Awesome Resources](#xiii-other-awesome-resources) | | | |
+|---|---|---|---|
 | [XIV. Acknowledgements](#xiv-acknowledgements) | | | |
+|---|---|---|---|
 
 ---
 
