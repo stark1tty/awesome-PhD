@@ -13,6 +13,8 @@ This repository is intended to be a living, constantly developing resource where
 
 <!-- MarkdownTOC depth=4 -->
 
+| | | | |
+| --- | --- | --- | --- | 
 | I. Overview | | | |
 | II. Academic and Professional Development | | | |
 | | Academia | Networking Platforms | |
