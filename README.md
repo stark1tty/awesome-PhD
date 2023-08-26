@@ -80,7 +80,7 @@ This repository is intended to be a living, constantly developing resource where
         - [Electronics](#laboratory-tools|electronics)
         - [Imaging Tools](#laboratory-tools|imaging-tools)
         - [Microscopy](#laboratory-tools|microscopy)
-    - [Wet Lab Tools](#wet-lab-tools)
+        - [Wet Lab Tools](#wet-lab-tools)
     - [Literature](#literature)
         - [Accessibility](#literature|accessibility)
         - [AI Tools for Reading Comprehension and Summarisers](#literature|ai-tools-for-reading-comprehension-and-summarisers)
