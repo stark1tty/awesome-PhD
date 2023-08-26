@@ -59,6 +59,13 @@ This repository is intended to be a living, constantly developing resource where
 - [XIII. Other Awesome Resources](#xiii-other-awesome-resources)
 - [XIV. Acknowledgements](#xiv-acknowledgements)
 
+*An extended, tabular version of this list can be found in [I. Overview](#i-overview).*
+
+<!-- /MarkdownTOC -->
+
+---
+
+# I. Overview
 
 | | | | |
 | --- | --- | --- | --- | 
@@ -202,13 +209,6 @@ This repository is intended to be a living, constantly developing resource where
 | | [Miscellaneous Tools](#miscellaneous-tools) | | |
 | [XIII. Other Awesome Resources](#xiii-other-awesome-resources) | | | |
 | [XIV. Acknowledgements](#xiv-acknowledgements) | | | |
-
-
-<!-- /MarkdownTOC -->
-
----
-
-# I. Overview
 
 ## II. Academic and Professional Development
 ### Academia
