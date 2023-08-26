@@ -10,11 +10,9 @@ This repository is intended to be a living, constantly developing resource where
 
 <!-- MarkdownTOC depth=4 -->
 
-## Table of Contents
+**[I. Overview](#i-overview)**
 
-[I. Overview](#i-overview)
-
-[II. Academic and Professional Development](#ii-academic-and-professional-development)
+**[II. Academic and Professional Development](#ii-academic-and-professional-development)**
    - [Academia](#academic-insights)
        - [Networking Platforms](#networking-platforms)
        - [Guidance and Tips](#guidance-and-tips)
@@ -30,7 +28,7 @@ This repository is intended to be a living, constantly developing resource where
    - [Guides for PhD Students](#guides-for-phd-students)
    - [PhD Applications](#phd-applications)
 
-[III. Financial Planning](#iii-financial-planning)
+**[III. Financial Planning](#iii-financial-planning)**
    - [Personal Budgeting](#personal-budgeting)
        - [Budget Management](#budget-management)
        - [Quick Earnings](#quick-earnings)
@@ -41,7 +39,7 @@ This repository is intended to be a living, constantly developing resource where
        - [Global Opportunities](#global-opportunities)
        - [US Grants](#us-grants)
 
-[IV. Inclusivity and Accessibility](#iv-inclusivity-and-accessibility)
+**[IV. Inclusivity and Accessibility](#iv-inclusivity-and-accessibility)**
    - [Promoting Accessibility](#promoting-accessibility)
        - [Resource Guides](#resource-guides)
        - [Support for Global South](#support-for-global-south)
@@ -51,7 +49,7 @@ This repository is intended to be a living, constantly developing resource where
        - [Disability-Friendly Tools](#disability-friendly-tools)
        - [Language Translation](#language-translation)
 
-[V. Research and Data Handling](#v-research-and-data-handling)
+**[V. Research and Data Handling](#v-research-and-data-handling)**
    - [Effective Research](#effective-research)
        - [Designing Research](#designing-research)
        - [Ensuring Reproducibility](#ensuring-reproducibility)
@@ -64,13 +62,13 @@ This repository is intended to be a living, constantly developing resource where
        - [Digitalization Methods](#digitalization-methods)
        - [Web Scraping Tools](#web-scraping-tools)
 
-[VI. Events and Networking](#vi-events-and-networking)
+**[VI. Events and Networking](#vi-events-and-networking)**
    - [Conferences and Workshops](#conferences-and-workshops)
        - [Upcoming Events](#upcoming-events)
        - [Participation Tips](#participation-tips)
        - [Event Management Tools](#event-management-tools)
 
-[VII. Technology and Coding](#vii-technology-and-coding)
+**[VII. Technology and Coding](#vii-technology-and-coding)**
    - [Digital Tools](#digital-tools)
        - [Data Backup Solutions](#data-backup-solutions)
        - [Developer Utilities](#developer-utilities)
@@ -88,7 +86,7 @@ This repository is intended to be a living, constantly developing resource where
        - [Automating Tasks](#automating-tasks)
        - [Digital Utilities](#digital-utilities)
 
-[VIII. Discipline-Specific Resources](#viii-discipline-specific-resources)
+**[VIII. Discipline-Specific Resources](#viii-discipline-specific-resources)**
    - [Natural Sciences](#natural-sciences)
        - [Archaeological Studies](#archaeological-studies)
        - [Biological Research](#biological-research)
@@ -107,7 +105,7 @@ This repository is intended to be a living, constantly developing resource where
    - [Research Tools and Methods](#research-tools-and-methods)
        - [Stimulus Resources](#stimulus-resources)
 
-[IX. Communication and Public Engagement](#ix-communication-and-public-engagement)
+**[IX. Communication and Public Engagement](#ix-communication-and-public-engagement)**
    - [Engaging the Public](#engaging-the-public)
        - [Outreach Tips](#outreach-tips)
        - [Reference Materials](#reference-materials)
@@ -121,13 +119,13 @@ This repository is intended to be a living, constantly developing resource where
        - [Promoting Research](#promoting-research)
        - [Publication Tools](#publication-tools)
 
-[X. Personal Well-being and Growth](#x-personal-well-being-and-growth)
+**[X. Personal Well-being and Growth](#x-personal-well-being-and-growth)**
    - [Mental Health and Mindfulness](#mental-health-and-mindfulness)
        - [Ambient Soundscapes](#ambient-soundscapes)
        - [Self-Care Resources](#self-care-resources)
    - [Improving Life Quality](#improving-life-quality)
 
-[XI. Additional Tools and Resources](#xi-additional-tools-and-resources)
+**[XI. Additional Tools and Resources](#xi-additional-tools-and-resources)**
    - [Legal and Ethical Resources](#legal-and-ethical-resources)
    - [Lab Equipment and Tools](#lab-equipment-and-tools)
        - [Collaborative Platforms](#collaborative-platforms)
@@ -180,13 +178,13 @@ This repository is intended to be a living, constantly developing resource where
        - [Writing References](#writing-references)
        - [Thesis Writing](#thesis-writing)
 
-[XII. General Resources](#xii-general-resources)
+**[XII. General Resources](#xii-general-resources)**
    - [Entertainment](#entertainment)
    - [Miscellaneous Tools](#miscellaneous-tools)
 
-[XIII. Other Awesome Resources](#xiii-other-awesome-resources)
+**[XIII. Other Awesome Resources](#xiii-other-awesome-resources)**
 
-[XIV. Acknowledgements](#xiv-acknowledgements)
+**[XIV. Acknowledgements](#xiv-acknowledgements)**
 
 <!-- /MarkdownTOC -->
 
