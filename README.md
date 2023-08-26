@@ -190,7 +190,8 @@ This repository is intended to be a living, constantly developing resource where
 
 ---
 
-
+| **Table of Contents** | | |
+|---|---|---|---|
 | [I. Overview](#i-overview) | | | |
 | [II. Academic and Professional Development](#ii-academic-and-professional-development) | | | |
 | | [Academia](#academic-insights) | [Networking Platforms](#networking-platforms) | |
