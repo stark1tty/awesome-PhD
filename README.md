@@ -395,6 +395,7 @@ Tabular navigation is provided below for easy access to the different sections o
 ### Academia
 
 #### Academic Profiles and Networks
+- [RESEARCH COMMUNITIES](https://beta.app.redforester.com/mindmap?mapid=d1d1483e-6c97-44f2-891f-46dd6a8c1c5f&nodeid=b624c35a-297c-47a1-978a-65d3c7f4afa7): A neat little list of different academic communities in a mind map format. 
 - [RESEARCHGATE](https://www.researchgate.net/): Discover scientific knowledge and stay connected to the world of science. Discover research. Connect with your scientific community. Measure your impact.
 - [ORCID](https://orcid.org/): Get an ORCID - an "Open Researcher and Contributor ID" which is a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. Link your projects and output to your ORCID.
 
@@ -411,7 +412,8 @@ Tabular navigation is provided below for easy access to the different sections o
 - [HOW TO SOLVE IT](https://www.math.utah.edu/~alfeld/math/polya.html): Summary taken from G. Polya, "How to Solve It", 2nd ed., Princeton University Press, 1957, ISBN 0-691-08097-6.
 - [IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
 - [SCIENTIFIC KNOWLEDGE IS DROWNING IN A FLOOD OF RESEARCH](https://massivesci.com/articles/chaos-in-the-brickyard-comic-matteo-farinella/): A comic about the problems with the -omics, illustrated by Matteo Farinella
-- [SUPPOSE I WANT TO KILL A LOT OF PILOTS](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure): An easy to digest read about [anticipatory failure determination](https://www.npd-solutions.com/afd.html). Rather than asking to look for a cause of a failure, it reverses the problem by asking to view the failure of interest as the intended consequence and try to devise ways to assure that the failure always happens reliably.
+- [SUPPOSE I WANT TO KILL A LOT OF PILOTS](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure): An easy-to-digest read about [anticipatory failure determination](https://www.npd-solutions.com/afd.html). Rather than asking to look for a cause of a failure, it reverses the problem by asking to view the failure of interest as the intended consequence and try to devise ways to assure that the failure always happens reliably.
+- [THE GOLLUM EFFECT](https://www.frontiersin.org/articles/10.3389/fevo.2022.889236/full): Despite conservation research becoming increasingly more collaborative over the last decades, access to resources, such as species, study sites, and sometimes even research topics or entire fields remain restricted. This is partly caused by scientists who have become possessively attached and guard these aspects of their research; an issue we refer to as the Gollum effect.
 - [THE STRUCTURE OF SCIENTIFIC REVOLUTIONS](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf): PDF of the classic History iof of Science work by Thomas Kuhn. Read more [here](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions#:~:text=Kuhn%20argued%20for%20an%20episodic,science%20leads%20to%20new%20paradigms.).
 - [WE NEED TO TALK ABOUT READING](https://thesiswhisperer.com/2018/05/23/we-need-to-talk-about-reading/): Academics, under pressure to conform to performance metrics, have produced more and more reading material. All this busy writing has resulted in the creation of a reading mountain, so large it is a sincere threat to our ability to do our jobs. Related: [The Active Skim: Efficient Reading as a Moral Challenge in Postgraduate Education](https://journals.sagepub.com/doi/abs/10.1177/0092055X17697770)
 
@@ -443,13 +445,14 @@ Tabular navigation is provided below for easy access to the different sections o
 - [ECOUTE](https://github.com/SevaSk/ecoute): Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation. Good for prompting those with social anxiety, hearing issues and other disabilities.
 
 #### Translators
-- [DeepL](https://www.deepl.com/en/translator): Translator that outperforms Google Translator, albeit more limited language selection.
+- [DEEPL](https://www.deepl.com/en/translator): Translator that outperforms Google Translator, albeit more limited language selection.
 
 ### Application Resources
 See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 
 - [A COMPARISON OF EUROPEAN AND US BASED PHD EDUCATION](https://medium.com/@phdinformation.usa/comparison-of-european-and-us-based-phd-education-4753c97c2c95#:~:text=European%20PhDs%20tend%20to%20have,their%20time%20as%20graduate%20students.&text=The%20duration%20for%20completing%20a,for%20a%20full%2Dtime%20program.): Blog post that sussinctly breaks down the differences between PhD expectations for the US and Europe.
 - [PI REVIEW](https://pi-review.com/): A website for PhD students to review their PIs. Know who you are getting involved with from the horse's mouth.
+- [WHAT YOU NEED TO KNOW BEFORE CONSIDERING A PHD](https://www.fast.ai/posts/2018-08-27-grad-school.html): Frank advice from a data scientist.
 
 ### Budgeting
 
@@ -475,9 +478,14 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 
 #### Job and Academic Post Boards
+- [ACADEMIC JOBS EU](https://www.academicjobseu.com/default.asp): Self proclaimed leading job board for academic jobs in Europe.
+- [FINDAMASTERS](https://www.findamasters.com/): FindAMasters is a directory of Masters degrees and postgraduate qualifications at universities around the world.
+- [FINDAPOSTDOC](https://www.findapostdoc.com/): FindAPostDoc is dedicated to listing jobs for new and recently qualified PhDs.
 - [JOBRXIV](https://jobrxiv.org/): Job board for academics and funded graduate student opportunities, including PhDs and research fellowships.
 - [JOBS.AC.UK](https://www.jobs.ac.uk/): A leading international job board for careers in academic, research, science and related professions. Mostly for posts in the UK and some of Europe.
 - [NATURE CAREERS](https://www.nature.com/naturecareers/): Higher profile postings from Nature; international.
+- [PHD SEARCH](https://www.findaphd.com/phds/): Search engine for finding funded PhD opportunities mostly in the UK.
+- [STUDY PORTALS](https://studyportals.com/): Studyportals began as a spin-off from a couple of large international study associations. It's network includes Bachelorsportal.com, PhDportal.com, Shortcoursesportal.com, and Distancelearningportal.com.
 
 #### Transitioning Out of Academia
 - [HOW TO BE A CONSULTANT, A FREELANCER, OR INDEPENDENT CONTRACTOR](https://jacquesmattheij.com/be-consultant/): This is a series of pages that guide you through the creation and operation of a successful consulting business.
@@ -495,10 +503,12 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [NATURE EVENTS](https://www.nature.com/naturecareers/events/): Events listing from Nature; international.
 
 #### Guidance
+- [HOW TO SPEAK IN PUBLIC](https://psyche.co/guides/public-speaking-doesnt-need-to-be-an-ordeal-if-you-follow-the-ancients): Public speaking can feel like an ordeal, but take a lesson from the ancients: it’s a skill you can develop like any other.
 - [TALK INVITATIONS](https://www.chjh.nl/what-to-do-with-that-invitation/): Have you been invited to speak somewhere? Here are some questions you might (and should) ask beforehand.
 - [WIKIVOYAGE](https://en.wikivoyage.org/wiki/Main_Page): The free worldwide travel guide that you can edit. The official, non-commercial sister site of Wikipedia for sightseeing, activities, cuisine and accommodation around the world.
 
 #### Tools
+- [PLAYBOOK FOR UNIVERSAL DESIGN](https://universaldesignguide.com/): This Universal Design Playbook was created with the purpose of providing easy access to planning and facilitating universal design development work, whether it is short workshops or longer work sessions. Lots of good ideas for planning events.
 - [RESURCHIFY](https://www.resurchify.com/): Resurchify is an information portal for the people pursuing research. We bring to you a varied list of research gatherings like conferences, journals, meetings, symposiums, etc across multiple areas. Along with that, we also share a huge chunk of details of these events. For example, for the conferences, we share their important schedules, call for papers, etc. The site also includes various ranking metrics for journals, conferences and other events.
 
 ### Data
@@ -544,6 +554,7 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [APIFY](https://apify.com/): Build, deploy, and monitor web scraping and browser automation tools. 
 - [POLITE](https://ivelasq.rbind.io/blog/politely-scraping/index.html): R package for scraping Wikipedia tables.
 - [SENSIBLE](https://www.sensible.so/): Describe the data you want extracted from any document – structured or unstructured.
+- [SYSREV](https://sysrev.com/): SysRev helps humans work together and with machines to extract data from documents.
 - [WEB PLOT DIGITIZER](https://automeris.io/WebPlotDigitizer/): Helps you to reverse engineer data from visualizations by extracting the underlying numerical values.
 
 ### Events
@@ -589,6 +600,9 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 
 #### Keyboard Shortcuts
 
+##### Mac
+- [EIGHTY SHADES OF OPTION KEY](https://getenet.notion.site/Eighty-Shades-of-Option-Key-3c6e58feb5c848ee9d4c027f0b9d52e0): Stuck between the Command and Control (ctrl, or ^) keys, the Option key, also called Alt key, because of the switch symbol ⌥ that adorns it, is… magical! It is (almost) never used alone, but in combination with other keys, to launch various actions.
+
 ##### Windows
 - Use Windows key + Shift + S to take a cropped screenshot.
 - Make sure to [enable your clipboard history](https://support.microsoft.com/en-us/windows/clipboard-in-windows-c436501e-985d-1c8d-97ea-fe46ddf338c6).
@@ -628,6 +642,7 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [HUGINN](https://github.com/huginn/huginn): Huginn is a system for building agents that perform automated tasks for you online. They can read the web, watch for events, and take action on your behalf. Huginn's Agents create and consume events, propagating them along a directed graph.
 - [MICROSOFT POWER AUTOMATE](https://powerautomate.microsoft.com/): Office 365 application for automating tasks across their entire software and OS suite; includes AI tools.
 - [N8N](https://github.com/n8n-io/n8n): An extendable workflow automation tool. With a fair-code distribution model, n8n will always have visible source code, be available to self-host, and allow you to add your own custom functions, logic and apps. n8n's node-based approach makes it highly versatile, enabling you to connect anything to everything.
+- [NOVU](https://github.com/novuhq/novu): An open-source notification infrastructure offering a unified API for multi-channel notifications, including In-App, Push, Email, SMS, and Chat, with an embedded notification center.
 
 #### Tools and Utilities
 - [ARCHIVEBOX](https://github.com/ArchiveBox/ArchiveBox): ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.
@@ -650,8 +665,9 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [GOV.UK GOVERNMENT GRANTS](https://www.gov.uk/guidance/find-government-grants): Browse a list of available government grants and see if you're eligible to apply for them.
 - [GRANTS ONLINE](https://www.grantsonline.org.uk/): Probably the UK's most up to date and comprehensive UK funding information service.
 
-#### Internationa
+#### International
 - [GRANTWAY](https://grantway.induct.net/search?sc=250&q=): Grantway is global search portal for funding opportunities. We search all open sources for available funding opportunities and connect these to all countries eligible to apply. Select your country and we'll make sure to include all international opportunities that are also available.
+- [POSTGRADUATE FUNDING SEARCH](https://www.postgraduatefunding.com/): Search for thousands of travel grants, top-up grants, exchange programme funding, living cost grants, fee waivers & Masters funding grants.
 
 #### USA
 - [GRANTS.GOV](https://www.grants.gov/search-site.html): US government-sponsored grant searching site; includes a variety oof resources for applications.
@@ -824,6 +840,10 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [ONLINE SAFARI](https://onlinesafari.tv/): Wildlife live streams for background visuals.
 - [TURTLES AND CHILL]()
 
+#### Guidance
+- [HOW TO COPE WITH SHAME](https://psyche.co/guides/how-to-cope-with-shame-by-understanding-where-it-comes-from): Do you feel perpetually bad, broken or unlovable? These tools will help you relate to yourself in a fairer, gentler way.
+- [HOW TO DIFFUSE CATASTROPHIC THOUGHTS](https://psyche.co/guides/how-to-stop-thinking-the-worst-and-learn-not-to-catastrophise): Do you often fear the worst is going to happen? Use these therapeutic techniques to think more rationally and calmly.
+
 #### Self-Care
 - [THE SAD BASTARD COOKBOOK](https://traumbooks.itch.io/the-sad-bastard-cookbook): "Life is hard. Some days are at the absolute limit of what we can manage. Some days are worse than that. Eating—picking a meal, making it, putting it into your facehole—can feel like an insurmountable challenge. We wrote this cookbook to share our coping strategies. It has recipes to make when you've worked a 16-hour day, when you can't stop crying and you don't know why, when you accidentally woke up an Eldritch abomination at the bottom of the ocean. But most of all, this cookbook exists to help Sad Bastards like us feel a little less alone at mealtimes."
 
@@ -870,6 +890,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [TOGGL](https://toggl.com/): A handy little app that you can use to track your work hours on a project-by-project basis. It is as complex as you make it. It offers some useful metrics and alerts to make sure that your mind has not wandered off task. 
 
 ### PhD Guides
+- [A SURVIVAL GUIDE TO A PHD](https://karpathy.github.io/2016/09/07/phd/): Generalist advice from a Computer Science/Machine Learning/Computer Vision researcher.
 - [DETOX YOUR WRITING](https://www.routledge.com/Detox-Your-Writing-Strategies-for-doctoral-researchers/Thomson-Kamler/p/book/9780415820844): Strategies for Doctoral Researchers (2016), Authors: Pat Thomson & Barbara Kamler
 - [PHD: AN UNCOMMON GUIDE](https://phd.academy/the-book): PhD - An uncommon guide to research, writing & PhD life (2015), Author: James Hayton
 
@@ -877,6 +898,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [IFORS](https://www.ifors.org): Operational research (OR) encompasses the development and the application of a wide range of problem-solving methods and techniques applied in the pursuit of improved decision-making and efficiency, such as mathematical optimization, simulation, queueing theory and other stochastic models.
 
 ### Project Management
+- [AWESOME PROJECT MANAGEMENT](https://github.com/shahedbd/awesome-project-management): This Awesome list about Project Management interesting and useful topics.
 - [LABTAB](https://labtab.io/): One unified platform for running your lab, managing your meetings and deadlines, and organising your projects - to give you your time back.
 - [MICROSOFT PLANNER](https://tasks.office.com/): A simple, visual way to organise teamwork.
 - [MICROSOFT PROJECT](https://www.microsoft.com/en-gb/microsoft-365/project/project-management-software): Stay organized, focused, and in charge. Tackle anything from small projects to large initiatives. You may or may not be a project manager, but now you can be the boss of any project with a powerful, easy-to-use app.
@@ -978,6 +1000,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 #### Mind Mapping Tools
 - [KNOWLEDGE](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, exploring, and chatting with all of your favorite websites, documents, and files.
 - [MINDMASTER](https://www.edrawmind.com/): Free & paid extensive mind mapping software that is visually pleasing and exports to a variety of formats. Also includes a [GANTT chart](#gantt-charts) maker.
+- [REDFORESTER](https://redforester.com/): Mind-mapping tools taoilored for online collaboration. 
 
 ### Research Guides
 - [QUICK THOUGHTS ON RESEARCH](https://michaelnotebook.com/qtr/index.html): A short but valuable list of heuristics or principles for doing good creative research work.
@@ -1016,6 +1039,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [JEOPARDY LABS](https://jeopardylabs.com/): Create Jeopardy-style games for teaching, free. 
 - [JOURNAL OF OPEN SOURCE EDUCATION](https://jose.theoj.org/about): The Journal of Open Source Education is an educator-friendly journal for publishing open-source educational materials and software.
 - [OER COMMONS](https://oercommons.org/): OER Commons is a public digital library of open educational resources. Explore, create, and collaborate with educators around the world to improve curriculum.
+- [WIKIEDUCATOR](https://wikieducator.org/Main_Page): WikiEducator is a community project working collaboratively with the Free Culture Movement towards incremental development of open educational resources.
 - [WIKIVERSITY](https://en.wikiversity.org/wiki/Wikiversity:Main_Page): Wikiversity is a Wikimedia Foundation project devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education from pre-school to university, including professional training and informal learning. 
 
 ### Templates
@@ -1145,7 +1169,9 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 ### Writing
 
 #### Advice
+- [7 SINS OF WRITING](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing): Advice on common tropes to avoid from Hamilton University.
 - [LEADERSHIP LAB](https://youtu.be/vtIzMaLkCaM): If you want to know how to write effectively, watch this video.
+- [THE ELEMENTS OF STYLE](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf): This book is intended for use in English courses in which the practice of composition is combined with the study of literature. It aims to give in brief space the principal requirements of plain English style. 
 
 #### Editing Tools
 - [ACADEMIZER](https://x.writefull.com/academizer): Writefull's Academizer makes your informal sentence appropriate for an academic text.
@@ -1166,6 +1192,9 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 #### Thesis
 - [HOW TO WRITE A LITERATURE REVIEW](https://www.tandfonline.com/doi/full/10.1080/01441647.2015.1065456): This paper discusses the question about how to write a literature review paper (LRP). It stresses the primary importance of adding value, rather than only providing an overview, and it then discusses some of the reasons for (or not) actually writing an LRP, including issues relating to the nature and scope of the paper. It also presents different types of LRPs, advises on reporting the methodology used for the selection of papers for review, and the structure of an LRP. An important conclusion is that the heterogeneity in LRPs is very large. This paper also presents some of the aspects that the authors feel are important structural and contextual considerations that help produce high-quality review papers.
 - [TRADITIONAL THESIS STRUCTURE DIAGRAM](attachments/RDT_20230504_1725131223826810542146350.jpg): *Author unknown, please edit with a source if known.*
+
+#### Writing Applications
+- [SCRIVENER](https://www.literatureandlatte.com/scrivener/overview): Tailor-made for long writing projects, Scrivener banishes page fright by allowing you to compose your text in any order, in sections as large or small as you like. Got a great idea but don't know where it fits? Write when inspiration strikes and find its place later. Grow your manuscript organically, idea by idea.
  
 ---
 
