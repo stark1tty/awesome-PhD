@@ -1,7 +1,7 @@
 # Awesome-PhD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-![IMG PLACEHOLDER]()
-
+<center>
+![](assets/pihf1n9gx6l71.jpg)
+</center>
 ---
 ---
 
