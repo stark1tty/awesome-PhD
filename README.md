@@ -1,6 +1,6 @@
 # Awesome-PhD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Advice, tools, and guides for the PhD journey.
+An awesome list of advice, tools, and guides for the PhD journey.
 
 ---
 ---
