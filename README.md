@@ -1175,7 +1175,8 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 #### Background and White Noise
 - [COFFITIVITY](https://coffitivity.com/): Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
 - [ONLINE SAFARI](https://onlinesafari.tv/): Wildlife live streams for background visuals.
-- [TURTLES AND CHILL]()
+- [TRAIN JOURNEY TO THE ARCTIC CIRCLE](https://www.youtube.com/watch?v=3rDjPLvOShM&ab_channel=SlowTVRelax%26Background): NKR broadcast of a train going through the Norwegian countryside. Soothing.
+- [TURTLES AND CHILL](https://www.twitch.tv/turtlesandchill): Twitch channel with nothung but lofi and aquariums. 
 
 #### Guidance
 - [BEING KINDER TO OURSELVES](https://www.reddit.com/r/PhD/comments/o414sc/being_kinder_to_ourselves_a_resource_for_phd/): Doing a PhD can be lonely and demoralising at times, so remember that you're not alone. A metaphor to show solidarity, even when things are tough.
