@@ -1,6 +1,6 @@
 # Awesome-PhD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![](assets/300pxlabdog.jpg)
+Advice, tools, and guides for the PhD journey.
 
 ---
 ---
@@ -66,6 +66,8 @@
 This list is intended as a curated list of carefully selected tools and resources I wish I knew when starting my PhD. All of these tools make your life SO MUCH easier and are both for early career as well as more senior researchers (or even if you are not in academia, for that matter). The original Twitter thread where I started this list can be found [here](https://twitter.com/helenahhartmann/status/1473735195920633859).
 
 This repository is intended to be a living, constantly developing resource where everybody can contribute new resources! If you want to contribute, please read the contribution guidelines [here](https://github.com/helenahartmann/awesome-PhD/blob/main/contributing_guidelines.md) first, then send a pull request or contact me [on Twitter](https://twitter.com/helenahhartmann) in case of any questions.
+
+![](assets/300pxlabdog.jpg)
 
 ## Navigation
 
