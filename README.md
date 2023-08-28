@@ -1,6 +1,6 @@
 # Awesome-PhD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![](assets/labdog.jpg)
+![](assets/300pxlabdog.jpg)
 
 ---
 ---
