@@ -218,176 +218,479 @@ Tabular navigation is provided below for easy access to the different sections o
 
 ## II. Academic and Professional Development
 ### Academia
+
+[▲ Top](#navigation)
+
 #### Networking Platforms
+
+[▲ Top](#navigation)
+
 #### Guidance and Tips
+
+[▲ Top](#navigation)
+
 #### Key Concepts
+
+[▲ Top](#navigation)
+
 #### News and Blogs
+
+[▲ Top](#navigation)
+
 #### Recommended Reads
+
+[▲ Top](#navigation)
+
 ### Career Pathways
+
+[▲ Top](#navigation)
+
 #### Resume Building
+
+[▲ Top](#navigation)
+
 #### Professional Growth
+
+[▲ Top](#navigation)
+
 #### Interview Preparation
+
+[▲ Top](#navigation)
+
 #### Job and Academic Opportunities
+
+[▲ Top](#navigation)
+
 #### Beyond Academia
+
+[▲ Top](#navigation)
+
 ### Guides for PhD Students
+
+[▲ Top](#navigation)
+
 ### PhD Applications
 
+[▲ Top](#navigation)
+
 ## III. Financial Planning
+
+[▲ Top](#navigation)
+
 ### Personal Budgeting
+
+[▲ Top](#navigation)
+
 #### Budget Management
+
+[▲ Top](#navigation)
+
 #### Quick Earnings
+
+[▲ Top](#navigation)
+
 #### Savings Strategies
+
+[▲ Top](#navigation)
+
 ### Research Funding
+
+[▲ Top](#navigation)
+
 #### European Grants
+
+[▲ Top](#navigation)
+
 #### UK Funding
+
+[▲ Top](#navigation)
+
 #### Global Opportunities
+
+[▲ Top](#navigation)
+
 #### US Grants
 
+[▲ Top](#navigation)
+
 ## IV. Inclusivity and Accessibility
+
+[▲ Top](#navigation)
+
 ### Promoting Accessibility
+
+[▲ Top](#navigation)
+
 #### Resource Guides
+
+[▲ Top](#navigation)
+
 #### Support for Global South
+
+[▲ Top](#navigation)
+
 #### Indigenous Communities
+
+[▲ Top](#navigation)
+
 #### Support for Learning Disabilities
+
+[▲ Top](#navigation)
+
 #### Refugee Assistance
+
+[▲ Top](#navigation)
+
 #### Disability-Friendly Tools
+
+[▲ Top](#navigation)
+
 #### Language Translation
 
+[▲ Top](#navigation)
+
 ## V. Research and Data Handling
+
+[▲ Top](#navigation)
+
 ### Effective Research
+
+[▲ Top](#navigation)
+
 #### Designing Research
+[▲ Top](#navigation)
 #### Ensuring Reproducibility
+[▲ Top](#navigation)
 ### Data Management
+[▲ Top](#navigation)
 #### Gathering Data
+[▲ Top](#navigation)
 ##### Survey Tools
+[▲ Top](#navigation)
 #### Version Control and Storage
+[▲ Top](#navigation)
 #### Available Datasets
+[▲ Top](#navigation)
 #### Data Cleaning Techniques
+[▲ Top](#navigation)
 #### Digitalization Methods
+[▲ Top](#navigation)
 #### Web Scraping Tools
+[▲ Top](#navigation)
 
 ## VI. Events and Networking
+[▲ Top](#navigation)
 ### Conferences and Workshops
+[▲ Top](#navigation)
 #### Upcoming Events
+[▲ Top](#navigation)
 #### Participation Tips
+[▲ Top](#navigation)
 #### Event Management Tools
+[▲ Top](#navigation)
 
 ## VII. Technology and Coding
+[▲ Top](#navigation)
 ### Digital Tools
+[▲ Top](#navigation)
 #### Data Backup Solutions
+[▲ Top](#navigation)
 #### Developer Utilities
+[▲ Top](#navigation)
 #### Version Control with Git
+[▲ Top](#navigation)
 #### Essential Shortcuts
+[▲ Top](#navigation)
 ##### For Windows Users
+[▲ Top](#navigation)
 #### Learning Programming
+[▲ Top](#navigation)
 ##### General Resources
+[▲ Top](#navigation)
 ##### LaTeX Tutorials
+[▲ Top](#navigation)
 ##### Markdown Guides
+[▲ Top](#navigation)
 ##### Python Learning
+[▲ Top](#navigation)
 ##### R Programming
+[▲ Top](#navigation)
 #### Miscellaneous Libraries
+[▲ Top](#navigation)
 #### Office Suite Tools
+[▲ Top](#navigation)
 #### Automating Tasks
+[▲ Top](#navigation)
 #### Digital Utilities
+[▲ Top](#navigation)
 
 ## VIII. Discipline-Specific Resources
+[▲ Top](#navigation)
 ### Natural Sciences
+[▲ Top](#navigation)
 #### Archaeology
+[▲ Top](#navigation)
 #### Biology
+[▲ Top](#navigation)
 #### Ecology
+[▲ Top](#navigation)
 #### Environmental Research
+[▲ Top](#navigation)
 #### Neuroscience
+[▲ Top](#navigation)
 #### Geography
+[▲ Top](#navigation)
 ### Humanities and Social Sciences
+[▲ Top](#navigation)
 #### Cognitive Studies
+[▲ Top](#navigation)
 #### Discourse Analysis
+[▲ Top](#navigation)
 #### Galleries, Libraries, Archives, and Museums (GLAMS)
+[▲ Top](#navigation)
 #### History
+[▲ Top](#navigation)
 #### Psychology
+[▲ Top](#navigation)
 #### Psychophysiology
+[▲ Top](#navigation)
 #### Religious Studies
+[▲ Top](#navigation)
 ### Research Tools and Methods
+[▲ Top](#navigation)
 #### Stimulus Resources
+[▲ Top](#navigation)
 
 ## IX. Communication and Public Engagement
+[▲ Top](#navigation)
 ### Engaging the Public
+[▲ Top](#navigation)
 #### Outreach Tips
+[▲ Top](#navigation)
 #### Reference Materials
+[▲ Top](#navigation)
 #### Engagement Resources
+[▲ Top](#navigation)
 #### Media Platforms
+[▲ Top](#navigation)
 #### Engagement Platforms
+[▲ Top](#navigation)
 ### Publishing and Dissemination
+[▲ Top](#navigation)
 #### General Publishing
+[▲ Top](#navigation)
 #### Writing and Publishing Tips
+[▲ Top](#navigation)
 #### Authorship Guidelines
+[▲ Top](#navigation)
 #### Promoting Research
+[▲ Top](#navigation)
 #### Publication Tools
+[▲ Top](#navigation)
 
 ## X. Support Groups
+[▲ Top](#navigation)
 ### Mental Health and Mindfulness
+[▲ Top](#navigation)
 #### Ambient Soundscapes
+[▲ Top](#navigation)
 #### Self-Care Resources
+[▲ Top](#navigation)
 
 ## XI. Additional Tools and Resources
+[▲ Top](#navigation)
 ### Legal and Ethical Resources
+[▲ Top](#navigation)
 ### Lab Equipment and Tools
+[▲ Top](#navigation)
 #### Collaborative Platforms
+[▲ Top](#navigation)
 #### Electronic Devices
+[▲ Top](#navigation)
 #### Imaging Equipment
+[▲ Top](#navigation)
 #### Microscopy Tools
+[▲ Top](#navigation)
 #### Wet Lab Equipment
+[▲ Top](#navigation)
 ### Literary Resources
+[▲ Top](#navigation)
 #### Accessibility Tools
+[▲ Top](#navigation)
 #### AI Reading Aids
+[▲ Top](#navigation)
 #### Literary Analysis
+[▲ Top](#navigation)
 #### Book Retailers
+[▲ Top](#navigation)
 #### Dictionaries and Thesauri
+[▲ Top](#navigation)
 #### Online Libraries
+[▲ Top](#navigation)
 #### Directories and Listings
+[▲ Top](#navigation)
 #### Encyclopedias and Wikis
+[▲ Top](#navigation)
+
 #### Publication Impact
+
+[▲ Top](#navigation)
+
 #### Literary Mapping
+
+[▲ Top](#navigation)
+
 #### Tracking Publications
+
+[▲ Top](#navigation)
+
 #### Reading Recommendations
+
+[▲ Top](#navigation)
+
 #### Reading Lists
+
+[▲ Top](#navigation)
+
 #### Citation and Reference Management
+
+[▲ Top](#navigation)
+
 #### Literary Search Engines
+
+[▲ Top](#navigation)
+
 ### Educational Resources
+
+[▲ Top](#navigation)
+
 ### Templates
+
+[▲ Top](#navigation)
+
 ### Design and Visualization
+
+[▲ Top](#navigation)
+
 #### 3D Visualization
+
+[▲ Top](#navigation)
+
 #### Augmented Reality Tools
+
+[▲ Top](#navigation)
+
 #### Color Tools
+
+[▲ Top](#navigation)
+
 #### Visualization Software
+
+[▲ Top](#navigation)
+
 #### Infographics and Diagrams
+
+[▲ Top](#navigation)
+
 #### Design Inspiration
+
+[▲ Top](#navigation)
+
 #### Typography Resources
+
+[▲ Top](#navigation)
+
 #### Gantt Chart Tools
+
+[▲ Top](#navigation)
+
 #### Graphic Design Software
+
+[▲ Top](#navigation)
+
 #### Mapping Tools
+
+[▲ Top](#navigation)
+
 #### Presentation Aids
+
+[▲ Top](#navigation)
+
 #### Visualization in MatLab
+
+[▲ Top](#navigation)
+
 #### Visualization in R
+
+[▲ Top](#navigation)
+
 ##### Using ggplot
+
+[▲ Top](#navigation)
+
 #### Stock Images and Graphics
+
+[▲ Top](#navigation)
+
 ### Video Production and Streaming
+
+[▲ Top](#navigation)
+
 ### Web Development and Online Presence
+
+[▲ Top](#navigation)
+
 #### Website Development
+
+[▲ Top](#navigation)
+
 #### Social Media Platforms
+
+[▲ Top](#navigation)
+
 ### Writing and Composition
+
+[▲ Top](#navigation)
+
 #### Writing Tips
+
+[▲ Top](#navigation)
+
 #### Editing Software
+
+[▲ Top](#navigation)
+
 #### Document Formatting
+
+[▲ Top](#navigation)
+
 #### Writing References
+
+[▲ Top](#navigation)
+
 #### Thesis Writing
 
+[▲ Top](#navigation)
+
 ## XII. General Resources
+
+[▲ Top](#navigation)
+
 ### Entertainment
+
+[▲ Top](#navigation)
+
 ### Miscellaneous Tools
+
+[▲ Top](#navigation)
 
 ## XIII. Other Awesome Resources
 
+[▲ Top](#navigation)
+
 ## XIV. Acknowledgements
+
+[▲ Top](#navigation)
 
 ---
 ---
