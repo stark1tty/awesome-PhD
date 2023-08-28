@@ -395,6 +395,7 @@ Tabular navigation is provided below for easy access to the different sections o
 ### Academia
 
 #### Academic Profiles and Networks
+- [JISCMAIL](https://www.jiscmail.ac.uk/): Email discussion lists for the UK Education and Research communities on an immense amount of fields.
 - [RESEARCH COMMUNITIES](https://beta.app.redforester.com/mindmap?mapid=d1d1483e-6c97-44f2-891f-46dd6a8c1c5f&nodeid=b624c35a-297c-47a1-978a-65d3c7f4afa7): A neat little list of different academic communities in a mind map format. 
 - [RESEARCHGATE](https://www.researchgate.net/): Discover scientific knowledge and stay connected to the world of science. Discover research. Connect with your scientific community. Measure your impact.
 - [ORCID](https://orcid.org/): Get an ORCID - an "Open Researcher and Contributor ID" which is a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. Link your projects and output to your ORCID.
@@ -405,15 +406,19 @@ Tabular navigation is provided below for easy access to the different sections o
 #### Concepts
 - [DIMENSIONALITY REDUCTION](https://en.wikipedia.org/wiki/Dimensionality_reduction): The transformation of data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data so that you may test it.
 - [H-INDEX](https://www.pnas.org/doi/10.1073/pnas.0507655102): Today, an academic career strongly depends on the peer-reviewed publication productivity and its impact. Both are meant to be reflected in one single number: the h-index. This is how it was proposed and how it works.
+- [INTELLECTUAL PROPERTY RIGHTS](https://www.euraxess.org.uk/united-kingdom/essential-information/intellectual-property-rights): Intellectual Property (IP) is a term given to ideas or other creative or innovative subject matter. An individual can own the rights to a certain piece of IP and thus control its use, or in some cases benefit from its application. In other words, who owns your work?
+- [RESEARCH PROGRAM](https://en.wikipedia.org/wiki/Research_program): Simply put, a professional network of scientists conducting basic research.
 
 #### Good Reads
 - [ACADEMIC ASSHOLES AND THE CIRCLE OF NICENESS](https://thesiswhisperer.com/2013/02/13/academic-assholes/): Displaying cleverness during PhD seminars and during talks at conferences is a way academics show off their scholarly prowess to each other, sometimes at the expense of the student. Cleverness is a form of currency in academia; or ‘cultural capital’ if you like.
+- [DEAR GRADUATE STUDENTS](https://www.insidehighered.com/news/2022/12/07/faculty-member-issues-dire-warning-grad-students-about-jobs): A professor of political science at IU Bloomington issued [a dire warning](https://www.reddit.com/r/PhD/comments/1523aqh/a_professors_warning_letter_to_his_phd_student/) about the job market to graduate students in his department. Was it necessary?
 - [HOW AND WHEN TO END A SIDE PROJECT](https://www.mooreds.com/wordpress/archives/3616): Advice when you are having mixed feelings about side projects.
 - [HOW TO SOLVE IT](https://www.math.utah.edu/~alfeld/math/polya.html): Summary taken from G. Polya, "How to Solve It", 2nd ed., Princeton University Press, 1957, ISBN 0-691-08097-6.
 - [IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
 - [SCIENTIFIC KNOWLEDGE IS DROWNING IN A FLOOD OF RESEARCH](https://massivesci.com/articles/chaos-in-the-brickyard-comic-matteo-farinella/): A comic about the problems with the -omics, illustrated by Matteo Farinella
 - [SUPPOSE I WANT TO KILL A LOT OF PILOTS](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure): An easy-to-digest read about [anticipatory failure determination](https://www.npd-solutions.com/afd.html). Rather than asking to look for a cause of a failure, it reverses the problem by asking to view the failure of interest as the intended consequence and try to devise ways to assure that the failure always happens reliably.
 - [THE GOLLUM EFFECT](https://www.frontiersin.org/articles/10.3389/fevo.2022.889236/full): Despite conservation research becoming increasingly more collaborative over the last decades, access to resources, such as species, study sites, and sometimes even research topics or entire fields remain restricted. This is partly caused by scientists who have become possessively attached and guard these aspects of their research; an issue we refer to as the Gollum effect.
+- [THE METHODOLOGY OF SCIENTIFIC RESEARCH PROGRAMMES](https://www.cambridge.org/core/books/methodology-of-scientific-research-programmes/8DBCEFE34A59BAD3D393FB958A4DC5FC): "A well-produced book that every philosopher of science or mathematics will wish to have."
 - [THE STRUCTURE OF SCIENTIFIC REVOLUTIONS](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf): PDF of the classic History iof of Science work by Thomas Kuhn. Read more [here](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions#:~:text=Kuhn%20argued%20for%20an%20episodic,science%20leads%20to%20new%20paradigms.).
 - [WE NEED TO TALK ABOUT READING](https://thesiswhisperer.com/2018/05/23/we-need-to-talk-about-reading/): Academics, under pressure to conform to performance metrics, have produced more and more reading material. All this busy writing has resulted in the creation of a reading mountain, so large it is a sincere threat to our ability to do our jobs. Related: [The Active Skim: Efficient Reading as a Moral Challenge in Postgraduate Education](https://journals.sagepub.com/doi/abs/10.1177/0092055X17697770)
 
@@ -440,8 +445,10 @@ Tabular navigation is provided below for easy access to the different sections o
 #### Refugees
 - [SCIENCE4REFUGEES](https://euraxess.ec.europa.eu/jobs/science4refugees): The Science4Refugees initiative and EURAXESS portal provide research refugee friendly internships, part-time and full-time jobs, access to a European Research Community, as well as a complete range of information and support services on working and living in Europe. 
 
+#### Text to Speech
+- [FREE TTS](https://www.text-to-speech.online/): A free speech service feature that converts text to lifelike speech.
+
 #### Tools for Disabilities
-- [COLS4ALL](https://github.com/mtennekes/cols4all): An R package "for selecting color palettes. 'Color for all' refers to [the authors'] mission that colors should be usable for not just people with normal color vision, but also for people with color vision deficiency".
 - [ECOUTE](https://github.com/SevaSk/ecoute): Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation. Good for prompting those with social anxiety, hearing issues and other disabilities.
 
 #### Translators
@@ -469,10 +476,11 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [CV MAKER](https://www.cvmaker.uk/): An inexpensive, paid CV formatting tool for generating colourful, professional looking resumes.
 - [OPEN-RESUME](https://github.com/xitanggg/open-resume): OpenResume is a powerful free, open-source resume builder and resume parser.
 - [REACTIVE RESUME](https://rxresu.me/): Reactive Resume is a free and open source resume builder that's built to make the mundane tasks of creating, updating and sharing your resume as easy as 1, 2, 3. With this app, you can create multiple resumes, share them with recruiters or friends through a unique link and print it as a PDF, all for free, no ads, no tracking, without losing the integrity and privacy of your data.
+- [SWIFTCOVER](https://swiftcover.ai/): AI cover letter generator; help for improving your template.
 
 #### Development
+- [EURAXESS VITAE](https://www.vitae.ac.uk/): Vitae is the global leader in supporting the professional development of researchers, experienced in working with institutions as they strive for research excellence, innovation, and impact. UK based.
 - [PHD COMPETENCE MODEL](https://phdcompetencemodel.nl/): This is "a self-assessment tool to help PhD candidates more efficiently direct their time towards improving skills areas that are most needed for their own personal career development."
-- [VITAE](https://www.vitae.ac.uk/): Vitae is the global leader in supporting the professional development of researchers, experienced in working with institutions as they strive for research excellence, innovation and impact. UK based.
 
 #### Interviews
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
@@ -488,6 +496,7 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [STUDY PORTALS](https://studyportals.com/): Studyportals began as a spin-off from a couple of large international study associations. It's network includes Bachelorsportal.com, PhDportal.com, Shortcoursesportal.com, and Distancelearningportal.com.
 
 #### Transitioning Out of Academia
+- [AWESOME CTO](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
 - [HOW TO BE A CONSULTANT, A FREELANCER, OR INDEPENDENT CONTRACTOR](https://jacquesmattheij.com/be-consultant/): This is a series of pages that guide you through the creation and operation of a successful consulting business.
 - [HOW TO SAIL SMOOTHLY FROM ACADEMIA TO INDUSTRY](https://www.nature.com/articles/d41586-018-03306-1): Brief Nature article with some sound advice.
 - [RESEARCHING.IO](https://www.researching.io/): Connecting early career researchers (mentees) with ex-academics (mentors) who have made this transition already to foster a smoother transition into the broader workforce and companies will benefit by connecting with a large network of high-quality, job-ready PhDs.
@@ -548,10 +557,12 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 
 #### Digitisation
 - [PAPERLESS-NGX](https://github.com/paperless-ngx/paperless-ngx): Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.
-- [TRANSCRIBUS](https://readcoop.eu/transkribus/): Transkribus is an AI-powered platform for text recognition, transcription and searching of historical documents – from any place, any time, and in any language. 
+- [TRANSCRIBUS](https://readcoop.eu/transkribus/): Transkribus is an AI-powered platform for text recognition, transcription and searching of historical documents – from any place, any time, and in any language.
   
 #### Scraping
-- [APIFY](https://apify.com/): Build, deploy, and monitor web scraping and browser automation tools. 
+- [APIFY](https://apify.com/): Build, deploy, and monitor web scraping and browser automation tools.
+- [HTTRACK](https://www.httrack.com/): Download websites to view them offline. 
+- [KATANA](https://github.com/projectdiscovery/katana): A next-generation crawling and spidering framework.
 - [POLITE](https://ivelasq.rbind.io/blog/politely-scraping/index.html): R package for scraping Wikipedia tables.
 - [SENSIBLE](https://www.sensible.so/): Describe the data you want extracted from any document – structured or unstructured.
 - [SYSREV](https://sysrev.com/): SysRev helps humans work together and with machines to extract data from documents.
@@ -565,8 +576,13 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 ### Research
 
 #### Research Design
-- [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/): If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
 - [AN INTRODUCTION TO STATISTICAL LEARNING](https://www.statlearning.com/): An open-source textbook providing a broad and less technical treatment of key topics in statistical learning. Includes workbooks for both R and Python.
+- [CASE STUDY RESEARCH AND APPLICATIONS](https://www.amazon.com/Case-Study-Research-Applications-Methods/dp/1506336167/ref=mp_s_a_1_3?crid=2AOWLKV6K7PHI&keywords=case+study+research+design+and+methods&qid=1656609849&sprefix=case+study+research+desig%2Caps%2C143&sr=8-3_): Recognized as one of the most cited methodology books in the social sciences, the Sixth Edition of Robert K. Yin′s bestselling text provides a complete portal to the world of case study research.
+- [CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R](https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/): The table covers a number of common analyses and helps you choose among them based on the number of dependent variables (sometimes referred to as outcome variables), the nature of your independent variables (sometimes referred to as predictors).
+- [QUALITATIVE INQUIRY AND RESEARCH DESIGN](https://www.amazon.com/Qualitative-Inquiry-Research-Design-Approaches/dp/1506330207/ref=mp_s_a_1_8?crid=2AOWLKV6K7PHI&keywords=case+study+research+design+and+methods&qid=1656609849&sprefix=case+study+research+desig%2Caps%2C143&sr=8-8): This text explores the philosophical underpinnings, history, and key elements of five qualitative inquiry approaches: narrative research, phenomenology, grounded theory, ethnography, and case study.
+- [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/): If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
+- [SINGLE-CASE RESEARCH DESIGNS](https://www.amazon.com/Single-Case-Research-Designs-Clinical-Settings/dp/0195341880/ref=mp_s_a_1_17?crid=2AOWLKV6K7PHI&keywords=case+study+research+design+and+methods&pscroll=1&qid=1656609880&sprefix=case+study+research+desig%2Caps%2C143&sr=8-17&wIndexMainSlot=24): While focusing on widely applicable methodologies for evaluating interventions--such as treatment or psychotherapy using applied behavior analysis--this revised edition also encompasses a broader
+range of research areas that utilize single-case designs, demonstrating the pertinence of this methodology in various disciplines, from psychology and medicine to business and industry.
 
 #### Reproducibility
 - [10 EASY STEPS](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3344936): A tutorial paper on "10 easy steps to conducting transparent, reproducible meta-analyses for infant researchers."
@@ -589,14 +605,17 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 
 #### Developer Tools
 - [DOCKER](https://www.docker.com/): A useful application for creating and maintaing containers for programs. Widely used across GitHub by researchers and normies alike.
+- [POWERSHELL](https://github.com/PowerShell/PowerShell): A popular cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
 - [SIDELOADING WINDOWS ON LINUX USING WSL](https://learn.microsoft.com/en-us/windows/wsl/install): Developers can access the power of both Windows and Linux at the same time on a Windows machine. The Windows Subsystem for Linux (WSL) lets developers install a Linux distribution (such as Ubuntu, OpenSUSE, Kali, Debian, Arch Linux, etc) and use Linux applications, utilities, and Bash command-line tools directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
 - [VIRTUALBOX](https://www.virtualbox.org/): Emulate different operating software within your chosen operating software. Good for privacy, testing, and historical (e.g. ancient code) and cross-compatibility issues.
 
-#### Git Repositories
-- [CODEBERG](https://codeberg.org/): Codeberg is a collaboration platform and Git hosting for free and open source software, content and projects.
-- [GITHUB]()
+#### Git 
+- [CHOOSE A LICENSE](https://choosealicense.com/): A handy 'choose your own adventure' tool to choose an open source license for code you post on a git repo.
+- [CODEBERG](https://codeberg.org/): Codeberg is a collaboration platform and git hosting for free and open source software, content and projects.
+- [GITHUB](https://github.com): The largest and most popular git platform; owned by Microsoft.
 - [GITLAB](https://about.gitlab.com/): GitLab provides all of the essential DevSecOps tools in one DevSecOps platform.
 - [HUGGING FACE](https://huggingface.co/): Repository site tailored for machine learning and artifical intelligence.
+- [LAZYGIT](https://github.com/jesseduffield/lazygit): A simple terminal UI for git commands.
 
 #### Keyboard Shortcuts
 
@@ -613,6 +632,7 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [AN INTRODUCTION TO STATISTICAL LEARNING](https://www.statlearning.com/): Free e-textbook that also includes workbooks in R and Python.
 - [AWESOME CERTIFICATES](https://github.com/PanXProject/awesome-certificates): A list of online courses and certifications that can add some shiny badges to your CV.
 - [LEETCODE](https://leetcode.com/): A popular platform for learning to code by examples. A boost for your CV as well.
+- [LIST OF COMPUTER SCIENCE VIDEO COURSES](https://github.com/Developer-Y/cs-video-courses): Exactly as you'd expect, an extensive list of courses on various topics from beginners to advanced.
 - [WIKIFUNCTIONS](https://www.wikifunctions.org/): Wikifunctions is a Wikimedia project for everyone to collaboratively create and maintain a library of code functions to support the Wikimedia projects and beyond, in the world's natural and programming languages.
 
 ##### LaTeX
@@ -622,8 +642,9 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [THE MARKDOWN GUIDE](https://www.markdownguide.org/): The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
 
 ##### Python
-- [PRACTICAL PYTHON COURSE](https://github.com/dabeaz-course/practical-python): Materials for an instructor-led Python training course for self teaching. Students of this course are usually professional scientists, engineers, and programmers who already have experience in at least one other programming language. No prior knowledge of Python is required, but knowledge of common programming topics is assumed. Most participants find the course challenging--even if they've already been doing a bit of Python programming.
 - [AWESOME PYTHON](https://awesome-python.com/): A curated list of awesome Python frameworks, libraries, software and resources.
+- [PRACTICAL PYTHON COURSE](https://github.com/dabeaz-course/practical-python): Materials for an instructor-led Python training course for self teaching. Students of this course are usually professional scientists, engineers, and programmers who already have experience in at least one other programming language. No prior knowledge of Python is required, but knowledge of common programming topics is assumed. Most participants find the course challenging--even if they've already been doing a bit of Python programming.
+- [WHAT THE F*CK PYTHON?](https://github.com/satwikkansal/wtfpython): Exploring and understanding Python through surprising snippets.
 
 ##### R
 - [BIG BOOK OF R](https://www.bigbookofr.com/): A massive collection of R resources for both learning and applying concepts.
@@ -648,9 +669,11 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [ARCHIVEBOX](https://github.com/ArchiveBox/ArchiveBox): ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.
 - [AWESOME SELFHOSTED](https://github.com/awesome-selfhosted/): An extensive and beloved Awesome List for free and open-sourced applications from various categories, many of which offer (sometimes paid) cloud hosting. You can find free alternatives to many paid apps on this list.
 - [CHANGEDETECTOR](https://github.com/dgtlmoon/changedetection.io): Detect website content changes and perform meaningful actions - trigger notifications via Discord, Email, Slack, Telegram, API calls and many more. Monitor your experiments... or concert tickets.
+- [DELIGHTFUL MATHEMATICS](https://codeberg.org/mskf1383/delightful-mathematics-softwares/src/branch/main/README.md): A curated list of mathematics software and resources.
 - [EVERYTHING](https://www.voidtools.com/): Lightweight app for Windows that locates files and folders by name instantly.
 - [F.LUX](https://justgetflux.com/): A desktop app that makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. Includes a large number of customization settings and additional filters. Helps with eye strain and sleep.
 - [FREEFILESYNC](https://freefilesync.org/): FreeFileSync is a folder comparison and synchronization software that creates and manages backup copies of all your important files. Instead of copying every file every time, FreeFileSync determines the differences between a source and a target folder and transfers only the minimum amount of data needed. FreeFileSync is Open Source software, available for Windows, macOS, and Linux.
+- [GPT4ALL](https://gpt4all.io/index.html): Easy, graphical interface for running local LLMs off of your CPU.
 - [OOBABOOGA](https://github.com/oobabooga/text-generation-webui): Easy to use, browser based UI for offline LLM use.
 - [PANDOC](https://pandoc.org/): Format converter for many types of documents.
 - [PROTON VPN](https://protonvpn.com/): Free, high-speed Swiss VPN that safeguards your privacy and allows you to change your "location."
@@ -672,6 +695,7 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 #### USA
 - [GRANTS.GOV](https://www.grants.gov/search-site.html): US government-sponsored grant searching site; includes a variety oof resources for applications.
 - [GRANTWATCH](https://www.grantwatch.com/grant-search.php): The premier grant listing directory in the USA.
+- [NSF GRANT SEARCH](https://new.nsf.gov/funding/opportunities): Grant search from the National Science Foundation.
 - [POSTDOC FUNDING](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/): Find a list of postdoctoral funding opportunities (there are also separate lists for neuroscience/neurology and cancer/oncology).
 
 ### Humanities
@@ -688,8 +712,11 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 - [JUPYTER NOTEBOOK CHEATSHEET](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
 - [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
 
-### Legal
+### Legal and Ethics
+- [BEYOND EXPERIENCE](https://www.goodreads.com/book/show/3896445-beyond-experience): Shedding light on a subject that too often seems mysterious and remote, Norman Swartz puts a human face on the study of metaphysics. Among the areas considered  are space and time, mental states and brain states, the nature of theories, pain, identity, the concepts of person and property, and the search for extraterrestrial intelligence.
+- [ETHICAL CONDUCT FOR RESEARCH INVOLVING HUMANS](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html): Guidance from the Canadian government on things to consider.
 - [GDPR AND TAKING PHOTOGRAPHS IN PUBLIC SPACES AND AT LARGE EVENTS](https://suzannedibble.com/gdpr-and-taking-photographs-in-public-places-at-large-events/): A GDPR crash course.
+- [MORAL THEORY](https://www.google.com.au/books/edition/Moral_Theory/41VYEAAAQBAJ?hl=en): Moral Theory: An Introduction explores some of the historically most important and currently debated moral theories about the nature of the right and the good, including divine command theory, relativism, natural law theory, consequentialism, egoism, Kant’s ethics, ethics of prima facie duties, contractualism, virtue ethics and care ethics.
 
 ### Laboratory Tools
 
@@ -714,11 +741,13 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 
 #### Accessibility
 - [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
+- [BEHIND THE OVERLAY](https://github.com/NicolaeNMV/BehindTheOverlay): Browser extension to remove popups that obscure an article's text.
 - [BYPASS PAYWALLS](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean/): Browser extension for bypassing paywalls on many (mostly non-academic) sites. Chrome and mobile versions linked in the readme.
 - [JOURNALIST ACCESS](https://journalistsresource.org/media/academic-journals-journalists-free-access/): Some journalists might not realize that many academic journals let them bypass their paywalls. We show you which ones and how to set up free accounts.
-- [ICANHAZPDF](https://en.wikipedia.org/wiki/ICanHazPDF): #ICanHazPDF is a hashtag used mostly on Twitter to request access to academic journal articles which are behind paywalls.
+- [ICANHAZPDF](https://en.wikipedia.org/wiki/ICanHazPDF): #ICanHazPDF is a hashtag used mostly on Twitter to request access to academic journal articles that are behind paywalls.
 - [KNABEN DATABASE](https://knaben.eu/): Torrent crawler/search engine for the especially hard to find media. Use at your own risk.
-- [MIRROR JOURNALS](https://jugit.fz-juelich.de/synoa/oam-dokumentation/-/wikis/English%20Version/Source%20Databases/Journal%20Lists): A mirror journal is a fully open access version of an existing  subscription journal, with the same editorial board, aims and scope,  peer review processes and policies and an editorial board with at least  50% of the same members.
+- [MIRROR JOURNALS](https://jugit.fz-juelich.de/synoa/oam-dokumentation/-/wikis/English%20Version/Source%20Databases/Journal%20Lists): A mirror journal is a fully open access version of an existing  subscription journal, with the same editorial board, aims and scope, peer review processes and policies and an editorial board with at least  50% of the same members.
+- [NEXUS BOT](https://www.reddit.com/r/scihub/comments/13cms8m/how_to_use_nexus_bots_or_stc_to_download_the/): Telegram bot to request articles behind paywalls.
 - [OPEN ACCESS BUTTON](https://openaccessbutton.org/): Browser plugin that looks for open access versions of publications behind paywalls.
 - [SCIENCE HUB MUTUAL AID](https://www.wosonhj.com/): A mutual aid forum for academic literature which uses a point-based system for requests.
 - [UNPAYWALL](https://unpaywall.org/): As an alternative to SciHub, consider Unpaywall.
@@ -762,8 +791,10 @@ See [Academic Literature](#academic-literature) for academic search engines.
 #### Directories
 - [DIAMOND OPEN ACCESS JOURNALS GERMANY (DOAG)](https://pub.uni-bielefeld.de/record/2963331): ‘Diamond Open Access Journals, Germany’ (DOAG) is a quality-controlled directory list that contains information and links to diamond open access (OA) journals hosted in Germany.
 - [DIRECTORY OF OPEN ACCESS JOURNALS](https://doaj.org/): DOAJ is a unique and extensive index of diverse open-access journals from around the world, driven by a growing community committed to ensuring quality content is freely available online for everyone.
+- [JISC LIBRARY HUB DISCOVER](https://discover.libraryhub.jisc.ac.uk/): Details of materials held in many UK national, academic and specialist libraries.
 - [JOURNAL SOURCES ON WIKIPEDIA](https://en.wikipedia.org/wiki/Wikipedia:Journal_sources): This Wikipedia page links to library searches, online databases, and other venues where you can locate a journal article by title, journal, or identifier (such as DOI or PMID).
 - [LISTS OF LISTS OF ACADEMIC JOURNALS BY DICIPLINE](https://en.wikipedia.org/wiki/Category:Lists_of_academic_journals): Listception complements of Wikipedia.
+- [WORLDCAT](): 
 
 #### Encyclopedic References & Wikis
 - [SCHOLIA](https://scholia.toolforge.org/): Scholia is a service that creates visual scholarly profiles for topics, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata.
@@ -810,7 +841,8 @@ Article Influence™ Score(AI): a measure of a journal's prestige based on per-a
 - [STORK](https://www.storkapp.me/): Paper alerts via email per keyword.
 
 #### Reading Guides
-- [ART OF READING A JOURNAL ARTICLE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3687192/):
+- [ART OF READING A JOURNAL ARTICLE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3687192/): Reading scientific literature is mandatory for researchers and clinicians. With an overflow of medical and dental journals, it is essential to develop a method to choose and read the right articles.
+- [HOW TO READ A PAPER](https://www.amazon.co.uk/dp/111948474X/ref=cm_sw_r_api_i_WH4B5YTAQSP5QWGSPYWK_0): Required reading in many medical and healthcare institutions, How to Read a Paper is a clear and wide-ranging introduction to evidence-based medicine and healthcare, helping readers to understand its central principles, critically evaluate published data, and implement the results in practical settings.
 - [NON-SCIENTIFIC GUIDE TO READING AND UNDERSTANDING ACADEMIC JOURNALS](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/): A great little guide for both a meta overview on how to approach articles, especially outside of your area of expertise, if you are rusty or if you are trying to communicate how to read journals to the public.
 - [POINT OF VIEW: BEWARE PERSUASIVE COMMUNICATION DEVICES](https://elifesciences.org/articles/88654): A journal warnning of a common pitfall called ‘persuasive communication devices’ when writing and reading scientific articles.
 
@@ -841,27 +873,37 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [TURTLES AND CHILL]()
 
 #### Guidance
+- [BEING KINDER TO OURSELVES](https://www.reddit.com/r/PhD/comments/o414sc/being_kinder_to_ourselves_a_resource_for_phd/): Doing a PhD can be lonely and demoralising at times, so remember that you're not alone. A metaphor to show solidarity, even when things are tough.
 - [HOW TO COPE WITH SHAME](https://psyche.co/guides/how-to-cope-with-shame-by-understanding-where-it-comes-from): Do you feel perpetually bad, broken or unlovable? These tools will help you relate to yourself in a fairer, gentler way.
 - [HOW TO DIFFUSE CATASTROPHIC THOUGHTS](https://psyche.co/guides/how-to-stop-thinking-the-worst-and-learn-not-to-catastrophise): Do you often fear the worst is going to happen? Use these therapeutic techniques to think more rationally and calmly.
 
 #### Self-Care
 - [THE SAD BASTARD COOKBOOK](https://traumbooks.itch.io/the-sad-bastard-cookbook): "Life is hard. Some days are at the absolute limit of what we can manage. Some days are worse than that. Eating—picking a meal, making it, putting it into your facehole—can feel like an insurmountable challenge. We wrote this cookbook to share our coping strategies. It has recipes to make when you've worked a 16-hour day, when you can't stop crying and you don't know why, when you accidentally woke up an Eldritch abomination at the bottom of the ocean. But most of all, this cookbook exists to help Sad Bastards like us feel a little less alone at mealtimes."
 
+#### Support
+- [GLOBAL PHD SERVER](https://discord.com/invite/VfxMhwV): Large Discord server for PhD students.
+- [R/PHD](https://www.reddit.com/r/PhD/) AND [R/PHDSTRESS](https://www.reddit.com/r/PhDStress): Subreddits for those on the journey. 
+- [THE PHD PLACE](https://thephdplace.com/): The PhD Place supports doctoral students on their journey with a vibrant community, online writing groups, and resources for success.
+
 ### Miscellaneous
 - [ACRONYMIFY](https://acronymify.com/): If you need a cool and catchy acronym for your paper, project, etc. check out Acronymify.
 - [AUDEMIC](https://www.audemic.app/): App that converts academic research into a podcast.
-- [AWESOME GENERATIVE AI](https://github.com/ai-collection/ai-collection): A Collection of Awesome Generative AI Applications to make your life a little easier. 
+- [AWESOME GENERATIVE AI](https://github.com/ai-collection/ai-collection): A Collection of Awesome Generative AI Applications to make your life a little easier.
+- [DELIGHTFUL LISTS](https://codeberg.org/teaserbot-labs/delightful): Home of delightful curated lists of free software, open science and information sources. Similar to Awesome Lists.
+- [MATRIX RESHISH](https://matrix.reshish.com/): matrix.reshish.com is the most convenient free online Matrix Calculator. All the basic matrix operations as well as methods for solving systems of simultaneous linear equations are implemented on this site. For methods and operations that require complicated calculations a 'very detailed solution' feature has been made. With the help of this option our calculator solves your task efficiently as the person would do showing every step.
 - [MIT APP INVENTOR](https://appinventor.mit.edu/): Low to no code app design with easy accessibility and a click-and-drag interface.
 - [RETRACTION WATCH](https://retractionwatch.com/): Newsfeed from a major group tracking retractions as a window into the scientific process. [Click here](https://www.theguardian.com/commentisfree/2023/aug/09/scientific-misconduct-retraction-watch) for more context. 
 - [TOOLS FOR ACADEMIC RESEARCH](https://tools.kausalflow.com/tools/): In case you want another rabbit hole to avoid your writing.
 
 ### Open Science
 - [AWESOME OPEN SCIENCE](https://tyson-swetnam.github.io/awesome-open-science/): This Awesome List is compiled in the effort to help new researchers find and learn about Open Science Tools.
+- [COMPLIANCE WITH PUBLISHED DATA SHARING STATEMENT](https://www.jclinepi.com/article/S0895-4356(22)00141-X/pdf): The objective of the study was to analyze researchers’ compliance with their data availability statement (DAS) from manuscripts published in open-access journals with the mandatory DAS. Emphasises the need for continued progress in the push for open science. 
 - [CROSSREF](https://www.crossref.org/): Crossref is a nonprofit open digital infrastructure organisation for the global scholarly research community. Uniquely and persistently recording and connecting knowledge through open metadata and identifiers for all research objects such as grants and articles. 
 - [DELIGHTFUL OPEN SCIENCE](https://codeberg.org/teaserbot-labs/delightful):
 - [FIGSHARE](https://knowledge.figshare.com/): Figshare is a repository where users can make all of their research outputs available in a citable, shareable and discoverable manner.
 - [INITIATIVE FOR OPEN CITATIONS](https://en.wikipedia.org/wiki/Initiative_for_Open_Citations): A collaboration between scholarly publishers, researchers, and other interested parties to promote the unrestricted availability of scholarly citation data and to make these data available. It is intended to facilitate improved citation analysis.
-- [JOSS](https://joss.theoj.org/): The Journal of Open Source Software is a developer friendly, open access journal for research software packages. Committed to publishing quality research software with zero article processing charges or subscription fees.
+- [JOSS](https://joss.theoj.org/): The Journal of Open Source Software is a developer friendly, open-access journal for research software packages. Committed to publishing quality research software with zero article processing charges or subscription fees.
+- [MDPI](https://www.mdpi.com/): One of the largest multi-diciplinary open-access publishers. More [here](https://en.wikipedia.org/wiki/MDPI).
 - [NASA TRANSFORM TO OPEN SCIENCE](https://github.com/nasa/Transform-to-Open-Science): Open Science will broaden participation, increase accessibility to knowledge, and embrace new technologies that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how!
 - [OPEN ACCESS TRACKING PROJECT](https://tagteam.harvard.edu/hubs/oatp/items): TagTeam is an open-source tagging platform and feed aggregator developed for the Harvard Open Access Project (HOAP).
 - [UKSG](https://www.uksg.org/): UKSG exists to connect the knowledge community and encourage the exchange of ideas on scholarly communication. It is the only organisation spanning the wide range of interests and activities across the scholarly information community of librarians, publishers, intermediaries and technology vendors.
@@ -870,6 +912,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 ### Organization
 
 #### Meetings and Collaboration
+- [CAL](https://cal.com/): Web app for juggling multiple calendars.
 - [DOODLE](https://doodle.com/): Application to poll a group of people for good times to meet.
 - [FIREFLIES](https://app.fireflies.ai/login): Automate your meeting notes. Transcribe, summarize, search, and analyze all your voice conversations.
 - [LODOWN](https://lodown.io/): AI that records and transcribes audio into notes, allowing users to review information or take automated meeting minutes easily.
@@ -909,7 +952,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [DEAR GRAD STUDENT](https://www.deargradstudent.com/): An English podcast "to celebrate, commiserate, and support one another through grad school".
 - [EVERYTHING HERTZ](https://everythinghertz.com/): An English podcast about methodology and scientific life.
 - [HONEST ACADEMIA](https://anchor.fm/honest-academia): An English podcast from two grad students discussing navigating academia.
-- [NATURE CAREERS POSDCAST](https://www.nature.com/nature/articles?type=nature-careers-podcast): Covers general academic trends, news, controversies, career advice and other things, by the academic journal Nature.
+- [NATURE CAREERS PODCAST](https://www.nature.com/nature/articles?type=nature-careers-podcast): Covers general academic trends, news, controversies, career advice and other things, by the academic journal Nature.
 - [PLANTHROPOLOGY](https://www.planthropologypod.com/): An English podcast "about humans who love plants & why you should love plants too".
 - [SCIENCE SHEROES](https://sciencesheroes.letscast.fm/): A German podcast about women and non-binary people in science.
 
@@ -990,6 +1033,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [EMACS](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor with a hardcore fanbase.
 - [HEDGEHOG](https://github.com/hedgedoc/hedgedoc): Self-hosted, real-time collaborative markdown notebook.
 - [LOGSEQ](https://logseq.com/): A privacy-first, open-source platform for knowledge management and collaboration.
+- [NOTEBOOKLM](https://notebooklm.google/?location=us-only): NotebookLM is a Google project for a AI-first notebook.
 - [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your (PhD) note-taking mess in one place. If you want to save Tweets and Threads automatically to Notion, use [this](https://twitter.com/SaveToNotion/status/1462012037568073728?s=20&t=KLSbjBQ3HEL1LYlqklKRzA) tutorial.
 - [OBSIDIAN](https://obsidian.md/): An extremely customisable markdown-based note taking app, with a wide range of community generated plugins. [This website](https://www.eleanorkonik.com/) features regular roundup reports of new plugins. An amazing guide for using it in a PhD workflow can be found [here](https://www.reddit.com/r/ObsidianMD/comments/m5ou2h/phd_workflow_obsidian_zettelkasten_zotero_pandoc/).
 - [OVERLEAF](https://www.overleaf.com/): An easy to use, online, collaborative LaTeX editor.
@@ -1028,6 +1072,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [LENS](https://www.lens.org/lens/): The Lens serves integrated scholarly and patent knowledge as a public good to inform science and technology enabled problem solving.
 - [NIH ICITE](https://icite.od.nih.gov/): iCite is a tool to access a dashboard of bibliometrics for papers associated with a portfolio. Users type in a PubMed query or upload the PubMed IDs of articles of interest. iCite has three modules: Influence, Translation, and Open Citations.
 - [OPENALEX](https://openalex.org/): FOSS catalog of the global research system featuring API access for developers.
+- [PAPERSWITHCODE](https://paperswithcode.com/): The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables.
 - [The SAO/NASA Astrophysics Data System](https://ui.adsabs.harvard.edu/): The ADS maintains three bibliographic collections containing more than 15 million records covering publications in astronomy and astrophysics, physics, and general science, including all arXiv e-prints. 
 - [SCINAPSE](https://www.scinapse.io/): Our tool extracts valuable information such as related topics, companies, and patent data from each paper. Through our database, we provide a more comprehensive research experience.
 - [SEMANTIC SCHOLAR](https://www.semanticscholar.org/): A free, AI-powered research tool for scientific literature.
@@ -1063,10 +1108,14 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [FLOWIMMERSIVE](https://a.flow.gl/): Build visually compelling, AI-enhanced data visualizations and stories.
 
 #### Color
-- [ADOBE COLOR](https://color.adobe.com/create/color-wheel): Adobe web app for finding complementary colours and creating color pallets. 
-- [COLORMAGIC](https://colormagic.app/): ColorMagic is a color palette generator with AI. Generate colors from keyword for image of color you enter.
+- [ADOBE COLOR](https://color.adobe.com/create/color-wheel): Adobe web app for finding complementary colors and creating color pallets.
+- [COBLIS](https://www.color-blindness.com/coblis-color-blindness-simulator/): Color blindness simulator. Upload an image and see if it is easy to read.
 - [COLOR CONVERTER](https://www.farb-tabelle.de/en/rgb2hex.htm?q=gray20): If you need to find out the code for a certain color, check this handy converter.
 - [COLOR PICKER](https://imagecolorpicker.com/): Upload an image and pick the hex code of any color in the image.
+- [COLORGORICAL](http://vrl.cs.brown.edu/color): A tool from Brown University to make a palette with n number of colors. 
+- [COLORING FOR COLORBLINDESS](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40): This website is for people with normal or nearly normal color vision. The purpose of this website is to simulate for you what your chosen color palette looks like to viewers who are colorblind. 
+- [COLORMAGIC](https://colormagic.app/): ColorMagic is a color palette generator with AI. Generate colors from keyword for image of color you enter.
+- [COLOUR ME BETTER](https://www.nature.com/articles/d41586-021-02696-z): A Nature article emphasing the importance of considering colorblindess when making figures.
 - [DELIGHT](https://www.fabiocrameri.ch/delight/): Advanced colour image inversion.
 - [PARAMETRIC COLOUR MIXER](https://colormixer.web.app/): A simple web app for creating colour pallets.
 - [SCIENTIFIC COLOR MAPS](https://www.fabiocrameri.ch/colourmaps/): Suite of scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.
@@ -1082,6 +1131,7 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [BIOICONS](https://bioicons.com/): A free alternative to BioRender.
 - [BIORENDER](https://biorender.com/): The all-in-one tool for research visualization in a free and paid verson. Visualize study designs and results, or even design whole posters using their tools and icons.
 - [DRAW.IO](https://github.com/jgraph/drawio): draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.
+- [LUCIDCHART](https://www.lucidchart.com/pages/): Lucidchart is the intelligent diagramming application that brings teams together to make better decisions and build the future.
 - [MICROSOFT VISIO](https://support.microsoft.com/en-us/office/select-a-template-in-visio-75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe): Quickly create professional flow charts, timelines, process maps, organizational charts, IT architecture diagrams, floor plans, and more.
 - [SCIENTIFIC INKSCAPE](https://github.com/burghoff/Scientific-Inkscape): Extensions for figure editing and resizing scientific figures in [Inkscape](https://inkscape.org/), the FOSS vector editing software (similar to Adobe Illustrator).
 
@@ -1107,7 +1157,10 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [GIMP](https://www.gimp.org/): GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. Comparable to Adobe Photoshop.
 - [IMAGEJ](https://imagej.net/): ImageJ is a Java-based image processing program developed at the National Institutes of Health and the Laboratory for Optical and Computational Instrumentation (LOCI, University of Wisconsin). Custom acquisition, analysis and processing plugins can be developed using ImageJ's built-in editor and a Java compiler. User-written plugins make it possible to solve many image processing and analysis problems, from three-dimensional live-cell imaging to radiological image processing, multiple imaging system data comparisons to automated hematology systems. ImageJ's plugin architecture and built-in development environment has made it a popular platform for teaching image processing.
 - [INKSCAPE](https://inkscape.org/): Inkscape is a Free and open source vector graphics editor for GNU/Linux, Windows and macOS. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting. It uses vector graphics to allow for sharp printouts and renderings at unlimited resolution and is not bound to a fixed number of pixels like raster graphics. Inkscape uses the standardized SVG file format as its main format, which is supported by many other applications including web browsers. It is comparable to Adobe Illustrator.
-- [KRITA](https://krita.org/en/): Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone. Comparable to Photoshop.
+- [KRITA](https://krita.org/en/): Krita is a professional, free, and open source painting program. It is made by artists that want to see affordable art tools for everyone. Comparable to Photoshop.
+
+#### LaTeX
+- [LATEX2PNG](https://latex2png.com/): A tool that digitises LaTeX code into a png imgae.
 
 #### Maps
 - [AWESOME HISTORICAL MAPS](https://github.com/stark1tty/Awesome-Historic_al-Maps/): Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic(al) Maps (pre-1950).
@@ -1120,6 +1173,9 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [QGIS TUTORIALS AND TIPS](https://www.qgistutorials.com/en/): A resource for learning QGIS including a linked structured course.
 - [WHIITEBOX TOOLS](https://www.whiteboxgeo.com/): A popular set of geospatial tools for Python and an extensive suite of plugins for QGIS and ArcGIS. Both free and paid options.
 
+#### Other Tools
+- [UPSCAYL](https://github.com/upscayl/upscayl):  Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+
 #### Presentations
 - [CANVA](https://www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
 - [COLOR ORACLE](https://colororacle.org/index.html): A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
@@ -1130,6 +1186,8 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [DIVA](https://www.fabiocrameri.ch/diva/): Effective figure design for MatLab.
 
 #### R
+- [COLORBLIND FRIENDLY PALETTES](https://riptutorial.com/r/example/28354/colorblind-friendly-palettes): Even though colorblind people can recognize a wide range of colors, it might be hard to differentiate between certain colors.
+- [COLS4ALL](https://github.com/mtennekes/cols4all): An R package "for selecting color palettes. 'Color for all' refers to [the authors'] mission that colors should be usable for not just people with normal color vision, but also for people with color vision deficiency".
 - [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
 - [R GRAPH GALLERY](https://r-graph-gallery.com/): A collection of charts made with the R programming language.
 
@@ -1163,15 +1221,21 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 #### Social Networking
 - [ACADEMICS ON MASTODON](https://github.com/nathanlesage/academics-on-mastodon): A list of various resources for the [Fediverse](https://fedi.tips/what-is-mastodon-what-is-the-fediverse/), notably lists consisting of academics by discipline on Mastodon and general guidance for academic use. Not to be missed is the [MASTODON MEDIA LIST](https://docs.google.com/document/u/0/d/1TTtXbf0yDXHKXwR9jpZ4kU79mmiZT5KIM7U4tBr83hY/mobilebasic) which contains a directory of various organisations and publications, including academic journals on Mastodon.
 - [COMMENTARY ON THE ENSHITTIFICATION OF ACADEMIC SOCIAL MEDIA](https://thesiswhisperer.com/2023/07/10/academicenshittification/): So, what should individual academics and universities, especially units like mine tasked with supporting researchers, *do* about social media in light of current events?
-- [TRUESCIPHI](https://truesciphi.org/) - Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
+- [MANDER.XYZ](https://mander.xyz/): A Lemmy instance dedicated to nature and science.
+- [TRUESCIPHI](https://truesciphi.org/): Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
 - [TWITTER FOR SCIENTISTS](https://t4scientists.com/): A handy guide on how to start off on Twitter if you're a scientist.
 
 ### Writing
 
 #### Advice
 - [7 SINS OF WRITING](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing): Advice on common tropes to avoid from Hamilton University.
+- [BECOMING AN ACADEMIC WRITER](https://www.amazon.co.uk/Becoming-Academic-Writer-Exercises-Productive/dp/1452203865): Becoming an Academic Writer helps you gain control over writing and publishing, master specific aspects of academic writing, and improve your productivity. Patricia Goodson′s book offers weekly exercises and tools to achieve these goals.
 - [LEADERSHIP LAB](https://youtu.be/vtIzMaLkCaM): If you want to know how to write effectively, watch this video.
-- [THE ELEMENTS OF STYLE](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf): This book is intended for use in English courses in which the practice of composition is combined with the study of literature. It aims to give in brief space the principal requirements of plain English style. 
+- [SENSE AND STRUCTURE](https://journals.aom.org/doi/abs/10.5465/amr.2016.0225): The Core Building Blocks of an Academy of Management Article
+- [THE CRAFT OF SCIENTIFIC WRITING](https://link.springer.com/book/10.1007/978-1-4419-8288-9): Offers well-tested advice, having been used by research engineers and scientists at many national labs and universities for over twenty years.
+- [THE ELEMENTS OF STYLE](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf): This book is intended for use in English courses in which the practice of composition is combined with the study of literature. It aims to give in brief space the principal requirements of plain English style.
+- [WRITE NO MATTER WHAT](https://www.amazon.co.uk/Write-Matter-What-Academics-Publishing/dp/022646170X/ref=sr_1_1?adgrpid=51898218943&hvadid=606062346428&hvdev=c&hvlocphy=9045311&hvnetw=g&hvqmt=e&hvrand=5510586911185471731&hvtargid=kwd-300809487294&hydadcr=12122_2380614&keywords=write+no+matter+what&qid=1693255077&sr=8-1): Jensen begins by busting the myth that universities are supportive writing environments. She points out that academia, an arena dedicated to scholarship, offers pressures that actually prevent scholarly writing. She shows how to acknowledge these less-than-ideal conditions, and how to keep these circumstances from draining writing time and energy. Jensen introduces tools and techniques that encourage frequent, low-stress writing. She points out common ways writers stall and offers workarounds that maintain productivity. Her focus is not on content, but on how to overcome whatever stands in the way of academic writing.
+- [WRITING YOUR JOURNAL ARTICLE IN 12 WEEKS](https://wendybelcher.com/writing-advice/writing-your-journal-article-in-twelve/): This book takes this overwhelming task and breaks it into small, manageable steps. For the past decade, this guide has been the go-to source for those creating articles for peer-reviewed journals. It has enabled thousands to overcome their anxieties and produce the publications that are essential to succeeding in their fields.
 
 #### Editing Tools
 - [ACADEMIZER](https://x.writefull.com/academizer): Writefull's Academizer makes your informal sentence appropriate for an academic text.
