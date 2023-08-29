@@ -73,6 +73,8 @@ This repository is intended to be a living, constantly developing resource where
 
 Tabular navigation is provided below for easy access to the different sections of this extensive document. Please note that this document contains hyperlinks after each section, which will return you to this section of the document for ease of access.
 
+Important list items are marked with a ⭐. 
+
 | | | | |
 | --- | --- | --- | --- | 
 | [I. Overview](#i-overview) | | | |
@@ -218,26 +220,48 @@ Tabular navigation is provided below for easy access to the different sections o
 
 ## II. Academic and Professional Development
 ### Academia
-
-[▲ Top](#navigation)
-
 #### Networking Platforms
+- [ACADEMIA.EDU](https://www.academia.edu): Networking like LinkedIn with paper uploads (useful), [just don't pay for it](https://www.forbes.com/sites/drsarahbond/2017/01/23/dear-scholars-delete-your-account-at-academia-edu/).
+- [JISCMAIL](https://www.jiscmail.ac.uk/): Email discussion lists for the UK Education and Research communities on an immense amount of fields.
+- [RESEARCH COMMUNITIES](https://beta.app.redforester.com/mindmap?mapid=d1d1483e-6c97-44f2-891f-46dd6a8c1c5f&nodeid=b624c35a-297c-47a1-978a-65d3c7f4afa7): A neat little list of different academic communities in a mind map format. 
+- [RESEARCHGATE](https://www.researchgate.net/): Discover scientific knowledge and stay connected to the world of science. Discover research. Connect with your scientific community. Measure your impact.
+- [⭐ ORCID](https://orcid.org/): **Get an ORCID - (seriously)** - an "Open Researcher and Contributor ID" which is a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. Link your projects and output to your ORCID.
 
 [▲ Top](#navigation)
 
 #### Guidance and Tips
+- [ACADEMIC STACK EXCHANGE](https://academia.stackexchange.com/): Q&A for academics and those enrolled in higher education.
 
 [▲ Top](#navigation)
 
 #### Key Concepts
+- [DIMENSIONALITY REDUCTION](https://en.wikipedia.org/wiki/Dimensionality_reduction): The transformation of data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data so that you may test it.
+- [H-INDEX](https://www.pnas.org/doi/10.1073/pnas.0507655102): Today, an academic career strongly depends on the peer-reviewed publication productivity and its impact. Both are meant to be reflected in one single number: the h-index. This is how it was proposed and how it works.
+- [INTELLECTUAL PROPERTY RIGHTS](https://www.euraxess.org.uk/united-kingdom/essential-information/intellectual-property-rights): Intellectual Property (IP) is a term given to ideas or other creative or innovative subject matter. An individual can own the rights to a certain piece of IP and thus control its use, or in some cases benefit from its application. In other words, who owns your work?
+- [RESEARCH PROGRAM](https://en.wikipedia.org/wiki/Research_program): Simply put, a professional network of scientists conducting basic research.
 
 [▲ Top](#navigation)
 
 #### News and Blogs
+- [NATURE CAREERS](https://www.nature.com/careers): Articles and advice from the journal Nature about academic life.
+- [REASEARCHBUZZ](https://researchbuzz.me/): News and resources about search engines, databases, social media, and more.
+- [THE CHRONICLE OF HIGHER EDUCATION](https://www.chronicle.com/): News, advice and trends in academia and higher education.
+- [THE THESIS WHISPERER](https://thesiswhisperer.com/): The Thesis Whisperer is a well-established, popular blog written by Professor Inger Mewburn, director of researcher development at The Australian National University.
 
 [▲ Top](#navigation)
 
 #### Recommended Reads
+- [ACADEMIC ASSHOLES AND THE CIRCLE OF NICENESS](https://thesiswhisperer.com/2013/02/13/academic-assholes/): Displaying cleverness during PhD seminars and during talks at conferences is a way academics show off their scholarly prowess to each other, sometimes at the expense of the student. Cleverness is a form of currency in academia; or ‘cultural capital’ if you like.
+- [DEAR GRADUATE STUDENTS](https://www.insidehighered.com/news/2022/12/07/faculty-member-issues-dire-warning-grad-students-about-jobs): A professor of political science at IU Bloomington issued [a dire warning](https://www.reddit.com/r/PhD/comments/1523aqh/a_professors_warning_letter_to_his_phd_student/) about the job market to graduate students in his department. Was it necessary?
+- [HOW AND WHEN TO END A SIDE PROJECT](https://www.mooreds.com/wordpress/archives/3616): Advice when you are having mixed feelings about side projects.
+- [HOW TO SOLVE IT](https://www.math.utah.edu/~alfeld/math/polya.html): Summary taken from G. Polya, "How to Solve It", 2nd ed., Princeton University Press, 1957, ISBN 0-691-08097-6.
+- [⭐ IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
+- [SCIENTIFIC KNOWLEDGE IS DROWNING IN A FLOOD OF RESEARCH](https://massivesci.com/articles/chaos-in-the-brickyard-comic-matteo-farinella/): A comic about the problems with the -omics, illustrated by Matteo Farinella
+- [SUPPOSE I WANT TO KILL A LOT OF PILOTS](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure): An easy-to-digest read about [anticipatory failure determination](https://www.npd-solutions.com/afd.html). Rather than asking to look for a cause of a failure, it reverses the problem by asking to view the failure of interest as the intended consequence and try to devise ways to assure that the failure always happens reliably.
+- [THE GOLLUM EFFECT](https://www.frontiersin.org/articles/10.3389/fevo.2022.889236/full): Despite conservation research becoming increasingly more collaborative over the last decades, access to resources, such as species, study sites, and sometimes even research topics or entire fields remain restricted. This is partly caused by scientists who have become possessively attached and guard these aspects of their research; an issue we refer to as the Gollum effect.
+- [THE METHODOLOGY OF SCIENTIFIC RESEARCH PROGRAMMES](https://www.cambridge.org/core/books/methodology-of-scientific-research-programmes/8DBCEFE34A59BAD3D393FB958A4DC5FC): "A well-produced book that every philosopher of science or mathematics will wish to have."
+- [THE STRUCTURE OF SCIENTIFIC REVOLUTIONS](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf): PDF of the classic History iof of Science work by Thomas Kuhn. Read more [here](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions#:~:text=Kuhn%20argued%20for%20an%20episodic,science%20leads%20to%20new%20paradigms.).
+- [WE NEED TO TALK ABOUT READING](https://thesiswhisperer.com/2018/05/23/we-need-to-talk-about-reading/): Academics, under pressure to conform to performance metrics, have produced more and more reading material. All this busy writing has resulted in the creation of a reading mountain, so large it is a sincere threat to our ability to do our jobs. Related: [The Active Skim: Efficient Reading as a Moral Challenge in Postgraduate Education](https://journals.sagepub.com/doi/abs/10.1177/0092055X17697770)
 
 [▲ Top](#navigation)
 
@@ -696,42 +720,6 @@ Tabular navigation is provided below for easy access to the different sections o
 ---
 
 # Unsorted
-
-### Academia
-
-#### Academic Profiles and Networks
-- [JISCMAIL](https://www.jiscmail.ac.uk/): Email discussion lists for the UK Education and Research communities on an immense amount of fields.
-- [RESEARCH COMMUNITIES](https://beta.app.redforester.com/mindmap?mapid=d1d1483e-6c97-44f2-891f-46dd6a8c1c5f&nodeid=b624c35a-297c-47a1-978a-65d3c7f4afa7): A neat little list of different academic communities in a mind map format. 
-- [RESEARCHGATE](https://www.researchgate.net/): Discover scientific knowledge and stay connected to the world of science. Discover research. Connect with your scientific community. Measure your impact.
-- [ORCID](https://orcid.org/): Get an ORCID - an "Open Researcher and Contributor ID" which is a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. Link your projects and output to your ORCID.
-
-#### Advice
-- [ACADEMIC STACK EXCHANGE](https://academia.stackexchange.com/): Q&A for academics and those enrolled in higher education.
-  
-#### Concepts
-- [DIMENSIONALITY REDUCTION](https://en.wikipedia.org/wiki/Dimensionality_reduction): The transformation of data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data so that you may test it.
-- [H-INDEX](https://www.pnas.org/doi/10.1073/pnas.0507655102): Today, an academic career strongly depends on the peer-reviewed publication productivity and its impact. Both are meant to be reflected in one single number: the h-index. This is how it was proposed and how it works.
-- [INTELLECTUAL PROPERTY RIGHTS](https://www.euraxess.org.uk/united-kingdom/essential-information/intellectual-property-rights): Intellectual Property (IP) is a term given to ideas or other creative or innovative subject matter. An individual can own the rights to a certain piece of IP and thus control its use, or in some cases benefit from its application. In other words, who owns your work?
-- [RESEARCH PROGRAM](https://en.wikipedia.org/wiki/Research_program): Simply put, a professional network of scientists conducting basic research.
-
-#### Good Reads
-- [ACADEMIC ASSHOLES AND THE CIRCLE OF NICENESS](https://thesiswhisperer.com/2013/02/13/academic-assholes/): Displaying cleverness during PhD seminars and during talks at conferences is a way academics show off their scholarly prowess to each other, sometimes at the expense of the student. Cleverness is a form of currency in academia; or ‘cultural capital’ if you like.
-- [DEAR GRADUATE STUDENTS](https://www.insidehighered.com/news/2022/12/07/faculty-member-issues-dire-warning-grad-students-about-jobs): A professor of political science at IU Bloomington issued [a dire warning](https://www.reddit.com/r/PhD/comments/1523aqh/a_professors_warning_letter_to_his_phd_student/) about the job market to graduate students in his department. Was it necessary?
-- [HOW AND WHEN TO END A SIDE PROJECT](https://www.mooreds.com/wordpress/archives/3616): Advice when you are having mixed feelings about side projects.
-- [HOW TO SOLVE IT](https://www.math.utah.edu/~alfeld/math/polya.html): Summary taken from G. Polya, "How to Solve It", 2nd ed., Princeton University Press, 1957, ISBN 0-691-08097-6.
-- [IMPORTANCE OF STUPIDIY IN ACADEMIC RESEARCH](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research): You read that right.
-- [SCIENTIFIC KNOWLEDGE IS DROWNING IN A FLOOD OF RESEARCH](https://massivesci.com/articles/chaos-in-the-brickyard-comic-matteo-farinella/): A comic about the problems with the -omics, illustrated by Matteo Farinella
-- [SUPPOSE I WANT TO KILL A LOT OF PILOTS](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure): An easy-to-digest read about [anticipatory failure determination](https://www.npd-solutions.com/afd.html). Rather than asking to look for a cause of a failure, it reverses the problem by asking to view the failure of interest as the intended consequence and try to devise ways to assure that the failure always happens reliably.
-- [THE GOLLUM EFFECT](https://www.frontiersin.org/articles/10.3389/fevo.2022.889236/full): Despite conservation research becoming increasingly more collaborative over the last decades, access to resources, such as species, study sites, and sometimes even research topics or entire fields remain restricted. This is partly caused by scientists who have become possessively attached and guard these aspects of their research; an issue we refer to as the Gollum effect.
-- [THE METHODOLOGY OF SCIENTIFIC RESEARCH PROGRAMMES](https://www.cambridge.org/core/books/methodology-of-scientific-research-programmes/8DBCEFE34A59BAD3D393FB958A4DC5FC): "A well-produced book that every philosopher of science or mathematics will wish to have."
-- [THE STRUCTURE OF SCIENTIFIC REVOLUTIONS](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf): PDF of the classic History iof of Science work by Thomas Kuhn. Read more [here](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions#:~:text=Kuhn%20argued%20for%20an%20episodic,science%20leads%20to%20new%20paradigms.).
-- [WE NEED TO TALK ABOUT READING](https://thesiswhisperer.com/2018/05/23/we-need-to-talk-about-reading/): Academics, under pressure to conform to performance metrics, have produced more and more reading material. All this busy writing has resulted in the creation of a reading mountain, so large it is a sincere threat to our ability to do our jobs. Related: [The Active Skim: Efficient Reading as a Moral Challenge in Postgraduate Education](https://journals.sagepub.com/doi/abs/10.1177/0092055X17697770)
-
-#### News & Blogs
-- [NATURE CAREERS](https://www.nature.com/careers): Articles and advice from the journal Nature about academic life.
-- [REASEARCHBUZZ](https://researchbuzz.me/): News and resources about search engines, databases, social media, and more.
-- [THE CHRONICLE OF HIGHER EDUCATION](https://www.chronicle.com/): News, advice and trends in academia and higher education.
-- [THE THESIS WHISPERER](https://thesiswhisperer.com/): The Thesis Whisperer is a well-established, popular blog written by Professor Inger Mewburn, director of researcher development at The Australian National University.
 
 ### Accessibility and Inclusion
 
