@@ -302,12 +302,16 @@ Important list items are marked with a ⭐.
 
 [▲ Top](#navigation)
 
-#### Beyond Academia
+#### Transitioning Out of Academia
+- [AWESOME CTO](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
+- [HOW TO BE A CONSULTANT, A FREELANCER, OR INDEPENDENT CONTRACTOR](https://jacquesmattheij.com/be-consultant/): This is a series of pages that guide you through the creation and operation of a successful consulting business.
+- [HOW TO SAIL SMOOTHLY FROM ACADEMIA TO INDUSTRY](https://www.nature.com/articles/d41586-018-03306-1): Brief Nature article with some sound advice.
+- [THE PROFESSOR IS OUT](https://www.facebook.com/groups/professorisout/): Facebook mutual aid support group for those transitioning out of academia. 
 
 [▲ Top](#navigation)
 
 ### PhD Applications
-*See aLso: [Job and Academic Post Boards](#job-and-academic-post-boards).**
+*See also: [Job and Academic Post Boards](#job-and-academic-post-boards).*
 
 - [A COMPARISON OF EUROPEAN AND US BASED PHD EDUCATION](https://medium.com/@phdinformation.usa/comparison-of-european-and-us-based-phd-education-4753c97c2c95#:~:text=European%20PhDs%20tend%20to%20have,their%20time%20as%20graduate%20students.&text=The%20duration%20for%20completing%20a,for%20a%20full%2Dtime%20program.): Blog post that sussinctly breaks down the differences between PhD expectations for the US and Europe.
 - [PI REVIEW](https://pi-review.com/): A website for PhD students to review their PIs. Know who you are getting involved with from the horse's mouth.
@@ -422,7 +426,10 @@ Important list items are marked with a ⭐.
 
 [▲ Top](#navigation)
 
-#### Data Cleaning Techniques
+#### Data Cleaning Tools
+- [ABLEBITS FOR EXCEL](https://www.ablebits.com/): The toolset includes 70+ professional tools with 300+ options and use cases for you to accomplish any task in Excel quickly and flawlessly. Complements Kutools.
+- [DATAPASTA](https://github.com/MilesMcBain/datapasta): This R package is "about reducing resistance associated with copying and pasting data to and from R". Copy data from Excel and paste it into R as a data frame or Tibble.
+- [KUTOOLS FOR EXCEL](https://www.extendoffice.com/product/kutools-for-excel.html): Whether you're a beginner or an expert in Excel, Kutools offers more than 300 advanced features to streamline your work. It empowers you to make the most of Excel's capabilities by simplifying complex tasks and automating repetitive operations, make your work more efficient and productive. Complements Ablebits.
 
 [▲ Top](#navigation)
 
@@ -893,7 +900,12 @@ Important list items are marked with a ⭐.
 
 [▲ Top](#navigation)
 
-#### Social Media Platforms
+#### Social Media
+- [ACADEMICS ON MASTODON](https://github.com/nathanlesage/academics-on-mastodon): A list of various resources for the [Fediverse](https://fedi.tips/what-is-mastodon-what-is-the-fediverse/), notably lists consisting of academics by discipline on Mastodon and general guidance for academic use. Not to be missed is the [MASTODON MEDIA LIST](https://docs.google.com/document/u/0/d/1TTtXbf0yDXHKXwR9jpZ4kU79mmiZT5KIM7U4tBr83hY/mobilebasic) which contains a directory of various organisations and publications, including academic journals on Mastodon.
+- [COMMENTARY ON THE ENSHITTIFICATION OF ACADEMIC SOCIAL MEDIA](https://thesiswhisperer.com/2023/07/10/academicenshittification/): So, what should individual academics and universities, especially units like mine tasked with supporting researchers, *do* about social media in light of current events?
+- [MANDER.XYZ](https://mander.xyz/): A Lemmy instance dedicated to nature and science.
+- [TRUESCIPHI](https://truesciphi.org/): Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
+- [TWITTER FOR SCIENTISTS](https://t4scientists.com/): A handy guide on how to start off on Twitter if you're a scientist.
 
 [▲ Top](#navigation)
 
@@ -976,12 +988,7 @@ Important list items are marked with a ⭐.
 #### Interviews
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 
-#### Transitioning Out of Academia
-- [AWESOME CTO](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
-- [HOW TO BE A CONSULTANT, A FREELANCER, OR INDEPENDENT CONTRACTOR](https://jacquesmattheij.com/be-consultant/): This is a series of pages that guide you through the creation and operation of a successful consulting business.
-- [HOW TO SAIL SMOOTHLY FROM ACADEMIA TO INDUSTRY](https://www.nature.com/articles/d41586-018-03306-1): Brief Nature article with some sound advice.
-- [RESEARCHING.IO](https://www.researching.io/): Connecting early career researchers (mentees) with ex-academics (mentors) who have made this transition already to foster a smoother transition into the broader workforce and companies will benefit by connecting with a large network of high-quality, job-ready PhDs.
-- [THE PROFESSOR IS OUT](https://www.facebook.com/groups/professorisout/): Facebook mutual aid support group for those transitioning out of academia. 
+
 
 ### Conferences, Workshops, Seminars and Symposiums 
 
@@ -1029,12 +1036,6 @@ Important list items are marked with a ⭐.
 - [OPENCONTEXT](https://opencontext.org/): Open Context reviews, edits, annotates, publishes and archives research data and digital documentation. We publish your data and preserve it with leading digital libraries.
 - [WIKIDATA](https://www.wikidata.org/wiki/Wikidata:Main_Page): Wikidata acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others.
 - [WIKIMEDIA COMMONS](https://commons.wikimedia.org/wiki/Main_Page): A collection of nearly 100 million freely usable media files to which anyone can contribute.
-
-#### Cleaning
-- [50 USEFUL ADD-ONS FOR EXCEL](https://www.goskills.com/Excel/Resources/Best-Excel-add-ins): List includes tools for Productivity, Visuals, Charts, Study, Finances, Marketing, Data Analysis, and Miscellaneous.
-- [ABLEBITS FOR EXCEL](https://www.ablebits.com/): The toolset includes 70+ professional tools with 300+ options and use cases for you to accomplish any task in Excel quickly and flawlessly. Complements Kutools.
-- [DATAPASTA](https://github.com/MilesMcBain/datapasta): This R package is "about reducing resistance associated with copying and pasting data to and from R". Copy data from Excel and paste it into R as a data frame or Tibble.
-- [KUTOOLS FOR EXCEL](https://www.extendoffice.com/product/kutools-for-excel.html): Whether you're a beginner or an expert in Excel, Kutools offers more than 300 advanced features to streamline your work. It empowers you to make the most of Excel's capabilities by simplifying complex tasks and automating repetitive operations, make your work more efficient and productive. Complements Ablebits.
 
 #### Digitisation
 - [PAPERLESS-NGX](https://github.com/paperless-ngx/paperless-ngx): Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.
@@ -1640,13 +1641,6 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [NOODL](https://www.noodl.net/): Open source low code app for building web and cell phone apps.
 - [UIVERSE](https://uiverse.io/): Open-Source UI elements for any project.
 - [WOWCHEMY WEBSITE](https://twitter.com/dsquintana/status/1310715433654382599?s=20): If you want to create your own website, but have no clue where to start, check out [Daniel Quintana](https://twitter.com/dsquintana)'s extremely easy tutorial! Also, look at [my website](https://helenahartmann.com/) for an example.
-
-#### Social Networking
-- [ACADEMICS ON MASTODON](https://github.com/nathanlesage/academics-on-mastodon): A list of various resources for the [Fediverse](https://fedi.tips/what-is-mastodon-what-is-the-fediverse/), notably lists consisting of academics by discipline on Mastodon and general guidance for academic use. Not to be missed is the [MASTODON MEDIA LIST](https://docs.google.com/document/u/0/d/1TTtXbf0yDXHKXwR9jpZ4kU79mmiZT5KIM7U4tBr83hY/mobilebasic) which contains a directory of various organisations and publications, including academic journals on Mastodon.
-- [COMMENTARY ON THE ENSHITTIFICATION OF ACADEMIC SOCIAL MEDIA](https://thesiswhisperer.com/2023/07/10/academicenshittification/): So, what should individual academics and universities, especially units like mine tasked with supporting researchers, *do* about social media in light of current events?
-- [MANDER.XYZ](https://mander.xyz/): A Lemmy instance dedicated to nature and science.
-- [TRUESCIPHI](https://truesciphi.org/): Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
-- [TWITTER FOR SCIENTISTS](https://t4scientists.com/): A handy guide on how to start off on Twitter if you're a scientist.
 
 ### Writing
 
