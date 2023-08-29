@@ -725,6 +725,16 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 #### AI Reading Aids
+- [ARTICLE SUMMARIZER](https://summary.arguflow.gg/): A simple webapp for summarising academic papers.
+- [CERELYZE](https://www.cerelyze.com/): Turn technical research papers into useable code. Gain a comprehensive understanding of research papers by engaging in meaningful conversations with the papers. Ask questions, seek clarifications, and explore different angles to develop a holistic perspective.
+- [EXPLAINPAPER](https://www.explainpaper.com/): Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read.
+- [HUMATA](https://www.humata.ai/): Use ChatGPT with any document.
+- [OPENREAD](https://www.openread.academy/home): AI-powered interactive papers with some additonal research tools.
+- [PAPERBRAIN](https://www.paperbrain.study/): A simple UI for chatting with a research paper.
+- [RESEARCHAIDE](https://www.researchaide.org/): Chat with multiple PDF files.
+- [SCHOLARCY](https://www.scholarcy.com/): AI literature summarising tool. Works with both online and offline resources.
+- [SCISPACE](https://typeset.io/): SciSpace is an incredible (AI-powered) search tool to help you understand research papers better. It can explain and elaborate most academic texts in simple words.
+- [SCISUMMARY](https://scisummary.com/login): SciSummary (Short for Science Summary) was founded in 2023 to make digestion of scientific articles easier. Using modern AI technology it summarizes articles, allowing you to understand them without having to read the full text.
 
 [▲ Top](#navigation)
 
@@ -781,6 +791,22 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 #### Literary Search Engines
+- [BASE](https://www.base-search.net/?l=en): One of the world's most voluminous search engines especially for academic web resources. You can access the full texts of about 60% of the indexed documents for free (Open Access). BASE is operated by Bielefeld University Library.
+- [CAS SCIFINDER](https://www.cas.org/solutions/cas-scifinder-discovery-platform/cas-scifinder-n): More than a literature and chemical compound database, CAS SciFindern leverages human curation to deliver relevant, actionable insights so you can innovate faster.
+- [GET THE RESEARCH](https://gettheresearch.org/): Clean, simple academic search engine with an open access toggle. Leverages Open Access and AI to help nonspecialists find, read, and understand scholarly research.
+- [FATCAT!](https://fatcat.wiki/): Fatcat is a versioned, publicly-editable catalog of research publications: journal articles, conference proceedings, pre-prints, blog posts, and so forth. The goal is to improve the state of preservation and access to these works by providing a manifest of full-text content versions and locations.
+- [IEEE XPLORE](https://ieeexplore.ieee.org/Xplore/home.jsp): The IEEE Xplore digital library is a powerful resource for discovery of scientific and technical content published by the IEEE (Institute of Electrical and Electronics Engineers) and its publishing partners.
+- [INSPIRE HEP](https://inspirehep.net/): INSPIRE is a trusted community hub that helps researchers to share and find accurate scholarly information in high energy physics.
+- [INTERNET ARCHIVE SCHOLAR](https://scholar.archive.org/): This fulltext search index includes over 25 million research articles and other scholarly documents preserved in the Internet Archive. The collection spans from digitized copies of eighteenth century journals through the latest Open Access conference proceedings and pre-prints crawled from the World Wide Web. 
+- [LENS](https://www.lens.org/lens/): The Lens serves integrated scholarly and patent knowledge as a public good to inform science and technology enabled problem solving.
+- [NIH ICITE](https://icite.od.nih.gov/): iCite is a tool to access a dashboard of bibliometrics for papers associated with a portfolio. Users type in a PubMed query or upload the PubMed IDs of articles of interest. iCite has three modules: Influence, Translation, and Open Citations.
+- [OPENALEX](https://openalex.org/): FOSS catalog of the global research system featuring API access for developers.
+- [PAPERSWITHCODE](https://paperswithcode.com/): The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables.
+- [The SAO/NASA Astrophysics Data System](https://ui.adsabs.harvard.edu/): The ADS maintains three bibliographic collections containing more than 15 million records covering publications in astronomy and astrophysics, physics, and general science, including all arXiv e-prints. 
+- [SCINAPSE](https://www.scinapse.io/): Our tool extracts valuable information such as related topics, companies, and patent data from each paper. Through our database, we provide a more comprehensive research experience.
+- [SEMANTIC SCHOLAR](https://www.semanticscholar.org/): A free, AI-powered research tool for scientific literature.
+- [WEB OF SCIENCE](https://www.webofknowledge.com/): The Web of Science contains a remarkable treasure of data on scientific content, impact, and collaborations from 1900 to the present day on a global scale. 
+- [WORLDWIDESCIENCE](https://worldwidescience.org/index.html): WorldWideScience.org is a global science gateway—accelerating scientific discovery and progress through a multilateral partnership to enable federated searching of national and international scientific databases and portals.
 
 [▲ Top](#navigation)
 
@@ -797,10 +823,6 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 #### 3D Visualization
-
-[▲ Top](#navigation)
-
-#### Augmented Reality Tools
 
 [▲ Top](#navigation)
 
@@ -880,7 +902,14 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 
 [▲ Top](#navigation)
 
-#### Editing Software
+#### Editing Tools
+- [ACADEMIZER](https://x.writefull.com/academizer): Writefull's Academizer makes your informal sentence appropriate for an academic text.
+- [ANGRY REVIEWER](https://www.angryreviewer.com/): Free academic style corrector for modern scientific writing.
+- [CHAT WITH OPEN LARGE LANGUAGE MODELS](https://chat.lmsys.org/): Web interface to chat with various large language models to help you write.
+- [GRAMMARLY](https://app.grammarly.com/): Well known grammar checker tool, featuring a paraphraser and plagarism checker.
+- [LIST OF ACRONYMS MAKER](https://listofacronyms.com/): Don't waste time collating a list or table of abbreviations manually. This tool does it for you.
+- [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
+- [UNDETECTABLE](https://undetectable.ai/): Parapraser tailored for high level language.
 
 [▲ Top](#navigation)
 
@@ -1175,18 +1204,6 @@ range of research areas that utilize single-case designs, demonstrating the pert
 
 ### Literature 
 
-#### AI Tools for Reading Comprehension and Summarisers
-- [ARTICLE SUMMARIZER](https://summary.arguflow.gg/): A simple webapp for summarising academic papers.
-- [CERELYZE](https://www.cerelyze.com/): Turn technical research papers into useable code. Gain a comprehensive understanding of research papers by engaging in meaningful conversations with the papers. Ask questions, seek clarifications, and explore different angles to develop a holistic perspective.
-- [EXPLAINPAPER](https://www.explainpaper.com/): Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read.
-- [HUMATA](https://www.humata.ai/): Use ChatGPT with any document.
-- [OPENREAD](https://www.openread.academy/home): AI-powered interactive papers with some additonal research tools.
-- [PAPERBRAIN](https://www.paperbrain.study/): A simple UI for chatting with a research paper.
-- [RESEARCHAIDE](https://www.researchaide.org/): Chat with multiple PDF files.
-- [SCHOLARCY](https://www.scholarcy.com/): AI literature summarising tool. Works with both online and offline resources.
-- [SCISPACE](https://typeset.io/): SciSpace is an incredible (AI-powered) search tool to help you understand research papers better. It can explain and elaborate most academic texts in simple words.
-- [SCISUMMARY](https://scisummary.com/login): SciSummary (Short for Science Summary) was founded in 2023 to make digestion of scientific articles easier. Using modern AI technology it summarizes articles, allowing you to understand them without having to read the full text.
-  
 #### Analysis
 - [MEDIABIASFACTCHECK](https://mediabiasfactcheck.com/): Tool for determining bias in online sources.
 - [MESH ANALYSER BY YALE](https://mesh.med.yale.edu/): A MeSH analysis grid can help identify the problems in your search strategy by presenting the ways articles are indexed in the MEDLINE database in an easy-to-scan tabular format.
@@ -1482,24 +1499,6 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [MARGINALIA](https://search.marginalia.nu/): This is an independent DIY search engine that focuses on non-commercial content and attempts to show you sites you perhaps weren't aware of in favour of the sort of sites you probably already knew existed.
 - [WOLFRAM ALPHA](https://www.wolframalpha.com/): Answer engine where users submit fact based queries and computation requests. The app computes answers and relevant visualizations from a knowledge base of curated, structured data from other sites and books. It can also parse mathematical symbolism and respond with numerical and statistical results.
 
-#### Academic Literature
-- [BASE](https://www.base-search.net/?l=en): One of the world's most voluminous search engines especially for academic web resources. You can access the full texts of about 60% of the indexed documents for free (Open Access). BASE is operated by Bielefeld University Library.
-- [CAS SCIFINDER](https://www.cas.org/solutions/cas-scifinder-discovery-platform/cas-scifinder-n): More than a literature and chemical compound database, CAS SciFindern leverages human curation to deliver relevant, actionable insights so you can innovate faster.
-- [GET THE RESEARCH](https://gettheresearch.org/): Clean, simple academic search engine with an open access toggle. Leverages Open Access and AI to help nonspecialists find, read, and understand scholarly research.
-- [FATCAT!](https://fatcat.wiki/): Fatcat is a versioned, publicly-editable catalog of research publications: journal articles, conference proceedings, pre-prints, blog posts, and so forth. The goal is to improve the state of preservation and access to these works by providing a manifest of full-text content versions and locations.
-- [IEEE XPLORE](https://ieeexplore.ieee.org/Xplore/home.jsp): The IEEE Xplore digital library is a powerful resource for discovery of scientific and technical content published by the IEEE (Institute of Electrical and Electronics Engineers) and its publishing partners.
-- [INSPIRE HEP](https://inspirehep.net/): INSPIRE is a trusted community hub that helps researchers to share and find accurate scholarly information in high energy physics.
-- [INTERNET ARCHIVE SCHOLAR](https://scholar.archive.org/): This fulltext search index includes over 25 million research articles and other scholarly documents preserved in the Internet Archive. The collection spans from digitized copies of eighteenth century journals through the latest Open Access conference proceedings and pre-prints crawled from the World Wide Web. 
-- [LENS](https://www.lens.org/lens/): The Lens serves integrated scholarly and patent knowledge as a public good to inform science and technology enabled problem solving.
-- [NIH ICITE](https://icite.od.nih.gov/): iCite is a tool to access a dashboard of bibliometrics for papers associated with a portfolio. Users type in a PubMed query or upload the PubMed IDs of articles of interest. iCite has three modules: Influence, Translation, and Open Citations.
-- [OPENALEX](https://openalex.org/): FOSS catalog of the global research system featuring API access for developers.
-- [PAPERSWITHCODE](https://paperswithcode.com/): The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables.
-- [The SAO/NASA Astrophysics Data System](https://ui.adsabs.harvard.edu/): The ADS maintains three bibliographic collections containing more than 15 million records covering publications in astronomy and astrophysics, physics, and general science, including all arXiv e-prints. 
-- [SCINAPSE](https://www.scinapse.io/): Our tool extracts valuable information such as related topics, companies, and patent data from each paper. Through our database, we provide a more comprehensive research experience.
-- [SEMANTIC SCHOLAR](https://www.semanticscholar.org/): A free, AI-powered research tool for scientific literature.
-- [WEB OF SCIENCE](https://www.webofknowledge.com/): The Web of Science contains a remarkable treasure of data on scientific content, impact, and collaborations from 1900 to the present day on a global scale. 
-- [WORLDWIDESCIENCE](https://worldwidescience.org/index.html): WorldWideScience.org is a global science gateway—accelerating scientific discovery and progress through a multilateral partnership to enable federated searching of national and international scientific databases and portals.
-
 ### Teaching
 - [AWESOME STEAM](https://awesomesteam.org/): Awesome STEAM is a community-curated list of high-quality science, technology, engineering, art, and math (STEAM) resources for specific STEAM courses that students and teachers all over the world across all grade levels can use to supplement their learning.
 - [JEOPARDY LABS](https://jeopardylabs.com/): Create Jeopardy-style games for teaching, free. 
@@ -1657,15 +1656,6 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [THE ELEMENTS OF STYLE](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf): This book is intended for use in English courses in which the practice of composition is combined with the study of literature. It aims to give in brief space the principal requirements of plain English style.
 - [WRITE NO MATTER WHAT](https://www.amazon.co.uk/Write-Matter-What-Academics-Publishing/dp/022646170X/ref=sr_1_1?adgrpid=51898218943&hvadid=606062346428&hvdev=c&hvlocphy=9045311&hvnetw=g&hvqmt=e&hvrand=5510586911185471731&hvtargid=kwd-300809487294&hydadcr=12122_2380614&keywords=write+no+matter+what&qid=1693255077&sr=8-1): Jensen begins by busting the myth that universities are supportive writing environments. She points out that academia, an arena dedicated to scholarship, offers pressures that actually prevent scholarly writing. She shows how to acknowledge these less-than-ideal conditions, and how to keep these circumstances from draining writing time and energy. Jensen introduces tools and techniques that encourage frequent, low-stress writing. She points out common ways writers stall and offers workarounds that maintain productivity. Her focus is not on content, but on how to overcome whatever stands in the way of academic writing.
 - [WRITING YOUR JOURNAL ARTICLE IN 12 WEEKS](https://wendybelcher.com/writing-advice/writing-your-journal-article-in-twelve/): This book takes this overwhelming task and breaks it into small, manageable steps. For the past decade, this guide has been the go-to source for those creating articles for peer-reviewed journals. It has enabled thousands to overcome their anxieties and produce the publications that are essential to succeeding in their fields.
-
-#### Editing Tools
-- [ACADEMIZER](https://x.writefull.com/academizer): Writefull's Academizer makes your informal sentence appropriate for an academic text.
-- [ANGRY REVIEWER](https://www.angryreviewer.com/): Free academic style corrector for modern scientific writing.
-- [CHAT WITH OPEN LARGE LANGUAGE MODELS](https://chat.lmsys.org/): Web interface to chat with various large language models to help you write.
-- [GRAMMARLY](https://app.grammarly.com/): Well known grammar checker tool, featuring a paraphraser and plagarism checker.
-- [LIST OF ACRONYMS MAKER](https://listofacronyms.com/): Don't waste time collating a list or table of abbreviations manually. This tool does it for you.
-- [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
-- [UNDETECTABLE](https://undetectable.ai/): Parapraser tailored for high level language.
 
 #### Formatting
 - [THE EXECUTABLE BOOKS PROJECT](https://executablebooks.org/en/latest/): The Executable Books Project is an international collaboration to build open-source tools that facilitate publishing computational narratives using the Jupyter ecosystem.
