@@ -509,6 +509,11 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 #### Automating Tasks
+- [FLOWISE](https://github.com/FlowiseAI/Flowise): Drag & drop easy UI to build your customized LLM AI workflows.
+- [HUGINN](https://github.com/huginn/huginn): Huginn is a system for building agents that perform automated tasks for you online. They can read the web, watch for events, and take action on your behalf. Huginn's Agents create and consume events, propagating them along a directed graph.
+- [MICROSOFT POWER AUTOMATE](https://powerautomate.microsoft.com/): Office 365 application for automating tasks across their entire software and OS suite; includes AI tools.
+- [N8N](https://github.com/n8n-io/n8n): An extendable workflow automation tool. With a fair-code distribution model, n8n will always have visible source code, be available to self-host, and allow you to add your own custom functions, logic and apps. n8n's node-based approach makes it highly versatile, enabling you to connect anything to everything.
+- [NOVU](https://github.com/novuhq/novu): An open-source notification infrastructure offering a unified API for multi-channel notifications, including In-App, Push, Email, SMS, and Chat, with an embedded notification center.
 
 [▲ Top](#navigation)
 
@@ -517,15 +522,33 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 ## VIII. Discipline-Specific Resources
+### Life Sciences
+#### Biology
+
+[▲ Top](#navigation)
+
+#### Neuroscience
+- [3D BRAIN](https://www.instructables.com/3D-print-your-own-brain/): Do you have an anatomical scan of your brain and access to a 3D-printer? Follow this easy tutorial to print your own brain.
+- [BRAIN CODE SELECTOR](https://sidchop.shinyapps.io/braincode_selector/): This tool summarized tools to visualize brain data in R, Python, and Matlab.
+- [DICOMTAGS](https://exiftool.org/TagNames/DICOM.html): Do you want to know where specific information is saved in the DICOM file of your imaging data. Check out DICOM Tags.
+- [EDUCORTEX](https://paulscotti.github.io/educortex/): This handy educational, browser-based visualization tool allows you to enter any functional or anatomical term and visualize the parts of the brain that are most associated with that term. Check the [GitHub repository](https://github.com/PaulScotti/educortex) or corresponding [paper](https://jose.theoj.org/papers/10.21105/jose.00075).
+- [ETYMOLOGY OF THE BRAIN](https://twitter.com/etymology_nerd/status/1515312745125584896?s=20): Want to know how some parts of the brain got their names? Check out this cool image.
+- [FMRI COURSE](https://ucl.podia.com/designing-and-analysing-fmri-experiments): Learn how to design and analyze fMRI experiments in this free course.
+- [FSBRAIN](https://cran.r-project.org/web/packages/fsbrain/vignettes/fsbrain.html): This R package "helps visualize surface-based brain structure data for large groups of subjects with very little code" and "also supports the computation of simple brain morphometry measures".
+- [LIST OF NEUROSCIENCE DATABASES](https://en.wikipedia.org/wiki/List_of_neuroscience_databases): A comprehensive Wikipedia list of Neuroscience databases.
+- [NEUROQUERY](https://neuroquery.org/): NeuroQuery is a tool for meta-analysis of neuroimaging studies, relating text queries to activations as well as associations between terms used together in neuroimaging publications. More info in the corresponding [paper](https://elifesciences.org/articles/53385). 
+- [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
+
+[▲ Top](#navigation)
+
 ### Natural Sciences
 
 [▲ Top](#navigation)
 
+---
+
+
 #### Archaeology
-
-[▲ Top](#navigation)
-
-#### Biology
 
 [▲ Top](#navigation)
 
@@ -534,10 +557,6 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 #### Environmental Research
-
-[▲ Top](#navigation)
-
-#### Neuroscience
 
 [▲ Top](#navigation)
 
@@ -682,6 +701,21 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 #### Accessibility Tools
+- [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
+- [⭐️ ANNAS-ARCHIVE](https://annas-archive.org/): The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more.
+- [BEHIND THE OVERLAY](https://github.com/NicolaeNMV/BehindTheOverlay): Browser extension to remove popups that obscure an article's text.
+- [BYPASS PAYWALLS](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean/): Browser extension for bypassing paywalls on many (mostly non-academic) sites. Chrome and mobile versions linked in the readme.
+- [JOURNALIST ACCESS](https://journalistsresource.org/media/academic-journals-journalists-free-access/): Some journalists might not realize that many academic journals let them bypass their paywalls. We show you which ones and how to set up free accounts.
+- [ICANHAZPDF](https://en.wikipedia.org/wiki/ICanHazPDF): #ICanHazPDF is a hashtag used mostly on Twitter to request access to academic journal articles that are behind paywalls.
+- [KNABEN DATABASE](https://knaben.eu/): Torrent crawler/search engine for the especially hard to find media. Use at your own risk.
+- [MIRROR JOURNALS](https://jugit.fz-juelich.de/synoa/oam-dokumentation/-/wikis/English%20Version/Source%20Databases/Journal%20Lists): A mirror journal is a fully open access version of an existing  subscription journal, with the same editorial board, aims and scope, peer review processes and policies and an editorial board with at least  50% of the same members.
+- [⭐️ NEXUS BOT](https://www.reddit.com/r/scihub/comments/13cms8m/how_to_use_nexus_bots_or_stc_to_download_the/): Telegram bot to request articles behind paywalls.
+- [⭐️ OPEN ACCESS BUTTON](https://openaccessbutton.org/): Browser plugin that looks for open access versions of publications behind paywalls.
+- [⭐️ SCIENCE HUB MUTUAL AID](https://www.wosonhj.com/): A mutual aid forum for academic literature which uses a point-based system for requests.
+- [⭐️ UNPAYWALL](https://unpaywall.org/): As an alternative to SciHub, consider Unpaywall.
+- [WAYBACK MACHINE](https://web.archive.org/): The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites. Visitors to the Wayback Machine can type in a URL, select a date range, and then begin surfing on an archived version of the Web. Imagine surfing circa 1999 and looking at all the Y2K hype, or revisiting an older version of your favorite Web site. The Internet Archive Wayback Machine can make all of this possible. You can also submit websites to the archive to ensure future accessibility. 
+- [THE WIKIPEDIA LIBRARY](https://wikipedialibrary.wmflabs.org/): Over 90 of the world's top subscription-only databases, with content in 33 languages, are available free for Wikipedia editors meeting a set of very easy requirements.
+- [WIKIPEDIA RESOURCE EXCHANGE](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Resource_Exchange): A mutual aid effort by Wikipedia for resource sharing.
 
 [▲ Top](#navigation)
 
@@ -1078,13 +1112,6 @@ range of research areas that utilize single-case designs, demonstrating the pert
 - [MICROSOFT SWAY](https://sway.office.com/): Easily compile text, images, videos, and other content in an interactive online format. Create visually striking newsletters, presentations and documentation in minutes.
 - [OFFICE 365 QUICKSTART GUIDES AND QUICK REFERENCE](https://support.microsoft.com/en-us/office/microsoft-365-quick-starts-25f909da-3e76-443d-94f4-6cdf7dedc51e): Quick start webpages and powerpoint references for Microsoft's Office 365 products.
 
-#### Task Automation
-- [FLOWISE](https://github.com/FlowiseAI/Flowise): Drag & drop easy UI to build your customized LLM AI workflows.
-- [HUGINN](https://github.com/huginn/huginn): Huginn is a system for building agents that perform automated tasks for you online. They can read the web, watch for events, and take action on your behalf. Huginn's Agents create and consume events, propagating them along a directed graph.
-- [MICROSOFT POWER AUTOMATE](https://powerautomate.microsoft.com/): Office 365 application for automating tasks across their entire software and OS suite; includes AI tools.
-- [N8N](https://github.com/n8n-io/n8n): An extendable workflow automation tool. With a fair-code distribution model, n8n will always have visible source code, be available to self-host, and allow you to add your own custom functions, logic and apps. n8n's node-based approach makes it highly versatile, enabling you to connect anything to everything.
-- [NOVU](https://github.com/novuhq/novu): An open-source notification infrastructure offering a unified API for multi-channel notifications, including In-App, Push, Email, SMS, and Chat, with an embedded notification center.
-
 #### Tools and Utilities
 - [ARCHIVEBOX](https://github.com/ArchiveBox/ArchiveBox): ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.
 - [AWESOME SELFHOSTED](https://github.com/awesome-selfhosted/): An extensive and beloved Awesome List for free and open-sourced applications from various categories, many of which offer (sometimes paid) cloud hosting. You can find free alternatives to many paid apps on this list.
@@ -1158,22 +1185,6 @@ range of research areas that utilize single-case designs, demonstrating the pert
 - [3D PRINTABLE HAND CRANKED CENTERFUGE](http://polproducts.rits-palaeo.com/): Possibly a "handy" tool if resources are inadequate.
 
 ### Literature 
-
-#### Accessibility
-- [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
-- [BEHIND THE OVERLAY](https://github.com/NicolaeNMV/BehindTheOverlay): Browser extension to remove popups that obscure an article's text.
-- [BYPASS PAYWALLS](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean/): Browser extension for bypassing paywalls on many (mostly non-academic) sites. Chrome and mobile versions linked in the readme.
-- [JOURNALIST ACCESS](https://journalistsresource.org/media/academic-journals-journalists-free-access/): Some journalists might not realize that many academic journals let them bypass their paywalls. We show you which ones and how to set up free accounts.
-- [ICANHAZPDF](https://en.wikipedia.org/wiki/ICanHazPDF): #ICanHazPDF is a hashtag used mostly on Twitter to request access to academic journal articles that are behind paywalls.
-- [KNABEN DATABASE](https://knaben.eu/): Torrent crawler/search engine for the especially hard to find media. Use at your own risk.
-- [MIRROR JOURNALS](https://jugit.fz-juelich.de/synoa/oam-dokumentation/-/wikis/English%20Version/Source%20Databases/Journal%20Lists): A mirror journal is a fully open access version of an existing  subscription journal, with the same editorial board, aims and scope, peer review processes and policies and an editorial board with at least  50% of the same members.
-- [NEXUS BOT](https://www.reddit.com/r/scihub/comments/13cms8m/how_to_use_nexus_bots_or_stc_to_download_the/): Telegram bot to request articles behind paywalls.
-- [OPEN ACCESS BUTTON](https://openaccessbutton.org/): Browser plugin that looks for open access versions of publications behind paywalls.
-- [SCIENCE HUB MUTUAL AID](https://www.wosonhj.com/): A mutual aid forum for academic literature which uses a point-based system for requests.
-- [UNPAYWALL](https://unpaywall.org/): As an alternative to SciHub, consider Unpaywall.
-- [WAYBACK MACHINE](https://web.archive.org/): The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites. Visitors to the Wayback Machine can type in a URL, select a date range, and then begin surfing on an archived version of the Web. Imagine surfing circa 1999 and looking at all the Y2K hype, or revisiting an older version of your favorite Web site. The Internet Archive Wayback Machine can make all of this possible. You can also submit websites to the archive to ensure future accessibility. 
-- [THE WIKIPEDIA LIBRARY](https://wikipedialibrary.wmflabs.org/): Over 90 of the world's top subscription-only databases, with content in 33 languages, are available free for Wikipedia editors meeting a set of very easy requirements.
-- [WIKIPEDIA RESOURCE EXCHANGE](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Resource_Exchange): A mutual aid effort by Wikipedia for resource sharing.
 
 #### AI Tools for Reading Comprehension and Summarisers
 - [ARTICLE SUMMARIZER](https://summary.arguflow.gg/): A simple webapp for summarising academic papers.
@@ -1721,18 +1732,6 @@ See [Digital Libraries](#digital-libaries) for a list of digital sources and dir
 - [PAPYRI](https://papyri.info/): The Papyrological Navigator (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the Papyrological Editor (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images.
 - [THE SIFTER](https://thesifter.org/): A free website for searching and comparing authors, their works and the details of their works regarding food and related topics worldwide and throughout history.
 - [VRW](https://www.victorianresearch.org/openaccessperiodicals.html): Open Access 19th-century Periodicals.
-
-### Neuroscience
-- [3D BRAIN](https://www.instructables.com/3D-print-your-own-brain/): Do you have an anatomical scan of your brain and access to a 3D-printer? Follow this easy tutorial to print your own brain.
-- [BRAIN CODE SELECTOR](https://sidchop.shinyapps.io/braincode_selector/): This tool summarized tools to visualize brain data in R, Python, and Matlab.
-- [DICOMTAGS](https://exiftool.org/TagNames/DICOM.html): Do you want to know where specific information is saved in the DICOM file of your imaging data. Check out DICOM Tags.
-- [EDUCORTEX](https://paulscotti.github.io/educortex/): This handy educational, browser-based visualization tool allows you to enter any functional or anatomical term and visualize the parts of the brain that are most associated with that term. Check the [GitHub repository](https://github.com/PaulScotti/educortex) or corresponding [paper](https://jose.theoj.org/papers/10.21105/jose.00075).
-- [ETYMOLOGY OF THE BRAIN](https://twitter.com/etymology_nerd/status/1515312745125584896?s=20): Want to know how some parts of the brain got their names? Check out this cool image.
-- [FMRI COURSE](https://ucl.podia.com/designing-and-analysing-fmri-experiments): Learn how to design and analyze fMRI experiments in this free course.
-- [FSBRAIN](https://cran.r-project.org/web/packages/fsbrain/vignettes/fsbrain.html): This R package "helps visualize surface-based brain structure data for large groups of subjects with very little code" and "also supports the computation of simple brain morphometry measures".
-- [LIST OF NEUROSCIENCE DATABASES](https://en.wikipedia.org/wiki/List_of_neuroscience_databases): A comprehensive Wikipedia list of Neuroscience databases.
-- [NEUROQUERY](https://neuroquery.org/): NeuroQuery is a tool for meta-analysis of neuroimaging studies, relating text queries to activations as well as associations between terms used together in neuroimaging publications. More info in the corresponding [paper](https://elifesciences.org/articles/53385). 
-- [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
 
 ### Physical Geography
 - [STAGLAB](https://www.fabiocrameri.ch/staglab/): The easy-to-use, testable and fully reproducible collection of geodynamic diagnostics for mantle convection models.
