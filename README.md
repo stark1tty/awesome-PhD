@@ -307,7 +307,7 @@ Important list items are marked with a ⭐.
 [▲ Top](#navigation)
 
 ### PhD Applications
-See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
+*See aLso: [Job and Academic Post Boards](#job-and-academic-post-boards).**
 
 - [A COMPARISON OF EUROPEAN AND US BASED PHD EDUCATION](https://medium.com/@phdinformation.usa/comparison-of-european-and-us-based-phd-education-4753c97c2c95#:~:text=European%20PhDs%20tend%20to%20have,their%20time%20as%20graduate%20students.&text=The%20duration%20for%20completing%20a,for%20a%20full%2Dtime%20program.): Blog post that sussinctly breaks down the differences between PhD expectations for the US and Europe.
 - [PI REVIEW](https://pi-review.com/): A website for PhD students to review their PIs. Know who you are getting involved with from the horse's mouth.
@@ -791,6 +791,8 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 #### Literary Search Engines
+*See also: [Literary Mapping](#literary-mapping).*
+
 - [⭐️BASE](https://www.base-search.net/?l=en): One of the world's most voluminous search engines especially for academic web resources. You can access the full texts of about 60% of the indexed documents for free (Open Access). BASE is operated by Bielefeld University Library.
 - [CAS SCIFINDER](https://www.cas.org/solutions/cas-scifinder-discovery-platform/cas-scifinder-n): More than a literature and chemical compound database, CAS SciFindern leverages human curation to deliver relevant, actionable insights so you can innovate faster.
 - [GET THE RESEARCH](https://gettheresearch.org/): Clean, simple academic search engine with an open access toggle. Leverages Open Access and AI to help nonspecialists find, read, and understand scholarly research.
