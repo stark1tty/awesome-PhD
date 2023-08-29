@@ -290,15 +290,19 @@ Important list items are marked with a ⭐.
 
 [▲ Top](#navigation)
 
-#### Job and Academic Opportunities
+#### Job and Academic Post Boards
+- [ACADEMIC JOBS EU](https://www.academicjobseu.com/default.asp): Self proclaimed leading job board for academic jobs in Europe.
+- [FINDAMASTERS](https://www.findamasters.com/): FindAMasters is a directory of Masters degrees and postgraduate qualifications at universities around the world.
+- [FINDAPOSTDOC](https://www.findapostdoc.com/): FindAPostDoc is dedicated to listing jobs for new and recently qualified PhDs.
+- [JOBRXIV](https://jobrxiv.org/): Job board for academics and funded graduate student opportunities, including PhDs and research fellowships.
+- [JOBS.AC.UK](https://www.jobs.ac.uk/): A leading international job board for careers in academic, research, science and related professions. Mostly for posts in the UK and some of Europe.
+- [NATURE CAREERS](https://www.nature.com/naturecareers/): Higher profile postings from Nature; international.
+- [PHD SEARCH](https://www.findaphd.com/phds/): Search engine for finding funded PhD opportunities mostly in the UK.
+- [STUDY PORTALS](https://studyportals.com/): Studyportals began as a spin-off from a couple of large international study associations. It's network includes Bachelorsportal.com, PhDportal.com, Shortcoursesportal.com, and Distancelearningportal.com.
 
 [▲ Top](#navigation)
 
 #### Beyond Academia
-
-[▲ Top](#navigation)
-
-### Job and Academic Post Boards
 
 [▲ Top](#navigation)
 
@@ -312,9 +316,6 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 ## III. Financial Planning
-
-[▲ Top](#navigation)
-
 ### Personal Budgeting
 
 [▲ Top](#navigation)
@@ -668,6 +669,10 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 
 ## XI. Additional Tools and Resources
 ### Legal and Ethical Resources
+- [BEYOND EXPERIENCE](https://www.goodreads.com/book/show/3896445-beyond-experience): Shedding light on a subject that too often seems mysterious and remote, Norman Swartz puts a human face on the study of metaphysics. Among the areas considered are space and time, mental states and brain states, the nature of theories, pain, identity, the concepts of person and property, and the search for extraterrestrial intelligence.
+- [ETHICAL CONDUCT FOR RESEARCH INVOLVING HUMANS](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html): Guidance from the Canadian government on things to consider.
+- [GDPR AND TAKING PHOTOGRAPHS IN PUBLIC SPACES AND AT LARGE EVENTS](https://suzannedibble.com/gdpr-and-taking-photographs-in-public-places-at-large-events/): A GDPR crash course.
+- [MORAL THEORY](https://www.google.com.au/books/edition/Moral_Theory/41VYEAAAQBAJ?hl=en): Moral Theory: An Introduction explores some of the historically most important and currently debated moral theories about the nature of the right and the good, including divine command theory, relativism, natural law theory, consequentialism, egoism, Kant’s ethics, ethics of prima facie duties, contractualism, virtue ethics and care ethics.
 
 [▲ Top](#navigation)
 
@@ -939,16 +944,6 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 #### Interviews
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 
-#### Job and Academic Post Boards
-- [ACADEMIC JOBS EU](https://www.academicjobseu.com/default.asp): Self proclaimed leading job board for academic jobs in Europe.
-- [FINDAMASTERS](https://www.findamasters.com/): FindAMasters is a directory of Masters degrees and postgraduate qualifications at universities around the world.
-- [FINDAPOSTDOC](https://www.findapostdoc.com/): FindAPostDoc is dedicated to listing jobs for new and recently qualified PhDs.
-- [JOBRXIV](https://jobrxiv.org/): Job board for academics and funded graduate student opportunities, including PhDs and research fellowships.
-- [JOBS.AC.UK](https://www.jobs.ac.uk/): A leading international job board for careers in academic, research, science and related professions. Mostly for posts in the UK and some of Europe.
-- [NATURE CAREERS](https://www.nature.com/naturecareers/): Higher profile postings from Nature; international.
-- [PHD SEARCH](https://www.findaphd.com/phds/): Search engine for finding funded PhD opportunities mostly in the UK.
-- [STUDY PORTALS](https://studyportals.com/): Studyportals began as a spin-off from a couple of large international study associations. It's network includes Bachelorsportal.com, PhDportal.com, Shortcoursesportal.com, and Distancelearningportal.com.
-
 #### Transitioning Out of Academia
 - [AWESOME CTO](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
 - [HOW TO BE A CONSULTANT, A FREELANCER, OR INDEPENDENT CONTRACTOR](https://jacquesmattheij.com/be-consultant/): This is a series of pages that guide you through the creation and operation of a successful consulting business.
@@ -1158,12 +1153,6 @@ range of research areas that utilize single-case designs, demonstrating the pert
 - [GITHUB CHEATSHEET](https://twitter.com/NikkiSiapno/status/1593882400983072769?t=iOvK_Nm0pe4DrpNL9C0njw&s=19): Confused by commit, stage, stash, fetch, etc. on GitHub? Here's the sheet for you.
 - [JUPYTER NOTEBOOK CHEATSHEET](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
 - [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
-
-### Legal and Ethics
-- [BEYOND EXPERIENCE](https://www.goodreads.com/book/show/3896445-beyond-experience): Shedding light on a subject that too often seems mysterious and remote, Norman Swartz puts a human face on the study of metaphysics. Among the areas considered  are space and time, mental states and brain states, the nature of theories, pain, identity, the concepts of person and property, and the search for extraterrestrial intelligence.
-- [ETHICAL CONDUCT FOR RESEARCH INVOLVING HUMANS](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html): Guidance from the Canadian government on things to consider.
-- [GDPR AND TAKING PHOTOGRAPHS IN PUBLIC SPACES AND AT LARGE EVENTS](https://suzannedibble.com/gdpr-and-taking-photographs-in-public-places-at-large-events/): A GDPR crash course.
-- [MORAL THEORY](https://www.google.com.au/books/edition/Moral_Theory/41VYEAAAQBAJ?hl=en): Moral Theory: An Introduction explores some of the historically most important and currently debated moral theories about the nature of the right and the good, including divine command theory, relativism, natural law theory, consequentialism, egoism, Kant’s ethics, ethics of prima facie duties, contractualism, virtue ethics and care ethics.
 
 ### Laboratory Tools
 
