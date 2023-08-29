@@ -380,10 +380,8 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 #### Disability-Friendly Tools
-
-[▲ Top](#navigation)
-
-#### Language Translation
+- [ECOUTE](https://github.com/SevaSk/ecoute): Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation. Good for prompting those with social anxiety, hearing issues and other disabilities.
+- [FREE TTS](https://www.text-to-speech.online/): A free speech service feature that converts text to lifelike speech.
 
 [▲ Top](#navigation)
 
@@ -396,24 +394,43 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 #### Designing Research
+
 [▲ Top](#navigation)
+
 #### Ensuring Reproducibility
+
 [▲ Top](#navigation)
+
 ### Data Management
+
 [▲ Top](#navigation)
+
 #### Gathering Data
+
 [▲ Top](#navigation)
+
 ##### Survey Tools
+
 [▲ Top](#navigation)
+
 #### Version Control and Storage
+
 [▲ Top](#navigation)
+
 #### Available Datasets
+
 [▲ Top](#navigation)
+
 #### Data Cleaning Techniques
+
 [▲ Top](#navigation)
+
 #### Digitalization Methods
+
 [▲ Top](#navigation)
+
 #### Web Scraping Tools
+
 [▲ Top](#navigation)
 
 ## VI. Events and Networking
@@ -435,146 +452,269 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 ## VII. Technology and Coding
-[▲ Top](#navigation)
 ### Digital Tools
+
 [▲ Top](#navigation)
+
 #### Data Backup Solutions
+
 [▲ Top](#navigation)
+
 #### Developer Utilities
+
 [▲ Top](#navigation)
+
 #### Version Control with Git
+
 [▲ Top](#navigation)
+
 #### Essential Shortcuts
+
 [▲ Top](#navigation)
+
 ##### For Windows Users
+
 [▲ Top](#navigation)
+
 #### Learning Programming
+
 [▲ Top](#navigation)
+
 ##### General Resources
+
 [▲ Top](#navigation)
+
 ##### LaTeX Tutorials
+
 [▲ Top](#navigation)
+
 ##### Markdown Guides
+
 [▲ Top](#navigation)
+
 ##### Python Learning
+
 [▲ Top](#navigation)
+
 ##### R Programming
+
 [▲ Top](#navigation)
+
 #### Miscellaneous Libraries
+
 [▲ Top](#navigation)
+
 #### Office Suite Tools
+
 [▲ Top](#navigation)
+
 #### Automating Tasks
+
 [▲ Top](#navigation)
+
 #### Digital Utilities
+
 [▲ Top](#navigation)
 
 ## VIII. Discipline-Specific Resources
-[▲ Top](#navigation)
 ### Natural Sciences
+
 [▲ Top](#navigation)
+
 #### Archaeology
+
 [▲ Top](#navigation)
+
 #### Biology
+
 [▲ Top](#navigation)
+
 #### Ecology
+
 [▲ Top](#navigation)
+
 #### Environmental Research
+
 [▲ Top](#navigation)
+
 #### Neuroscience
+
 [▲ Top](#navigation)
+
 #### Geography
+
 [▲ Top](#navigation)
+
 ### Humanities and Social Sciences
+
 [▲ Top](#navigation)
+
 #### Cognitive Studies
+
 [▲ Top](#navigation)
+
 #### Discourse Analysis
+
 [▲ Top](#navigation)
+
 #### Galleries, Libraries, Archives, and Museums (GLAMS)
+
 [▲ Top](#navigation)
+
 #### History
+
 [▲ Top](#navigation)
+
 #### Psychology
+
 [▲ Top](#navigation)
+
 #### Psychophysiology
+
 [▲ Top](#navigation)
+
 #### Religious Studies
+
 [▲ Top](#navigation)
+
 ### Research Tools and Methods
+
 [▲ Top](#navigation)
+
 #### Stimulus Resources
+
 [▲ Top](#navigation)
 
 ## IX. Communication and Public Engagement
-[▲ Top](#navigation)
 ### Engaging the Public
+
 [▲ Top](#navigation)
+
 #### Outreach Tips
+
 [▲ Top](#navigation)
+
 #### Reference Materials
+
 [▲ Top](#navigation)
+
 #### Engagement Resources
+
 [▲ Top](#navigation)
+
 #### Media Platforms
+
 [▲ Top](#navigation)
+
 #### Engagement Platforms
+
 [▲ Top](#navigation)
+
 ### Publishing and Dissemination
+
 [▲ Top](#navigation)
+
 #### General Publishing
+
 [▲ Top](#navigation)
+
 #### Writing and Publishing Tips
+
 [▲ Top](#navigation)
+
 #### Authorship Guidelines
+
 [▲ Top](#navigation)
+
 #### Promoting Research
+
 [▲ Top](#navigation)
+
 #### Publication Tools
+
 [▲ Top](#navigation)
 
 ## X. Support Groups
-[▲ Top](#navigation)
 ### Mental Health and Mindfulness
+
 [▲ Top](#navigation)
+
 #### Ambient Soundscapes
+
 [▲ Top](#navigation)
+
 #### Self-Care Resources
+
 [▲ Top](#navigation)
 
 ## XI. Additional Tools and Resources
-[▲ Top](#navigation)
 ### Legal and Ethical Resources
+
 [▲ Top](#navigation)
+
 ### Lab Equipment and Tools
+
 [▲ Top](#navigation)
+
 #### Collaborative Platforms
+
 [▲ Top](#navigation)
+
 #### Electronic Devices
+
 [▲ Top](#navigation)
+
 #### Imaging Equipment
+
 [▲ Top](#navigation)
+
 #### Microscopy Tools
+
 [▲ Top](#navigation)
+
+
 #### Wet Lab Equipment
+
 [▲ Top](#navigation)
+
 ### Literary Resources
+
 [▲ Top](#navigation)
+
 #### Accessibility Tools
+
 [▲ Top](#navigation)
+
 #### AI Reading Aids
+
 [▲ Top](#navigation)
+
 #### Literary Analysis
+
 [▲ Top](#navigation)
+
 #### Book Retailers
+
 [▲ Top](#navigation)
+
 #### Dictionaries and Thesauri
+
 [▲ Top](#navigation)
+
 #### Online Libraries
+
 [▲ Top](#navigation)
+
 #### Directories and Listings
+
 [▲ Top](#navigation)
+
 #### Encyclopedias and Wikis
+
+[▲ Top](#navigation)
+
+#### Language Translation
+
 [▲ Top](#navigation)
 
 #### Publication Impact
@@ -743,12 +883,6 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 # Unsorted
 
 ### Accessibility and Inclusion
-
-#### Text to Speech
-- [FREE TTS](https://www.text-to-speech.online/): A free speech service feature that converts text to lifelike speech.
-
-#### Tools for Disabilities
-- [ECOUTE](https://github.com/SevaSk/ecoute): Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation. Good for prompting those with social anxiety, hearing issues and other disabilities.
 
 #### Translators
 - [DEEPL](https://www.deepl.com/en/translator): Translator that outperforms Google Translator, albeit more limited language selection.
