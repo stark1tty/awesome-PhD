@@ -791,21 +791,22 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 [▲ Top](#navigation)
 
 #### Literary Search Engines
-- [BASE](https://www.base-search.net/?l=en): One of the world's most voluminous search engines especially for academic web resources. You can access the full texts of about 60% of the indexed documents for free (Open Access). BASE is operated by Bielefeld University Library.
+- [⭐️BASE](https://www.base-search.net/?l=en): One of the world's most voluminous search engines especially for academic web resources. You can access the full texts of about 60% of the indexed documents for free (Open Access). BASE is operated by Bielefeld University Library.
 - [CAS SCIFINDER](https://www.cas.org/solutions/cas-scifinder-discovery-platform/cas-scifinder-n): More than a literature and chemical compound database, CAS SciFindern leverages human curation to deliver relevant, actionable insights so you can innovate faster.
 - [GET THE RESEARCH](https://gettheresearch.org/): Clean, simple academic search engine with an open access toggle. Leverages Open Access and AI to help nonspecialists find, read, and understand scholarly research.
-- [FATCAT!](https://fatcat.wiki/): Fatcat is a versioned, publicly-editable catalog of research publications: journal articles, conference proceedings, pre-prints, blog posts, and so forth. The goal is to improve the state of preservation and access to these works by providing a manifest of full-text content versions and locations.
-- [IEEE XPLORE](https://ieeexplore.ieee.org/Xplore/home.jsp): The IEEE Xplore digital library is a powerful resource for discovery of scientific and technical content published by the IEEE (Institute of Electrical and Electronics Engineers) and its publishing partners.
+- [⭐️GOOGLE SCHOLAR](https://scholar.google.com/): One of the most popular search engines, allows for limited saving and reference managing via a Google account. 
+- [FATCAT!](https://fatcat.wiki/): Fatcat is a versioned, publicly editable catalogue of research publications: journal articles, conference proceedings, pre-prints, blog posts, etc. The goal is to improve the state of preservation and access to these works by providing a manifest of full-text content versions and locations.
+- [IEEE XPLORE](https://ieeexplore.ieee.org/Xplore/home.jsp): The IEEE Xplore digital library is a powerful resource for the discovery of scientific and technical content published by the IEEE (Institute of Electrical and Electronics Engineers) and its publishing partners.
 - [INSPIRE HEP](https://inspirehep.net/): INSPIRE is a trusted community hub that helps researchers to share and find accurate scholarly information in high energy physics.
-- [INTERNET ARCHIVE SCHOLAR](https://scholar.archive.org/): This fulltext search index includes over 25 million research articles and other scholarly documents preserved in the Internet Archive. The collection spans from digitized copies of eighteenth century journals through the latest Open Access conference proceedings and pre-prints crawled from the World Wide Web. 
-- [LENS](https://www.lens.org/lens/): The Lens serves integrated scholarly and patent knowledge as a public good to inform science and technology enabled problem solving.
+- [⭐️INTERNET ARCHIVE SCHOLAR](https://scholar.archive.org/): This fulltext search index includes over 25 million research articles and other scholarly documents preserved in the Internet Archive. The collection spans from digitized copies of eighteenth-century journals through the latest Open Access conference proceedings and pre-prints crawled from the World Wide Web. 
+- [LENS](https://www.lens.org/lens/): The Lens serves integrated scholarly and patent knowledge as a public good to inform science and technology-enabled problem-solving.
 - [NIH ICITE](https://icite.od.nih.gov/): iCite is a tool to access a dashboard of bibliometrics for papers associated with a portfolio. Users type in a PubMed query or upload the PubMed IDs of articles of interest. iCite has three modules: Influence, Translation, and Open Citations.
-- [OPENALEX](https://openalex.org/): FOSS catalog of the global research system featuring API access for developers.
+- [⭐️OPENALEX](https://openalex.org/): FOSS catalog of the global research system featuring API access for developers.
 - [PAPERSWITHCODE](https://paperswithcode.com/): The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables.
 - [The SAO/NASA Astrophysics Data System](https://ui.adsabs.harvard.edu/): The ADS maintains three bibliographic collections containing more than 15 million records covering publications in astronomy and astrophysics, physics, and general science, including all arXiv e-prints. 
 - [SCINAPSE](https://www.scinapse.io/): Our tool extracts valuable information such as related topics, companies, and patent data from each paper. Through our database, we provide a more comprehensive research experience.
-- [SEMANTIC SCHOLAR](https://www.semanticscholar.org/): A free, AI-powered research tool for scientific literature.
-- [WEB OF SCIENCE](https://www.webofknowledge.com/): The Web of Science contains a remarkable treasure of data on scientific content, impact, and collaborations from 1900 to the present day on a global scale. 
+- [⭐️SEMANTIC SCHOLAR](https://www.semanticscholar.org/): A free, AI-powered research tool for scientific literature.
+- [⭐️WEB OF SCIENCE](https://www.webofknowledge.com/): The Web of Science contains a remarkable treasure of data on scientific content, impact, and collaborations from 1900 to the present day on a global scale. 
 - [WORLDWIDESCIENCE](https://worldwidescience.org/index.html): WorldWideScience.org is a global science gateway—accelerating scientific discovery and progress through a multilateral partnership to enable federated searching of national and international scientific databases and portals.
 
 [▲ Top](#navigation)
