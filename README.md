@@ -60,6 +60,7 @@ An awesome list of advice, tools, and guides for the PhD journey.
 <!-- /MarkdownTOC -->
 
 ---
+---
 
 # I. Overview
 
@@ -242,6 +243,10 @@ Important list items are marked with a ⭐.
 
 [▲ Top](#navigation)
 
+### Meta Guides for the PhD Process
+
+[▲ Top](#navigation)
+
 #### News and Blogs
 - [NATURE CAREERS](https://www.nature.com/careers): Articles and advice from the journal Nature about academic life.
 - [REASEARCHBUZZ](https://researchbuzz.me/): News and resources about search engines, databases, social media, and more.
@@ -269,7 +274,11 @@ Important list items are marked with a ⭐.
 
 [▲ Top](#navigation)
 
-#### Resume Building
+#### CV and Resume Building
+- [CV MAKER](https://www.cvmaker.uk/): An inexpensive, paid CV formatting tool for generating colourful, professional looking resumes.
+- [OPEN-RESUME](https://github.com/xitanggg/open-resume): OpenResume is a powerful free, open-source resume builder and resume parser.
+- [REACTIVE RESUME](https://rxresu.me/): Reactive Resume is a free and open source resume builder that's built to make the mundane tasks of creating, updating and sharing your resume as easy as 1, 2, 3. With this app, you can create multiple resumes, share them with recruiters or friends through a unique link and print it as a PDF, all for free, no ads, no tracking, without losing the integrity and privacy of your data.
+- [SWIFTCOVER](https://swiftcover.ai/): AI cover letter generator; help for improving your template.
 
 [▲ Top](#navigation)
 
@@ -289,11 +298,16 @@ Important list items are marked with a ⭐.
 
 [▲ Top](#navigation)
 
-### Guides for PhD Students
+### Job and Academic Post Boards
 
 [▲ Top](#navigation)
 
 ### PhD Applications
+See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
+
+- [A COMPARISON OF EUROPEAN AND US BASED PHD EDUCATION](https://medium.com/@phdinformation.usa/comparison-of-european-and-us-based-phd-education-4753c97c2c95#:~:text=European%20PhDs%20tend%20to%20have,their%20time%20as%20graduate%20students.&text=The%20duration%20for%20completing%20a,for%20a%20full%2Dtime%20program.): Blog post that sussinctly breaks down the differences between PhD expectations for the US and Europe.
+- [PI REVIEW](https://pi-review.com/): A website for PhD students to review their PIs. Know who you are getting involved with from the horse's mouth.
+- [WHAT YOU NEED TO KNOW BEFORE CONSIDERING A PHD](https://www.fast.ai/posts/2018-08-27-grad-school.html): Frank advice from a data scientist.
 
 [▲ Top](#navigation)
 
@@ -346,22 +360,22 @@ Important list items are marked with a ⭐.
 [▲ Top](#navigation)
 
 #### Resource Guides
-
-[▲ Top](#navigation)
-
-#### Support for Global South
+- [EQUITY COMPASS](https://www.futurelearn.com/courses/equity-informal-stem-learning-using-the-equity-compass): A great free online course called "Equity in Informal STEM Learning: Using the Equity Compass" on how to be more inclusive.
 
 [▲ Top](#navigation)
 
 #### Indigenous Communities
+- [COLLABORATIVE INDIGENOUS RESEARCH DIGITAL GARDEN](): The Digital Garden is designed to bring together two fields of research: participatory research and Indigenous research. The website includes profiles of nearly 200 different Collaborative Indigenous Research projects.
 
 [▲ Top](#navigation)
 
 #### Support for Learning Disabilities
+- [HOW TO UNF*CK YOUR LIFE WHEN YOU HAVE ADHD](https://docs.google.com/document/d/11-MQhgwwFIW5JGvQqmNtE1zDabNF_IBsPE-5_odw_I8/edit): A resource guide tailored to university students with ADHD.
 
 [▲ Top](#navigation)
 
 #### Refugee Assistance
+- [SCIENCE4REFUGEES](https://euraxess.ec.europa.eu/jobs/science4refugees): The Science4Refugees initiative and EURAXESS portal provide research refugee friendly internships, part-time and full-time jobs, access to a European Research Community, as well as a complete range of information and support services on working and living in Europe.
 
 [▲ Top](#navigation)
 
@@ -403,14 +417,21 @@ Important list items are marked with a ⭐.
 [▲ Top](#navigation)
 
 ## VI. Events and Networking
-[▲ Top](#navigation)
 ### Conferences and Workshops
+
 [▲ Top](#navigation)
+
 #### Upcoming Events
+
 [▲ Top](#navigation)
+
 #### Participation Tips
+
 [▲ Top](#navigation)
+
 #### Event Management Tools
+- [CONFERENCE ORGANISING TIPS](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/): Tips for conference organisers for inclusivity for the Global South.
+
 [▲ Top](#navigation)
 
 ## VII. Technology and Coding
@@ -723,21 +744,6 @@ Important list items are marked with a ⭐.
 
 ### Accessibility and Inclusion
 
-#### Guides
-- [EQUITY COMPASS](https://www.futurelearn.com/courses/equity-informal-stem-learning-using-the-equity-compass): A great free online course called "Equity in Informal STEM Learning: Using the Equity Compass" on how to be more inclusive.
-
-#### Global South
-- [CONFERENCE ORGANISING TIPS](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/): Tips for conference organisers for inclusivity for the Global South.
-
-#### Indigenous
-- [COLLABORATIVE INDIGENOUS RESEARCH DIGITAL GARDEN](): The Digital Garden is designed to bring together two fields of research: participatory research and Indigenous research. Website includes profiles of nearly 200 different Collaborative Indigenous Research projects.
-
-#### Learning Disabilities
-- [HOW TO UNF*CK YOUR LIFE WHEN YOU HAVE ADHD](https://docs.google.com/document/d/11-MQhgwwFIW5JGvQqmNtE1zDabNF_IBsPE-5_odw_I8/edit): A resource guide tailored to university students with ADHD.
-
-#### Refugees
-- [SCIENCE4REFUGEES](https://euraxess.ec.europa.eu/jobs/science4refugees): The Science4Refugees initiative and EURAXESS portal provide research refugee friendly internships, part-time and full-time jobs, access to a European Research Community, as well as a complete range of information and support services on working and living in Europe. 
-
 #### Text to Speech
 - [FREE TTS](https://www.text-to-speech.online/): A free speech service feature that converts text to lifelike speech.
 
@@ -746,13 +752,6 @@ Important list items are marked with a ⭐.
 
 #### Translators
 - [DEEPL](https://www.deepl.com/en/translator): Translator that outperforms Google Translator, albeit more limited language selection.
-
-### Application Resources
-See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
-
-- [A COMPARISON OF EUROPEAN AND US BASED PHD EDUCATION](https://medium.com/@phdinformation.usa/comparison-of-european-and-us-based-phd-education-4753c97c2c95#:~:text=European%20PhDs%20tend%20to%20have,their%20time%20as%20graduate%20students.&text=The%20duration%20for%20completing%20a,for%20a%20full%2Dtime%20program.): Blog post that sussinctly breaks down the differences between PhD expectations for the US and Europe.
-- [PI REVIEW](https://pi-review.com/): A website for PhD students to review their PIs. Know who you are getting involved with from the horse's mouth.
-- [WHAT YOU NEED TO KNOW BEFORE CONSIDERING A PHD](https://www.fast.ai/posts/2018-08-27-grad-school.html): Frank advice from a data scientist.
 
 ### Budgeting
 
@@ -764,12 +763,6 @@ See also: [Job and Academic Post Boards](#job-and-academic-post-boards).
 #### Money Saving Tips
 
 ### Career
-
-#### CV and Resume Tools
-- [CV MAKER](https://www.cvmaker.uk/): An inexpensive, paid CV formatting tool for generating colourful, professional looking resumes.
-- [OPEN-RESUME](https://github.com/xitanggg/open-resume): OpenResume is a powerful free, open-source resume builder and resume parser.
-- [REACTIVE RESUME](https://rxresu.me/): Reactive Resume is a free and open source resume builder that's built to make the mundane tasks of creating, updating and sharing your resume as easy as 1, 2, 3. With this app, you can create multiple resumes, share them with recruiters or friends through a unique link and print it as a PDF, all for free, no ads, no tracking, without losing the integrity and privacy of your data.
-- [SWIFTCOVER](https://swiftcover.ai/): AI cover letter generator; help for improving your template.
 
 #### Development
 - [EURAXESS VITAE](https://www.vitae.ac.uk/): Vitae is the global leader in supporting the professional development of researchers, experienced in working with institutions as they strive for research excellence, innovation, and impact. UK based.
